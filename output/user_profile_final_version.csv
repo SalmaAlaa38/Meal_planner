@@ -1,0 +1,1699 @@
+user_id,age,gender,height,weight,activity_level,dietary_preference,BMI,obesity_level,goal,TDEE,daily_cals_goal,protein_g,carbs_g,fats_g
+1,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+2,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+3,48,Male,175,95,Sedentary,Vegan,31.02,obese,loss_weight,2170.5,1670.5,217.05,162.79,72.35
+4,55,Female,160,70,Very Active,Omnivore,27.34,overweight,loss_weight,2180.4,1680.4,218.04,163.53,72.68
+5,62,Male,170,85,Sedentary,Vegetarian,29.41,overweight,loss_weight,1929.0,1429.0,192.9,144.67,64.3
+6,68,Female,155,60,Lightly Active,Vegan,24.97,healthy weight,mainten_weight,1468.16,1468.16,110.11,146.82,48.94
+7,28,Male,190,100,Moderately Active,Omnivore,27.7,overweight,loss_weight,3181.38,2681.38,318.14,238.6,106.05
+8,35,Female,170,75,Very Active,Vegetarian,25.95,overweight,loss_weight,2546.96,2046.96,254.7,191.02,84.9
+9,42,Male,185,110,Moderately Active,Vegan,32.14,obese,loss_weight,3179.44,2679.44,317.94,238.46,105.98
+10,58,Female,168,78,Sedentary,Vegan,27.64,overweight,loss_weight,1654.8,1154.8,165.48,124.11,55.16
+11,25,Male,180,80,Lightly Active,Omnivore,24.69,healthy weight,mainten_weight,2481.88,2481.88,186.14,248.19,82.73
+12,32,Female,165,65,Moderately Active,Vegan,23.88,healthy weight,mainten_weight,2108.39,2108.39,158.13,210.84,70.28
+13,48,Male,175,95,Sedentary,Vegetarian,31.02,obese,loss_weight,2170.5,1670.5,217.05,162.79,72.35
+14,55,Female,160,70,Moderately Active,Omnivore,27.34,overweight,loss_weight,1959.2,1459.2,195.92,146.94,65.31
+15,62,Male,170,85,Very Active,Vegan,29.41,overweight,loss_weight,2772.94,2272.94,277.29,207.97,92.43
+16,28,Female,172,60,Lightly Active,Vegan,20.28,healthy weight,mainten_weight,1889.25,1889.25,141.69,188.93,62.97
+17,35,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3253.78,2753.78,325.38,244.03,108.46
+18,40,Female,168,75,Moderately Active,Vegetarian,26.57,overweight,loss_weight,2230.45,1730.4499999999998,223.04,167.28,74.35
+19,22,Male,190,100,Lightly Active,Omnivore,27.7,overweight,loss_weight,2863.44,2363.44,286.34,214.76,95.45
+20,58,Female,155,68,Sedentary,Vegan,28.3,overweight,loss_weight,1437.3,937.3,143.73,107.8,47.91
+21,24,Female,165,55,Lightly Active,Omnivore,20.2,healthy weight,mainten_weight,1787.84,1787.84,134.09,178.78,59.59
+22,38,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2697.0,2697.0,202.28,269.7,89.9
+23,55,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+24,62,Male,175,95,Moderately Active,Omnivore,31.02,obese,loss_weight,2695.06,2195.06,269.51,202.13,89.84
+25,28,Female,170,65,Very Active,Vegan,22.49,healthy weight,mainten_weight,2434.84,2434.84,182.61,243.48,81.16
+26,45,Male,185,100,Lightly Active,Omnivore,29.22,overweight,loss_weight,2662.34,2162.34,266.23,199.68,88.74
+27,68,Female,155,60,Sedentary,Vegan,24.97,healthy weight,mainten_weight,1281.3,1281.3,96.1,128.13,42.71
+28,32,Male,190,90,Very Active,Omnivore,24.93,healthy weight,mainten_weight,3333.56,3333.56,250.02,333.36,111.12
+29,58,Male,170,85,Moderately Active,Vegetarian,29.41,overweight,loss_weight,2522.62,2022.62,252.26,189.2,84.09
+30,22,Female,160,50,Lightly Active,Vegan,19.53,healthy weight,mainten_weight,1689.88,1689.88,126.74,168.99,56.33
+31,25,Female,165,60,Lightly Active,Omnivore,22.04,healthy weight,mainten_weight,1849.72,1849.72,138.73,184.97,61.66
+32,38,Male,180,85,Moderately Active,Vegetarian,26.23,overweight,loss_weight,2774.5,2274.5,277.45,208.09,92.48
+33,55,Female,160,65,Sedentary,Vegan,25.39,overweight,loss_weight,1456.8,956.8,145.68,109.26,48.56
+34,42,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3333.56,2833.56,333.36,250.02,111.12
+35,62,Female,155,58,Sedentary,Vegan,24.14,healthy weight,mainten_weight,1293.3,1293.3,97.0,129.33,43.11
+36,28,Male,175,70,Moderately Active,Omnivore,22.86,healthy weight,mainten_weight,2571.06,2571.06,192.83,257.11,85.7
+37,31,Female,170,75,Lightly Active,Vegetarian,25.95,overweight,loss_weight,2057.69,1557.69,205.77,154.33,68.59
+38,58,Male,185,90,Moderately Active,Omnivore,26.3,overweight,loss_weight,2745.44,2245.44,274.54,205.91,91.51
+39,22,Female,168,55,Very Active,Vegan,19.49,healthy weight,mainten_weight,2292.53,2292.53,171.94,229.25,76.42
+40,45,Male,182,80,Lightly Active,Omnivore,24.15,healthy weight,mainten_weight,2361.56,2361.56,177.12,236.16,78.72
+41,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+42,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+43,55,Male,175,90,Sedentary,Vegan,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+44,68,Female,160,75,Lightly Active,Omnivore,29.3,overweight,loss_weight,1717.38,1217.38,171.74,128.8,57.25
+45,28,Male,185,95,Very Active,Omnivore,27.76,overweight,loss_weight,3400.41,2900.41,340.04,255.03,113.35
+46,38,Female,170,70,Moderately Active,Vegan,24.22,healthy weight,mainten_weight,2187.83,2187.83,164.09,218.78,72.93
+47,62,Male,170,85,Sedentary,Omnivore,29.41,overweight,loss_weight,1929.0,1429.0,192.9,144.67,64.3
+48,45,Female,168,60,Very Active,Vegetarian,21.26,healthy weight,mainten_weight,2180.4,2180.4,163.53,218.04,72.68
+49,22,Female,172,55,Moderately Active,Vegan,18.59,healthy weight,mainten_weight,2098.7,2098.7,157.4,209.87,69.96
+50,58,Male,178,98,Sedentary,Omnivore,30.93,obese,loss_weight,2169.0,1669.0,216.9,162.67,72.3
+51,25,Male,180,85,Lightly Active,Omnivore,26.23,overweight,loss_weight,2550.62,2050.62,255.06,191.3,85.02
+52,32,Female,165,60,Moderately Active,Vegetarian,22.04,healthy weight,mainten_weight,2030.89,2030.89,152.32,203.09,67.7
+53,48,Male,175,95,Very Active,Omnivore,31.02,obese,loss_weight,3120.09,2620.09,312.01,234.01,104.0
+54,55,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+55,28,Male,185,90,Moderately Active,Vegan,26.3,overweight,loss_weight,2977.94,2477.94,297.79,223.35,99.26
+56,62,Female,155,65,Lightly Active,Omnivore,27.06,overweight,loss_weight,1578.16,1078.16,157.82,118.36,52.61
+57,35,Female,170,75,Very Active,Vegetarian,25.95,overweight,loss_weight,2546.96,2046.96,254.7,191.02,84.9
+58,22,Male,190,80,Moderately Active,Vegan,22.16,healthy weight,mainten_weight,2917.88,2917.88,218.84,291.79,97.26
+59,58,Male,178,100,Sedentary,Omnivore,31.56,obese,loss_weight,2193.0,1693.0,219.3,164.47,73.1
+60,40,Female,168,72,Lightly Active,Vegetarian,25.51,overweight,loss_weight,1937.38,1437.38,193.74,145.3,64.58
+61,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+62,32,Female,165,60,Lightly Active,Vegetarian,22.04,healthy weight,mainten_weight,1801.59,1801.59,135.12,180.16,60.05
+63,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+64,28,Female,170,65,Very Active,Vegan,22.49,healthy weight,mainten_weight,2434.84,2434.84,182.61,243.48,81.16
+65,62,Female,160,70,Lightly Active,Omnivore,27.34,overweight,loss_weight,1689.88,1189.88,168.99,126.74,56.33
+66,21,Male,190,95,Moderately Active,Omnivore,26.32,overweight,loss_weight,3158.12,2658.12,315.81,236.86,105.27
+67,35,Female,168,55,Sedentary,Vegetarian,19.49,healthy weight,mainten_weight,1516.8,1516.8,113.76,151.68,50.56
+68,68,Female,155,65,Lightly Active,Vegetarian,27.06,overweight,loss_weight,1536.91,1036.91,153.69,115.27,51.23
+69,25,Female,165,60,Lightly Active,Omnivore,22.04,healthy weight,mainten_weight,1849.72,1849.72,138.73,184.97,61.66
+70,32,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2821.0,2321.0,282.1,211.57,94.03
+71,48,Female,170,75,Sedentary,Vegetarian,25.95,overweight,loss_weight,1693.8,1193.8,169.38,127.03,56.46
+72,55,Male,175,90,Moderately Active,Vegan,29.39,overweight,loss_weight,2671.81,2171.81,267.18,200.39,89.06
+73,62,Female,160,65,Lightly Active,Vegan,25.39,overweight,loss_weight,1621.12,1121.12,162.11,121.58,54.04
+74,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+75,35,Female,168,55,Sedentary,Vegetarian,19.49,healthy weight,mainten_weight,1516.8,1516.8,113.76,151.68,50.56
+76,42,Male,185,95,Moderately Active,Vegan,27.76,overweight,loss_weight,2946.94,2446.94,294.69,221.02,98.23
+77,21,Female,172,58,Lightly Active,Omnivore,19.61,healthy weight,mainten_weight,1909.88,1909.88,143.24,190.99,63.66
+78,58,Male,178,80,Sedentary,Vegetarian,25.25,overweight,loss_weight,1953.0,1453.0,195.3,146.47,65.1
+79,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+80,38,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1596.3,1596.3,119.72,159.63,53.21
+81,62,Male,175,90,Lightly Active,Omnivore,29.39,overweight,loss_weight,2322.03,1822.0300000000002,232.2,174.15,77.4
+82,45,Female,170,75,Very Active,Vegan,25.95,overweight,loss_weight,2460.71,1960.71,246.07,184.55,82.02
+83,58,Male,178,85,Sedentary,Omnivore,26.83,overweight,loss_weight,2013.0,1513.0,201.3,150.97,67.1
+84,22,Female,160,55,Moderately Active,Vegetarian,21.48,healthy weight,mainten_weight,1982.45,1982.45,148.68,198.25,66.08
+85,68,Male,170,70,Lightly Active,Omnivore,24.22,healthy weight,mainten_weight,1962.81,1962.81,147.21,196.28,65.43
+86,30,Female,168,60,Very Active,Vegan,21.26,healthy weight,mainten_weight,2309.78,2309.78,173.23,230.98,76.99
+87,55,Female,165,78,Sedentary,Vegetarian,28.65,overweight,loss_weight,1650.3,1150.3,165.03,123.77,55.01
+88,28,Male,185,100,Moderately Active,Omnivore,29.22,overweight,loss_weight,3132.94,2632.94,313.29,234.97,104.43
+89,25,Female,165,60,Lightly Active,Omnivore,22.04,healthy weight,mainten_weight,1849.72,1849.72,138.73,184.97,61.66
+90,32,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2821.0,2321.0,282.1,211.57,94.03
+91,55,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+92,40,Male,190,95,Very Active,Vegan,26.32,overweight,loss_weight,3350.81,2850.81,335.08,251.31,111.69
+93,62,Male,175,80,Moderately Active,Omnivore,26.12,overweight,loss_weight,2462.56,1962.56,246.26,184.69,82.09
+94,28,Female,170,55,Sedentary,Vegan,19.03,healthy weight,mainten_weight,1573.8,1573.8,118.03,157.38,52.46
+95,38,Female,168,65,Lightly Active,Vegetarian,23.03,healthy weight,mainten_weight,1854.88,1854.88,139.12,185.49,61.83
+96,58,Male,178,85,Moderately Active,Vegan,26.83,overweight,loss_weight,2600.12,2100.12,260.01,195.01,86.67
+97,22,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3365.91,2865.91,336.59,252.44,112.2
+98,45,Female,172,75,Sedentary,Vegan,25.35,overweight,loss_weight,1726.8,1226.8,172.68,129.51,57.56
+99,28,Female,165,55,Lightly Active,Omnivore,20.2,healthy weight,mainten_weight,1760.34,1760.34,132.03,176.03,58.68
+100,55,Male,180,90,Moderately Active,Vegetarian,27.78,overweight,loss_weight,2720.25,2220.25,272.03,204.02,90.67
+101,32,Female,170,60,Very Active,Vegan,20.76,healthy weight,mainten_weight,2314.09,2314.09,173.56,231.41,77.14
+102,22,Male,190,85,Sedentary,Omnivore,23.55,healthy weight,mainten_weight,2319.0,2319.0,173.92,231.9,77.3
+103,62,Female,160,70,Moderately Active,Vegan,27.34,overweight,loss_weight,1904.95,1404.95,190.5,142.87,63.5
+104,25,Male,185,95,Lightly Active,Omnivore,27.76,overweight,loss_weight,2731.09,2231.09,273.11,204.83,91.04
+105,40,Female,175,75,Very Active,Vegetarian,24.49,healthy weight,mainten_weight,2557.74,2557.74,191.83,255.77,85.26
+106,38,Male,178,80,Sedentary,Vegan,25.25,overweight,loss_weight,2073.0,1573.0,207.3,155.47,69.1
+107,20,Female,168,50,Lightly Active,Omnivore,17.72,underweight,gain_muscle,1772.38,2272.38,155.08,199.39,39.39
+108,58,Male,175,85,Moderately Active,Vegetarian,27.76,overweight,loss_weight,2571.06,2071.06,257.11,192.83,85.7
+109,25,Male,175,75,Moderately Active,Omnivore,24.49,healthy weight,mainten_weight,2671.81,2671.81,200.39,267.18,89.06
+110,38,Female,165,60,Lightly Active,Vegetarian,22.04,healthy weight,mainten_weight,1760.34,1760.34,132.03,176.03,58.68
+111,55,Male,180,90,Sedentary,Omnivore,27.78,overweight,loss_weight,2106.0,1606.0,210.6,157.95,70.2
+112,62,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1474.8,974.8,147.48,110.61,49.16
+113,28,Female,170,65,Very Active,Omnivore,22.49,healthy weight,mainten_weight,2434.84,2434.84,182.61,243.48,81.16
+114,32,Male,185,85,Moderately Active,Vegan,24.84,healthy weight,mainten_weight,2869.44,2869.44,215.21,286.94,95.65
+115,68,Male,170,80,Lightly Active,Omnivore,27.68,overweight,loss_weight,2100.31,1600.31,210.03,157.52,70.01
+116,45,Female,165,65,Very Active,Vegetarian,23.88,healthy weight,mainten_weight,2234.31,2234.31,167.57,223.43,74.48
+117,72,Female,155,55,Sedentary,Omnivore,22.89,healthy weight,mainten_weight,1197.3,1197.3,89.8,119.73,39.91
+118,21,Male,190,95,Moderately Active,Omnivore,26.32,overweight,loss_weight,3158.12,2658.12,315.81,236.86,105.27
+119,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+120,30,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1884.09,1884.09,141.31,188.41,62.8
+121,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+122,22,Female,170,55,Very Active,Vegan,19.03,healthy weight,mainten_weight,2314.09,2314.09,173.56,231.41,77.14
+123,60,Female,155,60,Moderately Active,Vegetarian,24.97,healthy weight,mainten_weight,1717.01,1717.01,128.78,171.7,57.23
+124,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+125,35,Female,160,50,Lightly Active,Vegan,19.53,healthy weight,mainten_weight,1600.5,1600.5,120.04,160.05,53.35
+126,48,Male,185,95,Moderately Active,Omnivore,27.76,overweight,loss_weight,2900.44,2400.44,290.04,217.53,96.68
+127,65,Male,170,75,Sedentary,Omnivore,25.95,overweight,loss_weight,1791.0,1291.0,179.1,134.32,59.7
+128,19,Female,168,58,Very Active,Vegan,20.55,healthy weight,mainten_weight,2370.15,2370.15,177.76,237.02,79.0
+129,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+130,38,Female,165,68,Lightly Active,Vegetarian,24.98,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+131,55,Male,175,95,Sedentary,Vegan,31.02,obese,loss_weight,2128.5,1628.5,212.85,159.64,70.95
+132,22,Female,160,55,Very Active,Omnivore,21.48,healthy weight,mainten_weight,2206.28,2206.28,165.47,220.63,73.54
+133,62,Female,168,72,Sedentary,Vegan,25.51,overweight,loss_weight,1558.8,1058.8,155.88,116.91,51.96
+134,30,Male,190,100,Moderately Active,Omnivore,27.7,overweight,loss_weight,3165.88,2665.88,316.59,237.44,105.53
+135,28,Female,170,65,Lightly Active,Vegetarian,22.49,healthy weight,mainten_weight,1940.81,1940.81,145.56,194.08,64.69
+136,40,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3210.66,2710.66,321.07,240.8,107.02
+137,21,Female,168,58,Lightly Active,Vegan,20.55,healthy weight,mainten_weight,1875.5,1875.5,140.66,187.55,62.52
+138,58,Male,178,88,Sedentary,Omnivore,27.77,overweight,loss_weight,2049.0,1549.0,204.9,153.67,68.3
+139,25,Female,165,58,Moderately Active,Omnivore,21.3,healthy weight,mainten_weight,2054.14,2054.14,154.06,205.41,68.47
+140,32,Male,180,85,Lightly Active,Omnivore,26.23,overweight,loss_weight,2502.5,2002.5,250.25,187.69,83.42
+141,55,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+142,40,Male,190,95,Moderately Active,Vegan,26.32,overweight,loss_weight,3010.88,2510.88,301.09,225.82,100.36
+143,68,Female,155,62,Sedentary,Vegan,25.81,overweight,loss_weight,1305.3,805.3,130.53,97.9,43.51
+144,28,Male,175,78,Very Active,Omnivore,25.47,overweight,loss_weight,2999.34,2499.34,299.93,224.95,99.98
+145,35,Female,170,65,Lightly Active,Vegetarian,22.49,healthy weight,mainten_weight,1892.69,1892.69,141.95,189.27,63.09
+146,52,Male,185,100,Very Active,Vegan,29.22,overweight,loss_weight,3279.66,2779.66,327.97,245.97,109.32
+147,22,Female,168,55,Moderately Active,Vegan,19.49,healthy weight,mainten_weight,2059.95,2059.95,154.5,206.0,68.66
+148,47,Male,178,80,Sedentary,Omnivore,25.25,overweight,loss_weight,2019.0,1519.0,201.9,151.42,67.3
+149,28,Female,165,60,Lightly Active,Omnivore,22.04,healthy weight,mainten_weight,1829.09,1829.09,137.18,182.91,60.97
+150,35,Male,180,80,Moderately Active,Vegetarian,24.69,healthy weight,mainten_weight,2720.25,2720.25,204.02,272.03,90.67
+151,55,Female,160,75,Sedentary,Vegan,29.3,overweight,loss_weight,1576.8,1076.8,157.68,118.26,52.56
+152,62,Male,175,90,Moderately Active,Omnivore,29.39,overweight,loss_weight,2617.56,2117.56,261.76,196.32,87.25
+153,22,Female,170,55,Very Active,Omnivore,19.03,healthy weight,mainten_weight,2314.09,2314.09,173.56,231.41,77.14
+154,40,Male,185,100,Lightly Active,Vegetarian,29.22,overweight,loss_weight,2696.72,2196.72,269.67,202.25,89.89
+155,68,Female,155,65,Sedentary,Omnivore,27.06,overweight,loss_weight,1341.3,841.3,134.13,100.6,44.71
+156,70,Male,170,85,Sedentary,Vegan,29.41,overweight,loss_weight,1881.0,1381.0,188.1,141.07,62.7
+157,33,Female,168,70,Very Active,Omnivore,24.8,healthy weight,mainten_weight,2456.4,2456.4,184.23,245.64,81.88
+158,25,Male,190,95,Moderately Active,Vegan,26.32,overweight,loss_weight,3127.12,2627.12,312.71,234.53,104.24
+159,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+160,55,Female,165,70,Sedentary,Vegetarian,25.71,overweight,loss_weight,1554.3,1054.3,155.43,116.57,51.81
+161,32,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3419.81,2919.81,341.98,256.49,113.99
+162,68,Female,170,65,Lightly Active,Vegan,22.49,healthy weight,mainten_weight,1665.81,1665.81,124.94,166.58,55.53
+163,42,Male,185,100,Very Active,Omnivore,29.22,overweight,loss_weight,3365.91,2865.91,336.59,252.44,112.2
+164,58,Female,160,55,Sedentary,Vegan,21.48,healthy weight,mainten_weight,1318.8,1318.8,98.91,131.88,43.96
+165,35,Male,178,85,Lightly Active,Vegetarian,26.83,overweight,loss_weight,2464.69,1964.69,246.47,184.85,82.16
+166,72,Male,175,75,Sedentary,Vegan,24.49,healthy weight,mainten_weight,1786.5,1786.5,133.99,178.65,59.55
+167,48,Female,168,68,Moderately Active,Omnivore,24.09,healthy weight,mainten_weight,2059.95,2059.95,154.5,206.0,68.66
+168,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+169,32,Female,165,60,Sedentary,Vegetarian,22.04,healthy weight,mainten_weight,1572.3,1572.3,117.92,157.23,52.41
+170,55,Female,160,75,Lightly Active,Vegan,29.3,overweight,loss_weight,1806.75,1306.75,180.68,135.51,60.22
+171,40,Male,185,95,Very Active,Omnivore,27.76,overweight,loss_weight,3296.91,2796.91,329.69,247.27,109.9
+172,28,Female,170,70,Moderately Active,Vegetarian,24.22,healthy weight,mainten_weight,2265.33,2265.33,169.9,226.53,75.51
+173,62,Male,175,80,Lightly Active,Omnivore,26.12,overweight,loss_weight,2184.53,1684.5300000000002,218.45,163.84,72.82
+174,35,Female,168,65,Moderately Active,Vegan,23.03,healthy weight,mainten_weight,2114.2,2114.2,158.56,211.42,70.47
+175,22,Male,190,90,Very Active,Omnivore,24.93,healthy weight,mainten_weight,3419.81,3419.81,256.49,341.98,113.99
+176,48,Female,172,78,Sedentary,Vegetarian,26.37,overweight,loss_weight,1744.8,1244.8,174.48,130.86,58.16
+177,21,Male,183,82,Moderately Active,Vegan,24.49,healthy weight,mainten_weight,2888.81,2888.81,216.66,288.88,96.29
+178,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+179,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+180,58,Male,175,95,Sedentary,Omnivore,31.02,obese,loss_weight,2110.5,1610.5,211.05,158.29,70.35
+181,28,Female,170,70,Very Active,Vegan,24.22,healthy weight,mainten_weight,2521.09,2521.09,189.08,252.11,84.04
+182,62,Female,160,75,Sedentary,Vegan,29.3,overweight,loss_weight,1534.8,1034.8,153.48,115.11,51.16
+183,45,Male,185,105,Moderately Active,Omnivore,30.68,obese,loss_weight,3078.69,2578.69,307.87,230.9,102.62
+184,21,Female,168,55,Lightly Active,Vegetarian,19.49,healthy weight,mainten_weight,1834.25,1834.25,137.57,183.43,61.14
+185,68,Male,170,85,Sedentary,Omnivore,29.41,overweight,loss_weight,1893.0,1393.0,189.3,141.97,63.1
+186,35,Female,172,68,Very Active,Vegan,22.99,healthy weight,mainten_weight,2447.78,2447.78,183.58,244.78,81.59
+187,55,Female,158,60,Sedentary,Vegan,24.03,healthy weight,mainten_weight,1381.8,1381.8,103.63,138.18,46.06
+188,25,Female,165,55,Lightly Active,Omnivore,20.2,healthy weight,mainten_weight,1780.97,1780.97,133.57,178.1,59.37
+189,58,Male,180,90,Moderately Active,Vegetarian,27.78,overweight,loss_weight,2697.0,2197.0,269.7,202.28,89.9
+190,32,Female,170,65,Sedentary,Vegan,22.49,healthy weight,mainten_weight,1669.8,1669.8,125.23,166.98,55.66
+191,62,Male,175,85,Very Active,Omnivore,27.76,overweight,loss_weight,2826.84,2326.84,282.68,212.01,94.23
+192,28,Female,160,50,Lightly Active,Vegan,19.53,healthy weight,mainten_weight,1648.62,1648.62,123.65,164.86,54.95
+193,45,Male,185,100,Moderately Active,Omnivore,29.22,overweight,loss_weight,3001.19,2501.19,300.12,225.09,100.04
+194,68,Female,162,60,Sedentary,Vegan,22.86,healthy weight,mainten_weight,1333.8,1333.8,100.03,133.38,44.46
+195,35,Male,190,80,Very Active,Omnivore,22.16,healthy weight,mainten_weight,3135.19,3135.19,235.14,313.52,104.51
+196,21,Female,172,58,Lightly Active,Vegetarian,19.61,healthy weight,mainten_weight,1909.88,1909.88,143.24,190.99,63.66
+197,55,Male,178,82,Moderately Active,Vegan,25.88,overweight,loss_weight,2576.88,2076.88,257.69,193.27,85.9
+198,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+199,32,Female,165,60,Lightly Active,Vegetarian,22.04,healthy weight,mainten_weight,1801.59,1801.59,135.12,180.16,60.05
+200,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+201,68,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1438.8,938.8,143.88,107.91,47.96
+202,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+203,42,Female,170,75,Moderately Active,Vegan,25.95,overweight,loss_weight,2234.33,1734.33,223.43,167.57,74.48
+204,38,Male,185,95,Lightly Active,Omnivore,27.76,overweight,loss_weight,2641.72,2141.72,264.17,198.13,88.06
+205,52,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1512.3,1512.3,113.42,151.23,50.41
+206,22,Female,170,55,Very Active,Vegan,19.03,healthy weight,mainten_weight,2314.09,2314.09,173.56,231.41,77.14
+207,48,Male,175,80,Moderately Active,Omnivore,26.12,overweight,loss_weight,2571.06,2071.06,257.11,192.83,85.7
+208,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+209,38,Female,165,68,Sedentary,Vegetarian,24.98,healthy weight,mainten_weight,1632.3,1632.3,122.42,163.23,54.41
+210,55,Male,175,90,Lightly Active,Omnivore,29.39,overweight,loss_weight,2370.16,1870.1599999999999,237.02,177.76,79.01
+211,62,Female,160,75,Sedentary,Vegan,29.3,overweight,loss_weight,1534.8,1034.8,153.48,115.11,51.16
+212,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+213,32,Female,170,65,Moderately Active,Vegetarian,22.49,healthy weight,mainten_weight,2156.83,2156.83,161.76,215.68,71.89
+214,68,Male,170,80,Lightly Active,Omnivore,27.68,overweight,loss_weight,2100.31,1600.31,210.03,157.52,70.01
+215,21,Female,165,55,Very Active,Vegan,20.2,healthy weight,mainten_weight,2268.81,2268.81,170.16,226.88,75.63
+216,45,Male,185,95,Moderately Active,Omnivore,27.76,overweight,loss_weight,2923.69,2423.69,292.37,219.28,97.46
+217,70,Female,155,60,Sedentary,Vegan,24.97,healthy weight,mainten_weight,1269.3,1269.3,95.2,126.93,42.31
+218,25,Female,165,58,Moderately Active,Omnivore,21.3,healthy weight,mainten_weight,2054.14,2054.14,154.06,205.41,68.47
+219,32,Male,180,90,Lightly Active,Vegetarian,27.78,overweight,loss_weight,2571.25,2071.25,257.12,192.84,85.71
+220,55,Female,160,65,Sedentary,Vegan,25.39,overweight,loss_weight,1456.8,956.8,145.68,109.26,48.56
+221,48,Male,185,105,Very Active,Omnivore,30.68,obese,loss_weight,3400.41,2900.41,340.04,255.03,113.35
+222,38,Male,175,75,Moderately Active,Vegetarian,24.49,healthy weight,mainten_weight,2571.06,2571.06,192.83,257.11,85.7
+223,21,Female,170,60,Lightly Active,Omnivore,20.76,healthy weight,mainten_weight,1920.19,1920.19,144.01,192.02,64.01
+224,58,Male,178,80,Sedentary,Omnivore,25.25,overweight,loss_weight,1953.0,1453.0,195.3,146.47,65.1
+225,70,Female,162,68,Sedentary,Vegan,25.91,overweight,loss_weight,1417.8,917.8,141.78,106.33,47.26
+226,42,Male,190,100,Very Active,Vegetarian,27.7,overweight,loss_weight,3419.81,2919.81,341.98,256.49,113.99
+227,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+228,62,Female,165,70,Lightly Active,Vegan,25.71,overweight,loss_weight,1732.84,1232.84,173.28,129.96,57.76
+229,38,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3368.06,2868.06,336.81,252.6,112.27
+230,45,Female,170,65,Sedentary,Vegetarian,22.49,healthy weight,mainten_weight,1591.8,1591.8,119.38,159.18,53.06
+231,22,Female,160,55,Moderately Active,Vegan,21.48,healthy weight,mainten_weight,1982.45,1982.45,148.68,198.25,66.08
+232,58,Male,175,80,Moderately Active,Omnivore,26.12,overweight,loss_weight,2493.56,1993.56,249.36,187.02,83.12
+233,30,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3296.91,2796.91,329.69,247.27,109.9
+234,28,Female,170,60,Sedentary,Vegetarian,20.76,healthy weight,mainten_weight,1633.8,1633.8,122.53,163.38,54.46
+235,68,Female,155,60,Lightly Active,Vegan,24.97,healthy weight,mainten_weight,1468.16,1468.16,110.11,146.82,48.94
+236,42,Male,180,80,Very Active,Omnivore,24.69,healthy weight,mainten_weight,2967.0,2967.0,222.53,296.7,98.9
+237,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+238,32,Female,165,60,Lightly Active,Vegetarian,22.04,healthy weight,mainten_weight,1801.59,1801.59,135.12,180.16,60.05
+239,58,Male,175,95,Sedentary,Omnivore,31.02,obese,loss_weight,2110.5,1610.5,211.05,158.29,70.35
+240,28,Female,170,70,Very Active,Vegan,24.22,healthy weight,mainten_weight,2521.09,2521.09,189.08,252.11,84.04
+241,62,Female,160,75,Sedentary,Vegan,29.3,overweight,loss_weight,1534.8,1034.8,153.48,115.11,51.16
+242,40,Male,185,90,Moderately Active,Omnivore,26.3,overweight,loss_weight,2884.94,2384.94,288.49,216.37,96.16
+243,35,Female,168,55,Lightly Active,Omnivore,19.49,healthy weight,mainten_weight,1738.0,1738.0,130.35,173.8,57.93
+244,22,Male,190,100,Very Active,Vegetarian,27.7,overweight,loss_weight,3592.31,3092.31,359.23,269.42,119.74
+245,65,Male,170,80,Sedentary,Omnivore,27.68,overweight,loss_weight,1851.0,1351.0,185.1,138.82,61.7
+246,48,Female,163,65,Lightly Active,Vegan,24.46,healthy weight,mainten_weight,1743.16,1743.16,130.74,174.32,58.11
+247,25,Male,185,85,Moderately Active,Omnivore,24.84,healthy weight,mainten_weight,2923.69,2923.69,219.28,292.37,97.46
+248,38,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1829.09,1829.09,137.18,182.91,60.97
+249,62,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1474.8,974.8,147.48,110.61,49.16
+250,45,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3307.69,2807.69,330.77,248.08,110.26
+251,28,Female,170,58,Moderately Active,Omnivore,20.07,healthy weight,mainten_weight,2079.33,2079.33,155.95,207.93,69.31
+252,55,Male,175,80,Sedentary,Omnivore,26.12,overweight,loss_weight,1948.5,1448.5,194.85,146.14,64.95
+253,22,Female,168,62,Lightly Active,Vegan,21.97,healthy weight,mainten_weight,1923.62,1923.62,144.27,192.36,64.12
+254,30,Male,180,78,Moderately Active,Omnivore,24.07,healthy weight,mainten_weight,2728.0,2728.0,204.6,272.8,90.93
+255,68,Male,170,75,Sedentary,Omnivore,25.95,overweight,loss_weight,1773.0,1273.0,177.3,132.97,59.1
+256,35,Female,175,72,Very Active,Vegetarian,23.51,healthy weight,mainten_weight,2549.12,2549.12,191.18,254.91,84.97
+257,25,Female,165,55,Lightly Active,Omnivore,20.2,healthy weight,mainten_weight,1780.97,1780.97,133.57,178.1,59.37
+258,32,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2821.0,2321.0,282.1,211.57,94.03
+259,55,Female,160,68,Sedentary,Vegetarian,26.56,overweight,loss_weight,1492.8,992.8,149.28,111.96,49.76
+260,28,Male,190,95,Very Active,Vegan,26.32,overweight,loss_weight,3454.31,2954.31,345.43,259.07,115.14
+261,62,Male,175,80,Lightly Active,Omnivore,26.12,overweight,loss_weight,2184.53,1684.5300000000002,218.45,163.84,72.82
+262,21,Female,170,60,Moderately Active,Vegan,20.76,healthy weight,mainten_weight,2164.58,2164.58,162.34,216.46,72.15
+263,48,Female,168,75,Sedentary,Vegetarian,26.57,overweight,loss_weight,1678.8,1178.8,167.88,125.91,55.96
+264,35,Male,185,100,Very Active,Omnivore,29.22,overweight,loss_weight,3426.28,2926.28,342.63,256.97,114.21
+265,40,Male,178,88,Moderately Active,Omnivore,27.77,overweight,loss_weight,2786.12,2286.12,278.61,208.96,92.87
+266,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+267,32,Female,165,68,Lightly Active,Vegetarian,24.98,healthy weight,mainten_weight,1911.59,1911.59,143.37,191.16,63.72
+268,55,Male,175,95,Sedentary,Omnivore,31.02,obese,loss_weight,2128.5,1628.5,212.85,159.64,70.95
+269,28,Female,170,72,Very Active,Vegan,24.91,healthy weight,mainten_weight,2555.59,2555.59,191.67,255.56,85.19
+270,62,Female,160,65,Lightly Active,Vegan,25.39,overweight,loss_weight,1621.12,1121.12,162.11,121.58,54.04
+271,40,Male,185,90,Moderately Active,Omnivore,26.3,overweight,loss_weight,2884.94,2384.94,288.49,216.37,96.16
+272,38,Female,172,78,Sedentary,Omnivore,26.37,overweight,loss_weight,1804.8,1304.8,180.48,135.36,60.16
+273,22,Male,190,105,Very Active,Vegan,29.09,overweight,loss_weight,3678.56,3178.56,367.86,275.89,122.62
+274,19,Female,168,55,Moderately Active,Vegetarian,19.49,healthy weight,mainten_weight,2083.2,2083.2,156.24,208.32,69.44
+275,45,Male,178,82,Lightly Active,Omnivore,25.88,overweight,loss_weight,2354.69,1854.69,235.47,176.6,78.49
+276,25,Female,165,58,Lightly Active,Omnivore,21.3,healthy weight,mainten_weight,1822.22,1822.22,136.67,182.22,60.74
+277,32,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2821.0,2321.0,282.1,211.57,94.03
+278,58,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1498.8,998.8,149.88,112.41,49.96
+279,65,Male,175,90,Lightly Active,Vegan,29.39,overweight,loss_weight,2301.41,1801.4099999999999,230.14,172.61,76.71
+280,42,Female,170,65,Moderately Active,Vegan,22.49,healthy weight,mainten_weight,2079.33,2079.33,155.95,207.93,69.31
+281,38,Male,185,95,Very Active,Omnivore,27.76,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+282,28,Female,162,55,Sedentary,Vegetarian,20.96,healthy weight,mainten_weight,1513.8,1513.8,113.53,151.38,50.46
+283,62,Male,170,80,Moderately Active,Vegan,27.68,overweight,loss_weight,2414.12,1914.12,241.41,181.06,80.47
+284,21,Female,158,48,Lightly Active,Omnivore,19.23,healthy weight,mainten_weight,1652.06,1652.06,123.9,165.21,55.07
+285,55,Male,178,88,Sedentary,Vegetarian,27.77,overweight,loss_weight,2067.0,1567.0,206.7,155.03,68.9
+286,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+287,32,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1632.3,1632.3,122.42,163.23,54.41
+288,55,Female,160,75,Lightly Active,Vegan,29.3,overweight,loss_weight,1806.75,1306.75,180.68,135.51,60.22
+289,40,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3350.81,2850.81,335.08,251.31,111.69
+290,62,Male,175,85,Sedentary,Omnivore,27.76,overweight,loss_weight,1966.5,1466.5,196.65,147.49,65.55
+291,28,Female,170,55,Moderately Active,Vegetarian,19.03,healthy weight,mainten_weight,2032.83,2032.83,152.46,203.28,67.76
+292,35,Male,185,110,Very Active,Omnivore,32.14,obese,loss_weight,3598.78,3098.78,359.88,269.91,119.96
+293,22,Female,160,50,Lightly Active,Vegan,19.53,healthy weight,mainten_weight,1689.88,1689.88,126.74,168.99,56.33
+294,48,Male,180,90,Moderately Active,Omnivore,27.78,overweight,loss_weight,2774.5,2274.5,277.45,208.09,92.48
+295,58,Female,155,60,Sedentary,Vegan,24.97,healthy weight,mainten_weight,1341.3,1341.3,100.6,134.13,44.71
+296,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+297,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+298,55,Male,175,95,Sedentary,Omnivore,31.02,obese,loss_weight,2128.5,1628.5,212.85,159.64,70.95
+299,28,Female,170,72,Very Active,Vegan,24.91,healthy weight,mainten_weight,2555.59,2555.59,191.67,255.56,85.19
+300,62,Female,160,60,Sedentary,Vegan,23.44,healthy weight,mainten_weight,1354.8,1354.8,101.61,135.48,45.16
+301,38,Male,190,105,Moderately Active,Omnivore,29.09,overweight,loss_weight,3181.38,2681.38,318.14,238.6,106.05
+302,22,Female,168,58,Lightly Active,Vegetarian,20.55,healthy weight,mainten_weight,1868.62,1868.62,140.15,186.86,62.29
+303,40,Male,178,85,Very Active,Vegan,26.83,overweight,loss_weight,3048.94,2548.94,304.89,228.67,101.63
+304,27,Female,172,68,Moderately Active,Omnivore,22.99,healthy weight,mainten_weight,2261.45,2261.45,169.61,226.14,75.38
+305,58,Male,182,100,Lightly Active,Vegan,30.19,obese,loss_weight,2547.19,2047.19,254.72,191.04,84.91
+306,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+307,32,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1632.3,1632.3,122.42,163.23,54.41
+308,58,Female,160,70,Lightly Active,Vegan,27.34,overweight,loss_weight,1717.38,1217.38,171.74,128.8,57.25
+309,40,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3350.81,2850.81,335.08,251.31,111.69
+310,62,Male,175,85,Lightly Active,Vegetarian,27.76,overweight,loss_weight,2253.28,1753.2800000000002,225.33,169.0,75.11
+311,38,Female,170,75,Moderately Active,Vegan,25.95,overweight,loss_weight,2265.33,1765.33,226.53,169.9,75.51
+312,28,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+313,55,Female,155,60,Sedentary,Vegan,24.97,healthy weight,mainten_weight,1359.3,1359.3,101.95,135.93,45.31
+314,70,Male,170,75,Lightly Active,Omnivore,25.95,overweight,loss_weight,2017.81,1517.81,201.78,151.34,67.26
+315,22,Female,168,55,Moderately Active,Vegetarian,19.49,healthy weight,mainten_weight,2059.95,2059.95,154.5,206.0,68.66
+316,25,Female,165,55,Moderately Active,Omnivore,20.2,healthy weight,mainten_weight,2007.64,2007.64,150.57,200.76,66.92
+317,32,Male,180,85,Lightly Active,Omnivore,26.23,overweight,loss_weight,2502.5,2002.5,250.25,187.69,83.42
+318,58,Female,160,68,Sedentary,Vegetarian,26.56,overweight,loss_weight,1474.8,974.8,147.48,110.61,49.16
+319,40,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3350.81,2850.81,335.08,251.31,111.69
+320,62,Female,155,50,Sedentary,Vegan,20.81,healthy weight,mainten_weight,1197.3,1197.3,89.8,119.73,39.91
+321,28,Male,175,70,Moderately Active,Omnivore,22.86,healthy weight,mainten_weight,2571.06,2571.06,192.83,257.11,85.7
+322,65,Male,170,75,Lightly Active,Omnivore,25.95,overweight,loss_weight,2052.19,1552.19,205.22,153.91,68.41
+323,35,Female,168,60,Very Active,Vegan,21.26,healthy weight,mainten_weight,2266.65,2266.65,170.0,226.67,75.56
+324,48,Male,185,100,Moderately Active,Omnivore,29.22,overweight,loss_weight,2977.94,2477.94,297.79,223.35,99.26
+325,22,Female,170,58,Lightly Active,Vegetarian,20.07,healthy weight,mainten_weight,1885.81,1885.81,141.44,188.58,62.86
+326,25,Female,165,55,Moderately Active,Omnivore,20.2,healthy weight,mainten_weight,2007.64,2007.64,150.57,200.76,66.92
+327,38,Male,180,85,Lightly Active,Omnivore,26.23,overweight,loss_weight,2461.25,1961.25,246.12,184.59,82.04
+328,55,Female,160,65,Sedentary,Vegetarian,25.39,overweight,loss_weight,1456.8,956.8,145.68,109.26,48.56
+329,62,Male,175,90,Moderately Active,Vegan,29.39,overweight,loss_weight,2617.56,2117.56,261.76,196.32,87.25
+330,28,Female,170,60,Very Active,Vegan,20.76,healthy weight,mainten_weight,2348.59,2348.59,176.14,234.86,78.29
+331,42,Male,185,95,Lightly Active,Omnivore,27.76,overweight,loss_weight,2614.22,2114.22,261.42,196.07,87.14
+332,58,Female,155,50,Sedentary,Vegetarian,20.81,healthy weight,mainten_weight,1221.3,1221.3,91.6,122.13,40.71
+333,33,Male,190,100,Moderately Active,Vegan,27.7,overweight,loss_weight,3142.62,2642.62,314.26,235.7,104.75
+334,21,Female,168,58,Very Active,Omnivore,20.55,healthy weight,mainten_weight,2352.9,2352.9,176.47,235.29,78.43
+335,68,Male,170,75,Lightly Active,Omnivore,25.95,overweight,loss_weight,2031.56,1531.56,203.16,152.37,67.72
+336,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+337,38,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1829.09,1829.09,137.18,182.91,60.97
+338,62,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2026.5,1526.5,202.65,151.99,67.55
+339,45,Female,170,75,Very Active,Vegan,25.95,overweight,loss_weight,2460.71,1960.71,246.07,184.55,82.02
+340,58,Male,185,105,Moderately Active,Omnivore,30.68,obese,loss_weight,2977.94,2477.94,297.79,223.35,99.26
+341,22,Female,160,50,Lightly Active,Vegan,19.53,healthy weight,mainten_weight,1689.88,1689.88,126.74,168.99,56.33
+342,70,Female,155,55,Sedentary,Vegetarian,22.89,healthy weight,mainten_weight,1209.3,1209.3,90.7,120.93,40.31
+343,30,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3437.06,2937.06,343.71,257.78,114.57
+344,42,Female,168,60,Moderately Active,Vegan,21.26,healthy weight,mainten_weight,1982.45,1982.45,148.68,198.25,66.08
+345,55,Male,178,85,Sedentary,Omnivore,26.83,overweight,loss_weight,2031.0,1531.0,203.1,152.32,67.7
+346,25,Female,165,58,Moderately Active,Omnivore,21.3,healthy weight,mainten_weight,2054.14,2054.14,154.06,205.41,68.47
+347,38,Male,180,85,Lightly Active,Vegetarian,26.23,overweight,loss_weight,2461.25,1961.25,246.12,184.59,82.04
+348,55,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+349,62,Male,175,95,Moderately Active,Omnivore,31.02,obese,loss_weight,2695.06,2195.06,269.51,202.13,89.84
+350,28,Female,170,65,Very Active,Vegetarian,22.49,healthy weight,mainten_weight,2434.84,2434.84,182.61,243.48,81.16
+351,32,Male,185,90,Lightly Active,Omnivore,26.3,overweight,loss_weight,2614.22,2114.22,261.42,196.07,87.14
+352,58,Female,155,62,Sedentary,Vegan,25.81,overweight,loss_weight,1365.3,865.3,136.53,102.4,45.51
+353,40,Male,190,110,Very Active,Omnivore,30.47,obese,loss_weight,3609.56,3109.56,360.96,270.72,120.32
+354,21,Female,168,55,Lightly Active,Vegan,19.49,healthy weight,mainten_weight,1834.25,1834.25,137.57,183.43,61.14
+355,70,Male,170,75,Sedentary,Omnivore,25.95,overweight,loss_weight,1761.0,1261.0,176.1,132.07,58.7
+356,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+357,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+358,58,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2050.5,1550.5,205.05,153.79,68.35
+359,62,Female,160,70,Moderately Active,Vegan,27.34,overweight,loss_weight,1904.95,1404.95,190.5,142.87,63.5
+360,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+361,45,Female,170,75,Lightly Active,Vegetarian,25.95,overweight,loss_weight,1961.44,1461.44,196.14,147.11,65.38
+362,30,Male,185,95,Moderately Active,Vegan,27.76,overweight,loss_weight,3039.94,2539.94,303.99,228.0,101.33
+363,65,Female,155,60,Sedentary,Omnivore,24.97,healthy weight,mainten_weight,1299.3,1299.3,97.45,129.93,43.31
+364,22,Female,168,55,Very Active,Vegetarian,19.49,healthy weight,mainten_weight,2292.53,2292.53,171.94,229.25,76.42
+365,50,Male,170,85,Lightly Active,Vegan,29.41,overweight,loss_weight,2292.81,1792.81,229.28,171.96,76.43
+366,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+367,32,Female,165,60,Sedentary,Vegetarian,22.04,healthy weight,mainten_weight,1572.3,1572.3,117.92,157.23,52.41
+368,55,Male,175,90,Lightly Active,Omnivore,29.39,overweight,loss_weight,2370.16,1870.1599999999999,237.02,177.76,79.01
+369,28,Female,170,70,Very Active,Vegan,24.22,healthy weight,mainten_weight,2521.09,2521.09,189.08,252.11,84.04
+370,40,Male,190,110,Moderately Active,Omnivore,30.47,obese,loss_weight,3243.38,2743.38,324.34,243.25,108.11
+371,62,Female,160,55,Sedentary,Vegan,21.48,healthy weight,mainten_weight,1294.8,1294.8,97.11,129.48,43.16
+372,22,Male,185,95,Very Active,Omnivore,27.76,overweight,loss_weight,3452.16,2952.16,345.22,258.91,115.07
+373,38,Female,168,65,Lightly Active,Vegan,23.03,healthy weight,mainten_weight,1854.88,1854.88,139.12,185.49,61.83
+374,27,Female,172,75,Moderately Active,Vegetarian,25.35,overweight,loss_weight,2369.95,1869.9499999999998,237.0,177.75,79.0
+375,45,Male,180,100,Very Active,Omnivore,30.86,obese,loss_weight,3286.12,2786.12,328.61,246.46,109.54
+376,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+377,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+378,28,Female,170,70,Very Active,Vegan,24.22,healthy weight,mainten_weight,2521.09,2521.09,189.08,252.11,84.04
+379,48,Female,160,60,Sedentary,Vegan,23.44,healthy weight,mainten_weight,1438.8,1438.8,107.91,143.88,47.96
+380,62,Male,170,85,Lightly Active,Omnivore,29.41,overweight,loss_weight,2210.31,1710.31,221.03,165.77,73.68
+381,22,Female,168,55,Moderately Active,Vegetarian,19.49,healthy weight,mainten_weight,2059.95,2059.95,154.5,206.0,68.66
+382,38,Male,185,100,Very Active,Omnivore,29.22,overweight,loss_weight,3400.41,2900.41,340.04,255.03,113.35
+383,21,Female,158,50,Moderately Active,Vegan,20.03,healthy weight,mainten_weight,1893.33,1893.33,142.0,189.33,63.11
+384,58,Female,163,75,Sedentary,Vegetarian,28.23,overweight,loss_weight,1581.3,1081.3,158.13,118.6,52.71
+385,25,Female,165,58,Lightly Active,Omnivore,21.3,healthy weight,mainten_weight,1822.22,1822.22,136.67,182.22,60.74
+386,38,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2774.5,2274.5,277.45,208.09,92.48
+387,62,Female,160,65,Sedentary,Vegetarian,25.39,overweight,loss_weight,1414.8,914.8,141.48,106.11,47.16
+388,28,Male,185,90,Very Active,Vegan,26.3,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+389,45,Female,170,70,Lightly Active,Vegan,24.22,healthy weight,mainten_weight,1892.69,1892.69,141.95,189.27,63.09
+390,58,Male,175,80,Sedentary,Omnivore,26.12,overweight,loss_weight,1930.5,1430.5,193.05,144.79,64.35
+391,32,Female,168,62,Moderately Active,Vegetarian,21.97,healthy weight,mainten_weight,2090.95,2090.95,156.82,209.09,69.7
+392,70,Male,170,75,Lightly Active,Vegan,25.95,overweight,loss_weight,2017.81,1517.81,201.78,151.34,67.26
+393,19,Female,163,55,Very Active,Omnivore,20.7,healthy weight,mainten_weight,2264.49,2264.49,169.84,226.45,75.48
+394,55,Male,183,95,Sedentary,Vegetarian,28.37,overweight,loss_weight,2188.5,1688.5,218.85,164.14,72.95
+395,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+396,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+397,55,Male,175,95,Sedentary,Vegan,31.02,obese,loss_weight,2128.5,1628.5,212.85,159.64,70.95
+398,68,Female,160,70,Lightly Active,Omnivore,27.34,overweight,loss_weight,1648.62,1148.62,164.86,123.65,54.95
+399,28,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+400,38,Female,170,75,Moderately Active,Vegan,25.95,overweight,loss_weight,2265.33,1765.33,226.53,169.9,75.51
+401,58,Male,170,85,Sedentary,Omnivore,29.41,overweight,loss_weight,1953.0,1453.0,195.3,146.47,65.1
+402,42,Female,168,60,Very Active,Vegetarian,21.26,healthy weight,mainten_weight,2206.28,2206.28,165.47,220.63,73.54
+403,21,Male,190,100,Moderately Active,Vegan,27.7,overweight,loss_weight,3235.62,2735.62,323.56,242.67,107.85
+404,62,Female,155,55,Sedentary,Vegan,22.89,healthy weight,mainten_weight,1257.3,1257.3,94.3,125.73,41.91
+405,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+406,32,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1632.3,1632.3,122.42,163.23,54.41
+407,58,Male,175,95,Lightly Active,Vegan,31.02,obese,loss_weight,2418.28,1918.2800000000002,241.83,181.37,80.61
+408,40,Female,170,72,Moderately Active,Omnivore,24.91,healthy weight,mainten_weight,2203.33,2203.33,165.25,220.33,73.44
+409,28,Male,185,90,Very Active,Vegan,26.3,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+410,62,Female,160,60,Sedentary,Omnivore,23.44,healthy weight,mainten_weight,1354.8,1354.8,101.61,135.48,45.16
+411,35,Male,190,100,Very Active,Vegetarian,27.7,overweight,loss_weight,3480.19,2980.19,348.02,261.01,116.01
+412,22,Female,168,55,Lightly Active,Vegan,19.49,healthy weight,mainten_weight,1827.38,1827.38,137.05,182.74,60.91
+413,55,Male,178,85,Sedentary,Omnivore,26.83,overweight,loss_weight,2031.0,1531.0,203.1,152.32,67.7
+414,48,Female,172,78,Moderately Active,Vegan,26.37,overweight,loss_weight,2253.7,1753.6999999999998,225.37,169.03,75.12
+415,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+416,38,Female,165,68,Lightly Active,Vegetarian,24.98,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+417,55,Male,175,95,Sedentary,Vegan,31.02,obese,loss_weight,2128.5,1628.5,212.85,159.64,70.95
+418,62,Female,160,70,Lightly Active,Vegan,27.34,overweight,loss_weight,1689.88,1189.88,168.99,126.74,56.33
+419,28,Male,190,90,Very Active,Omnivore,24.93,healthy weight,mainten_weight,3368.06,3368.06,252.6,336.81,112.27
+420,40,Female,170,75,Moderately Active,Vegetarian,25.95,overweight,loss_weight,2249.83,1749.83,224.98,168.74,74.99
+421,58,Male,170,80,Sedentary,Vegan,27.68,overweight,loss_weight,1893.0,1393.0,189.3,141.97,63.1
+422,65,Female,155,65,Lightly Active,Omnivore,27.06,overweight,loss_weight,1557.53,1057.53,155.75,116.81,51.92
+423,32,Male,185,100,Very Active,Omnivore,29.22,overweight,loss_weight,3452.16,2952.16,345.22,258.91,115.07
+424,45,Female,168,72,Moderately Active,Vegan,25.51,overweight,loss_weight,2145.2,1645.1999999999998,214.52,160.89,71.51
+425,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+426,32,Female,165,65,Sedentary,Vegetarian,23.88,healthy weight,mainten_weight,1632.3,1632.3,122.42,163.23,54.41
+427,48,Male,175,95,Very Active,Vegan,31.02,obese,loss_weight,3120.09,2620.09,312.01,234.01,104.0
+428,55,Female,160,70,Lightly Active,Omnivore,27.34,overweight,loss_weight,1738.0,1238.0,173.8,130.35,57.93
+429,28,Male,190,100,Moderately Active,Omnivore,27.7,overweight,loss_weight,3181.38,2681.38,318.14,238.6,106.05
+430,62,Female,155,55,Sedentary,Vegan,22.89,healthy weight,mainten_weight,1257.3,1257.3,94.3,125.73,41.91
+431,35,Male,170,75,Very Active,Vegetarian,25.95,overweight,loss_weight,2833.31,2333.31,283.33,212.5,94.44
+432,22,Female,168,58,Lightly Active,Omnivore,20.55,healthy weight,mainten_weight,1868.62,1868.62,140.15,186.86,62.29
+433,58,Male,178,85,Moderately Active,Vegan,26.83,overweight,loss_weight,2600.12,2100.12,260.01,195.01,86.67
+434,40,Female,172,78,Sedentary,Omnivore,26.37,overweight,loss_weight,1792.8,1292.8,179.28,134.46,59.76
+435,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+436,32,Female,165,60,Lightly Active,Vegetarian,22.04,healthy weight,mainten_weight,1801.59,1801.59,135.12,180.16,60.05
+437,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+438,28,Female,170,70,Very Active,Vegan,24.22,healthy weight,mainten_weight,2521.09,2521.09,189.08,252.11,84.04
+439,62,Female,160,65,Lightly Active,Vegan,25.39,overweight,loss_weight,1621.12,1121.12,162.11,121.58,54.04
+440,38,Male,185,95,Moderately Active,Omnivore,27.76,overweight,loss_weight,2977.94,2477.94,297.79,223.35,99.26
+441,21,Female,168,55,Very Active,Vegan,19.49,healthy weight,mainten_weight,2301.15,2301.15,172.59,230.12,76.7
+442,40,Male,190,110,Sedentary,Omnivore,30.47,obese,loss_weight,2511.0,2011.0,251.1,188.32,83.7
+443,23,Female,172,68,Moderately Active,Vegetarian,22.99,healthy weight,mainten_weight,2292.45,2292.45,171.93,229.25,76.41
+444,48,Male,178,80,Lightly Active,Vegan,25.25,overweight,loss_weight,2306.56,1806.56,230.66,172.99,76.89
+445,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+446,32,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1870.34,1870.34,140.28,187.03,62.34
+447,48,Male,175,95,Very Active,Omnivore,31.02,obese,loss_weight,3120.09,2620.09,312.01,234.01,104.0
+448,55,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+449,28,Male,190,90,Moderately Active,Omnivore,24.93,healthy weight,mainten_weight,3026.38,3026.38,226.98,302.64,100.88
+450,62,Male,170,85,Lightly Active,Vegan,29.41,overweight,loss_weight,2210.31,1710.31,221.03,165.77,73.68
+451,35,Female,170,75,Very Active,Vegetarian,25.95,overweight,loss_weight,2546.96,2046.96,254.7,191.02,84.9
+452,22,Female,160,55,Sedentary,Vegan,21.48,healthy weight,mainten_weight,1534.8,1534.8,115.11,153.48,51.16
+453,40,Male,185,100,Moderately Active,Omnivore,29.22,overweight,loss_weight,3039.94,2539.94,303.99,228.0,101.33
+454,29,Female,175,85,Very Active,Vegetarian,27.76,overweight,loss_weight,2825.12,2325.12,282.51,211.88,94.17
+455,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+456,38,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1829.09,1829.09,137.18,182.91,60.97
+457,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+458,62,Female,160,70,Moderately Active,Vegan,27.34,overweight,loss_weight,1904.95,1404.95,190.5,142.87,63.5
+459,28,Male,190,100,Very Active,Omnivore,27.7,overweight,loss_weight,3540.56,3040.56,354.06,265.54,118.02
+460,42,Female,170,75,Lightly Active,Vegan,25.95,overweight,loss_weight,1982.06,1482.06,198.21,148.65,66.07
+461,68,Male,170,85,Sedentary,Omnivore,29.41,overweight,loss_weight,1893.0,1393.0,189.3,141.97,63.1
+462,22,Female,165,55,Very Active,Vegan,20.2,healthy weight,mainten_weight,2260.18,2260.18,169.51,226.02,75.34
+463,35,Male,185,95,Moderately Active,Omnivore,27.76,overweight,loss_weight,3001.19,2501.19,300.12,225.09,100.04
+464,58,Female,155,60,Sedentary,Vegan,24.97,healthy weight,mainten_weight,1341.3,1341.3,100.6,134.13,44.71
+465,25,Female,165,55,Lightly Active,Omnivore,20.2,healthy weight,mainten_weight,1780.97,1780.97,133.57,178.1,59.37
+466,32,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2743.5,2743.5,205.76,274.35,91.45
+467,58,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1498.8,998.8,149.88,112.41,49.96
+468,38,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3368.06,2868.06,336.81,252.6,112.27
+469,22,Female,170,60,Lightly Active,Vegan,20.76,healthy weight,mainten_weight,1913.31,1913.31,143.5,191.33,63.78
+470,65,Male,175,85,Sedentary,Omnivore,27.76,overweight,loss_weight,1948.5,1448.5,194.85,146.14,64.95
+471,40,Female,168,65,Moderately Active,Vegetarian,23.03,healthy weight,mainten_weight,2075.45,2075.45,155.66,207.54,69.18
+472,28,Male,185,90,Very Active,Vegan,26.3,overweight,loss_weight,3314.16,2814.16,331.42,248.56,110.47
+473,52,Female,158,62,Sedentary,Vegan,24.84,healthy weight,mainten_weight,1423.8,1423.8,106.78,142.38,47.46
+474,35,Male,178,75,Moderately Active,Omnivore,23.67,healthy weight,mainten_weight,2623.38,2623.38,196.75,262.34,87.45
+475,25,Male,180,80,Moderately Active,Omnivore,24.69,healthy weight,mainten_weight,2797.75,2797.75,209.83,279.78,93.26
+476,35,Female,165,65,Lightly Active,Vegetarian,23.88,healthy weight,mainten_weight,1849.72,1849.72,138.73,184.97,61.66
+477,55,Female,160,70,Sedentary,Vegan,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+478,40,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3350.81,2850.81,335.08,251.31,111.69
+479,28,Female,170,55,Lightly Active,Vegan,19.03,healthy weight,mainten_weight,1803.31,1803.31,135.25,180.33,60.11
+480,62,Male,175,85,Moderately Active,Omnivore,27.76,overweight,loss_weight,2540.06,2040.06,254.01,190.5,84.67
+481,32,Female,168,60,Very Active,Vegetarian,21.26,healthy weight,mainten_weight,2292.53,2292.53,171.94,229.25,76.42
+482,21,Male,185,88,Sedentary,Vegan,25.71,overweight,loss_weight,2323.5,1823.5,232.35,174.26,77.45
+483,48,Male,178,90,Moderately Active,Omnivore,28.41,overweight,loss_weight,2755.12,2255.12,275.51,206.63,91.84
+484,38,Female,172,75,Lightly Active,Vegan,25.35,overweight,loss_weight,2026.75,1526.75,202.68,152.01,67.56
+485,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+486,38,Female,165,62,Lightly Active,Vegan,22.77,healthy weight,mainten_weight,1787.84,1787.84,134.09,178.78,59.59
+487,55,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1516.8,1016.8,151.68,113.76,50.56
+488,28,Male,190,95,Very Active,Omnivore,26.32,overweight,loss_weight,3454.31,2954.31,345.43,259.07,115.14
+489,62,Male,175,80,Lightly Active,Omnivore,26.12,overweight,loss_weight,2184.53,1684.5300000000002,218.45,163.84,72.82
+490,32,Female,170,68,Moderately Active,Vegan,23.53,healthy weight,mainten_weight,2203.33,2203.33,165.25,220.33,73.44
+491,21,Female,168,55,Sedentary,Vegan,19.49,healthy weight,mainten_weight,1600.8,1600.8,120.06,160.08,53.36
+492,40,Male,185,90,Very Active,Omnivore,26.3,overweight,loss_weight,3210.66,2710.66,321.07,240.8,107.02
+493,27,Female,172,75,Moderately Active,Vegetarian,25.35,overweight,loss_weight,2369.95,1869.9499999999998,237.0,177.75,79.0
+494,19,Male,183,78,Lightly Active,Omnivore,23.29,healthy weight,mainten_weight,2521.41,2521.41,189.11,252.14,84.05
+495,25,Male,180,85,Moderately Active,Omnivore,26.23,overweight,loss_weight,2875.25,2375.25,287.53,215.64,95.84
+496,32,Female,165,60,Lightly Active,Vegan,22.04,healthy weight,mainten_weight,1801.59,1801.59,135.12,180.16,60.05
+497,55,Male,175,90,Sedentary,Omnivore,29.39,overweight,loss_weight,2068.5,1568.5,206.85,155.14,68.95
+498,68,Female,160,70,Sedentary,Vegetarian,27.34,overweight,loss_weight,1438.8,938.8,143.88,107.91,47.96
+499,47,Male,168,115,Sedentary,Omnivore,40.75,severely obese,loss_weight,2364.0,1864.0,236.4,177.3,78.8
+500,77,Male,161,106,Sedentary,Vegan,40.89,severely obese,loss_weight,2023.5,1523.5,202.35,151.76,67.45
+501,51,Female,162,72,Moderately Active,Vegan,27.43,overweight,loss_weight,2040.58,1540.58,204.06,153.04,68.02
+502,50,Female,188,61,Moderately Active,Vegetarian,17.26,underweight,gain_muscle,2129.7,2629.7,186.35,239.59,47.33
+503,77,Male,185,101,Moderately Active,Vegetarian,29.51,overweight,loss_weight,2768.69,2268.69,276.87,207.65,92.29
+504,53,Male,196,62,Lightly Active,Vegetarian,16.14,underweight,gain_muscle,2179.38,2679.38,190.7,245.18,48.43
+505,79,Female,156,96,Sedentary,Vegan,39.45,obese,loss_weight,1654.8,1154.8,165.48,124.11,55.16
+506,65,Female,169,59,Sedentary,Vegetarian,20.66,healthy weight,mainten_weight,1392.3,1392.3,104.42,139.23,46.41
+507,25,Male,183,53,Sedentary,Vegetarian,15.83,underweight,gain_muscle,1864.5,2364.5,163.14,209.76,41.43
+508,39,Male,153,58,Moderately Active,Omnivore,24.78,healthy weight,mainten_weight,2086.69,2086.69,156.5,208.67,69.56
+509,53,Female,194,60,Moderately Active,Vegan,15.94,underweight,gain_muscle,2149.08,2649.08,188.04,241.77,47.76
+510,42,Female,198,75,Moderately Active,Vegetarian,19.13,healthy weight,mainten_weight,2505.58,2505.58,187.92,250.56,83.52
+511,74,Male,184,82,Moderately Active,Vegan,24.22,healthy weight,mainten_weight,2487.75,2487.75,186.58,248.78,82.92
+512,72,Male,162,93,Sedentary,Vegan,35.44,obese,loss_weight,1905.0,1405.0,190.5,142.88,63.5
+513,18,Female,192,112,Moderately Active,Vegan,30.38,obese,loss_weight,3206.95,2706.95,320.69,240.52,106.9
+514,51,Male,199,62,Moderately Active,Pescatarian,15.66,underweight,gain_muscle,2501.31,3001.31,218.86,281.4,55.58
+515,70,Female,164,61,Very Active,Pescatarian,22.68,healthy weight,mainten_weight,1938.9,1938.9,145.42,193.89,64.63
+516,53,Male,150,79,Sedentary,Pescatarian,35.11,obese,loss_weight,1761.0,1261.0,176.1,132.07,58.7
+517,59,Female,180,97,Moderately Active,Pescatarian,29.94,overweight,loss_weight,2540.45,2040.4499999999998,254.04,190.53,84.68
+518,46,Male,170,76,Sedentary,Vegan,26.3,overweight,loss_weight,1917.0,1417.0,191.7,143.78,63.9
+519,34,Female,177,54,Sedentary,Pescatarian,17.24,underweight,gain_muscle,1578.3,2078.3,138.1,177.56,35.07
+520,44,Male,178,78,Sedentary,Pescatarian,24.62,healthy weight,mainten_weight,2013.0,2013.0,150.97,201.3,67.1
+521,52,Male,169,101,Lightly Active,Vegan,35.36,obese,loss_weight,2490.47,1990.4699999999998,249.05,186.79,83.02
+522,56,Female,169,57,Very Active,Vegan,19.96,healthy weight,mainten_weight,2044.56,2044.56,153.34,204.46,68.15
+523,70,Male,166,54,Sedentary,Pescatarian,19.6,healthy weight,mainten_weight,1479.0,1479.0,110.92,147.9,49.3
+524,72,Female,179,58,Moderately Active,Pescatarian,18.1,underweight,gain_muscle,1825.51,2325.51,159.73,205.37,40.57
+525,57,Male,163,111,Very Active,Vegan,41.78,severely obese,loss_weight,3189.09,2689.09,318.91,239.18,106.3
+526,44,Female,190,107,Moderately Active,Vegetarian,29.64,overweight,loss_weight,2908.58,2408.58,290.86,218.14,96.95
+527,70,Female,150,100,Moderately Active,Pescatarian,44.44,severely obese,loss_weight,2211.08,1711.08,221.11,165.83,73.7
+528,38,Male,197,50,Sedentary,Pescatarian,12.88,underweight,gain_muscle,1855.5,2355.5,162.36,208.74,41.23
+529,51,Female,152,92,Sedentary,Vegetarian,39.82,obese,loss_weight,1744.8,1244.8,174.48,130.86,58.16
+530,21,Female,183,86,Very Active,Pescatarian,25.68,overweight,loss_weight,2997.62,2497.62,299.76,224.82,99.92
+531,52,Male,173,71,Moderately Active,Vegan,23.72,healthy weight,mainten_weight,2381.19,2381.19,178.59,238.12,79.37
+532,40,Female,178,88,Sedentary,Pescatarian,27.77,overweight,loss_weight,1957.8,1457.8,195.78,146.83,65.26
+533,61,Male,199,104,Very Active,Vegan,26.26,overweight,loss_weight,3421.97,2921.97,342.2,256.65,114.07
+534,36,Male,171,81,Lightly Active,Vegan,27.7,overweight,loss_weight,2342.66,1842.6599999999999,234.27,175.7,78.09
+535,70,Female,164,79,Very Active,Omnivore,29.37,overweight,loss_weight,2249.4,1749.4,224.94,168.71,74.98
+536,20,Male,196,80,Lightly Active,Pescatarian,20.82,healthy weight,mainten_weight,2653.75,2653.75,199.03,265.38,88.46
+537,36,Female,152,64,Lightly Active,Vegetarian,27.7,overweight,loss_weight,1717.38,1217.38,171.74,128.8,57.25
+538,40,Male,187,81,Very Active,Pescatarian,23.16,healthy weight,mainten_weight,3076.97,3076.97,230.77,307.7,102.57
+539,61,Female,167,96,Moderately Active,Omnivore,34.42,obese,loss_weight,2383.51,1883.5100000000002,238.35,178.76,79.45
+540,77,Male,184,74,Very Active,Omnivore,21.86,healthy weight,mainten_weight,2604.75,2604.75,195.36,260.48,86.82
+541,63,Female,177,113,Very Active,Vegan,36.07,obese,loss_weight,3036.43,2536.43,303.64,227.73,101.21
+542,37,Male,154,78,Very Active,Omnivore,32.89,obese,loss_weight,2695.31,2195.31,269.53,202.15,89.84
+543,41,Male,191,97,Moderately Active,Omnivore,26.59,overweight,loss_weight,3043.81,2543.81,304.38,228.29,101.46
+544,69,Female,180,112,Very Active,Omnivore,34.57,obese,loss_weight,2999.78,2499.78,299.98,224.98,99.99
+545,56,Female,177,56,Sedentary,Omnivore,17.87,underweight,gain_muscle,1470.3,1970.3,128.65,165.41,32.67
+546,74,Female,187,82,Moderately Active,Vegan,23.45,healthy weight,mainten_weight,2259.51,2259.51,169.46,225.95,75.32
+547,25,Male,188,117,Very Active,Pescatarian,33.1,obese,loss_weight,3838.12,3338.12,383.81,287.86,127.94
+548,44,Male,171,104,Moderately Active,Vegan,35.57,obese,loss_weight,2935.31,2435.31,293.53,220.15,97.84
+549,69,Female,165,110,Lightly Active,Vegetarian,40.4,severely obese,loss_weight,2234.72,1734.7199999999998,223.47,167.6,74.49
+550,26,Female,166,68,Moderately Active,Vegan,24.68,healthy weight,mainten_weight,2211.08,2211.08,165.83,221.11,73.7
+551,26,Male,192,82,Lightly Active,Omnivore,22.24,healthy weight,mainten_weight,2605.62,2605.62,195.42,260.56,86.85
+552,46,Female,188,50,Sedentary,Omnivore,14.15,underweight,gain_muscle,1540.8,2040.8,134.82,173.34,34.24
+553,61,Male,192,73,Moderately Active,Pescatarian,19.8,healthy weight,mainten_weight,2526.5,2526.5,189.49,252.65,84.22
+554,31,Male,169,93,Very Active,Vegan,32.56,obese,loss_weight,3167.53,2667.53,316.75,237.56,105.58
+555,78,Female,169,96,Lightly Active,Pescatarian,33.61,obese,loss_weight,2014.72,1514.72,201.47,151.1,67.16
+556,21,Female,184,96,Sedentary,Omnivore,28.36,overweight,loss_weight,2212.8,1712.8000000000002,221.28,165.96,73.76
+557,58,Male,154,110,Very Active,Pescatarian,46.38,severely obese,loss_weight,3066.19,2566.19,306.62,229.96,102.21
+558,30,Female,166,92,Lightly Active,Vegan,33.39,obese,loss_weight,2263.94,1763.94,226.39,169.8,75.46
+559,53,Male,187,119,Moderately Active,Vegan,34.03,obese,loss_weight,3253.06,2753.06,325.31,243.98,108.44
+560,62,Male,170,117,Very Active,Vegan,40.48,severely obese,loss_weight,3324.94,2824.94,332.49,249.37,110.83
+561,24,Female,163,105,Very Active,Omnivore,39.52,obese,loss_weight,3083.87,2583.87,308.39,231.29,102.8
+562,58,Female,171,87,Lightly Active,Vegetarian,29.75,overweight,loss_weight,2045.66,1545.66,204.57,153.42,68.19
+563,67,Female,172,115,Lightly Active,Omnivore,38.87,obese,loss_weight,2377.38,1877.38,237.74,178.3,79.25
+564,48,Male,154,52,Moderately Active,Vegetarian,21.93,healthy weight,mainten_weight,1933.62,1933.62,145.02,193.36,64.45
+565,29,Female,192,100,Moderately Active,Vegan,27.13,overweight,loss_weight,2935.7,2435.7,293.57,220.18,97.86
+566,75,Male,189,88,Sedentary,Vegetarian,24.64,healthy weight,mainten_weight,2029.5,2029.5,152.21,202.95,67.65
+567,26,Male,185,93,Lightly Active,Pescatarian,27.17,overweight,loss_weight,2696.72,2196.72,269.67,202.25,89.89
+568,60,Female,191,95,Sedentary,Vegan,26.04,overweight,loss_weight,2019.3,1519.3,201.93,151.45,67.31
+569,36,Female,192,107,Very Active,Pescatarian,29.03,overweight,loss_weight,3327.53,2827.53,332.75,249.56,110.92
+570,69,Female,183,71,Moderately Active,Pescatarian,21.2,healthy weight,mainten_weight,2089.01,2089.01,156.68,208.9,69.63
+571,66,Male,164,100,Sedentary,Vegetarian,37.18,obese,loss_weight,2040.0,1540.0,204.0,153.0,68.0
+572,41,Male,167,58,Moderately Active,Pescatarian,20.8,healthy weight,mainten_weight,2206.81,2206.81,165.51,220.68,73.56
+573,53,Female,189,111,Sedentary,Pescatarian,31.07,obese,loss_weight,2238.3,1738.3000000000002,223.83,167.87,74.61
+574,45,Female,176,110,Lightly Active,Pescatarian,35.51,obese,loss_weight,2494.25,1994.25,249.43,187.07,83.14
+575,24,Female,187,97,Sedentary,Vegetarian,27.74,overweight,loss_weight,2229.3,1729.3000000000002,222.93,167.2,74.31
+576,32,Male,157,70,Very Active,Vegan,28.4,overweight,loss_weight,2632.78,2132.78,263.28,197.46,87.76
+577,46,Female,159,116,Sedentary,Omnivore,45.88,severely obese,loss_weight,2115.3,1615.3000000000002,211.53,158.65,70.51
+578,52,Female,179,98,Moderately Active,Vegetarian,30.59,obese,loss_weight,2600.51,2100.51,260.05,195.04,86.68
+579,73,Male,191,98,Sedentary,Vegetarian,26.86,overweight,loss_weight,2176.5,1676.5,217.65,163.24,72.55
+580,31,Male,158,89,Very Active,Vegan,35.65,obese,loss_weight,2979.94,2479.94,297.99,223.5,99.33
+581,47,Female,164,77,Moderately Active,Pescatarian,28.63,overweight,loss_weight,2168.45,1668.4499999999998,216.84,162.63,72.28
+582,42,Female,162,103,Moderately Active,Vegan,39.25,obese,loss_weight,2590.83,2090.83,259.08,194.31,86.36
+583,53,Female,161,108,Lightly Active,Omnivore,41.67,severely obese,loss_weight,2282.84,1782.8400000000001,228.28,171.21,76.09
+584,31,Female,176,91,Very Active,Omnivore,29.38,overweight,loss_weight,2922.15,2422.15,292.22,219.16,97.41
+585,55,Female,198,75,Sedentary,Vegan,19.13,healthy weight,mainten_weight,1861.8,1861.8,139.63,186.18,62.06
+586,47,Male,170,95,Moderately Active,Vegetarian,32.87,obese,loss_weight,2762.88,2262.88,276.29,207.22,92.1
+587,45,Female,155,73,Lightly Active,Vegan,30.39,obese,loss_weight,1805.03,1305.03,180.5,135.38,60.17
+588,38,Female,160,106,Sedentary,Vegan,41.41,severely obese,loss_weight,2050.8,1550.8000000000002,205.08,153.81,68.36
+589,24,Female,188,77,Very Active,Vegan,21.79,healthy weight,mainten_weight,2870.4,2870.4,215.28,287.04,95.68
+590,79,Male,158,102,Very Active,Pescatarian,40.86,severely obese,loss_weight,2790.19,2290.19,279.02,209.26,93.01
+591,74,Female,194,110,Very Active,Vegan,29.23,overweight,loss_weight,3073.09,2573.09,307.31,230.48,102.44
+592,20,Male,185,95,Very Active,Pescatarian,27.76,overweight,loss_weight,3469.41,2969.41,346.94,260.21,115.65
+593,41,Male,193,61,Lightly Active,Vegetarian,16.38,underweight,gain_muscle,2222.34,2722.34,194.45,250.01,49.39
+594,37,Female,170,98,Sedentary,Pescatarian,33.91,obese,loss_weight,2035.8,1535.8,203.58,152.69,67.86
+595,57,Male,198,87,Moderately Active,Vegetarian,22.19,healthy weight,mainten_weight,2832.62,2832.62,212.45,283.26,94.42
+596,52,Female,187,104,Lightly Active,Omnivore,29.74,overweight,loss_weight,2458.16,1958.1599999999999,245.82,184.36,81.94
+597,31,Female,186,113,Lightly Active,Omnivore,32.66,obese,loss_weight,2717.69,2217.69,271.77,203.83,90.59
+598,33,Female,175,95,Very Active,Omnivore,31.02,obese,loss_weight,2963.12,2463.12,296.31,222.23,98.77
+599,30,Female,163,78,Moderately Active,Vegetarian,29.36,overweight,loss_weight,2306.01,1806.0100000000002,230.6,172.95,76.87
+600,43,Male,188,74,Moderately Active,Pescatarian,20.94,healthy weight,mainten_weight,2642.75,2642.75,198.21,264.28,88.09
+601,66,Female,190,60,Sedentary,Vegetarian,16.62,underweight,gain_muscle,1555.8,2055.8,136.13,175.03,34.57
+602,19,Male,190,62,Lightly Active,Vegan,17.17,underweight,gain_muscle,2361.56,2861.56,206.64,265.68,52.48
+603,57,Male,154,97,Very Active,Pescatarian,40.9,severely obese,loss_weight,2850.56,2350.56,285.06,213.79,95.02
+604,49,Male,157,112,Moderately Active,Pescatarian,45.44,severely obese,loss_weight,2884.94,2384.94,288.49,216.37,96.16
+605,32,Female,158,57,Sedentary,Pescatarian,22.83,healthy weight,mainten_weight,1483.8,1483.8,111.28,148.38,49.46
+606,33,Male,172,101,Lightly Active,Pescatarian,34.14,obese,loss_weight,2646.88,2146.88,264.69,198.52,88.23
+607,73,Male,186,63,Very Active,Vegan,18.21,underweight,gain_muscle,2471.06,2971.06,216.22,277.99,54.91
+608,32,Male,170,107,Very Active,Omnivore,37.02,obese,loss_weight,3411.19,2911.19,341.12,255.84,113.71
+609,66,Female,155,63,Sedentary,Pescatarian,26.22,overweight,loss_weight,1329.3,829.3,132.93,99.7,44.31
+610,66,Male,162,83,Very Active,Vegan,31.63,obese,loss_weight,2617.69,2117.69,261.77,196.33,87.26
+611,29,Male,180,58,Lightly Active,Vegan,17.9,underweight,gain_muscle,2151.88,2651.88,188.29,242.09,47.82
+612,56,Female,183,71,Lightly Active,Omnivore,21.2,healthy weight,mainten_weight,1942.53,1942.53,145.69,194.25,64.75
+613,23,Male,199,87,Very Active,Pescatarian,21.97,healthy weight,mainten_weight,3456.47,3456.47,259.24,345.65,115.22
+614,49,Male,181,90,Lightly Active,Vegetarian,27.47,overweight,loss_weight,2462.97,1962.9699999999998,246.3,184.72,82.1
+615,59,Male,163,111,Lightly Active,Pescatarian,41.78,severely obese,loss_weight,2528.28,2028.2800000000002,252.83,189.62,84.28
+616,21,Male,172,98,Sedentary,Vegetarian,33.13,obese,loss_weight,2346.0,1846.0,234.6,175.95,78.2
+617,41,Female,161,86,Moderately Active,Vegan,33.18,obese,loss_weight,2325.39,1825.3899999999999,232.54,174.4,77.51
+618,29,Female,169,77,Very Active,Vegetarian,26.96,overweight,loss_weight,2622.43,2122.43,262.24,196.68,87.41
+619,65,Male,187,75,Moderately Active,Pescatarian,21.45,healthy weight,mainten_weight,2478.06,2478.06,185.85,247.81,82.6
+620,51,Female,186,71,Lightly Active,Vegetarian,20.52,healthy weight,mainten_weight,2002.69,2002.69,150.2,200.27,66.76
+621,64,Male,197,114,Lightly Active,Vegan,29.37,overweight,loss_weight,2827.34,2327.34,282.73,212.05,94.24
+622,47,Male,198,96,Lightly Active,Vegan,24.49,healthy weight,mainten_weight,2705.31,2705.31,202.9,270.53,90.18
+623,71,Female,199,119,Lightly Active,Pescatarian,30.05,obese,loss_weight,2636.91,2136.91,263.69,197.77,87.9
+624,18,Female,197,96,Moderately Active,Pescatarian,24.74,healthy weight,mainten_weight,3007.39,3007.39,225.55,300.74,100.25
+625,31,Male,187,70,Sedentary,Vegan,20.02,healthy weight,mainten_weight,2062.5,2062.5,154.69,206.25,68.75
+626,68,Male,169,95,Lightly Active,Omnivore,33.26,obese,loss_weight,2297.97,1797.9699999999998,229.8,172.35,76.6
+627,50,Female,198,71,Sedentary,Vegan,18.11,underweight,gain_muscle,1843.8,2343.8,161.33,207.43,40.97
+628,47,Female,179,60,Lightly Active,Pescatarian,18.73,healthy weight,mainten_weight,1818.78,1818.78,136.41,181.88,60.63
+629,71,Male,191,68,Lightly Active,Pescatarian,18.64,healthy weight,mainten_weight,2095.16,2095.16,157.14,209.52,69.84
+630,29,Female,181,82,Sedentary,Omnivore,25.03,overweight,loss_weight,1974.3,1474.3,197.43,148.07,65.81
+631,53,Female,170,84,Sedentary,Pescatarian,29.07,overweight,loss_weight,1771.8,1271.8,177.18,132.88,59.06
+632,65,Male,192,84,Moderately Active,Vegan,22.79,healthy weight,mainten_weight,2666.0,2666.0,199.95,266.6,88.87
+633,39,Female,175,91,Sedentary,Pescatarian,29.71,overweight,loss_weight,1977.3,1477.3,197.73,148.3,65.91
+634,33,Male,156,110,Sedentary,Pescatarian,45.2,severely obese,loss_weight,2298.0,1798.0,229.8,172.35,76.6
+635,25,Male,192,90,Moderately Active,Omnivore,24.41,healthy weight,mainten_weight,3069.0,3069.0,230.17,306.9,102.3
+636,46,Male,174,118,Moderately Active,Pescatarian,38.97,obese,loss_weight,3165.88,2665.88,316.59,237.44,105.53
+637,72,Female,151,92,Moderately Active,Vegan,40.35,severely obese,loss_weight,2081.26,1581.2600000000002,208.13,156.09,69.38
+638,30,Male,164,101,Sedentary,Vegan,37.55,obese,loss_weight,2268.0,1768.0,226.8,170.1,75.6
+639,51,Male,178,63,Sedentary,Vegetarian,19.88,healthy weight,mainten_weight,1791.0,1791.0,134.32,179.1,59.7
+640,34,Male,175,55,Moderately Active,Vegetarian,17.96,underweight,gain_muscle,2292.06,2792.06,200.56,257.86,50.93
+641,56,Female,197,93,Sedentary,Vegan,23.96,healthy weight,mainten_weight,2064.3,2064.3,154.82,206.43,68.81
+642,43,Male,179,94,Moderately Active,Vegetarian,29.34,overweight,loss_weight,2865.56,2365.56,286.56,214.92,95.52
+643,41,Female,176,75,Sedentary,Omnivore,24.21,healthy weight,mainten_weight,1780.8,1780.8,133.56,178.08,59.36
+644,20,Female,192,57,Moderately Active,Pescatarian,15.46,underweight,gain_muscle,2338.95,2838.95,204.66,263.13,51.98
+645,57,Female,180,72,Sedentary,Vegan,22.22,healthy weight,mainten_weight,1678.8,1678.8,125.91,167.88,55.96
+646,54,Male,171,57,Lightly Active,Vegan,19.49,healthy weight,mainten_weight,1888.91,1888.91,141.67,188.89,62.96
+647,36,Male,196,102,Lightly Active,Omnivore,26.55,overweight,loss_weight,2846.25,2346.25,284.62,213.47,94.88
+648,69,Female,197,112,Moderately Active,Omnivore,28.86,overweight,loss_weight,2860.14,2360.14,286.01,214.51,95.34
+649,34,Female,176,116,Lightly Active,Vegetarian,37.45,obese,loss_weight,2652.38,2152.38,265.24,198.93,88.41
+650,24,Female,183,118,Moderately Active,Omnivore,35.24,obese,loss_weight,3166.26,2666.26,316.63,237.47,105.54
+651,32,Male,152,88,Sedentary,Vegan,38.09,obese,loss_weight,2010.0,1510.0,201.0,150.75,67.0
+652,31,Female,199,93,Moderately Active,Omnivore,23.48,healthy weight,mainten_weight,2879.51,2879.51,215.96,287.95,95.98
+653,77,Male,197,75,Moderately Active,Vegetarian,19.33,healthy weight,mainten_weight,2481.94,2481.94,186.15,248.19,82.73
+654,29,Male,168,72,Lightly Active,Omnivore,25.51,overweight,loss_weight,2241.25,1741.25,224.12,168.09,74.71
+655,61,Male,157,93,Moderately Active,Pescatarian,37.73,obese,loss_weight,2497.44,1997.44,249.74,187.31,83.25
+656,34,Female,186,89,Very Active,Vegetarian,25.73,overweight,loss_weight,2969.59,2469.59,296.96,222.72,98.99
+657,18,Female,190,119,Lightly Active,Vegan,32.96,obese,loss_weight,2923.94,2423.94,292.39,219.3,97.46
+658,58,Female,182,79,Sedentary,Vegetarian,23.85,healthy weight,mainten_weight,1771.8,1771.8,132.88,177.18,59.06
+659,28,Male,199,98,Sedentary,Vegan,24.75,healthy weight,mainten_weight,2506.5,2506.5,187.99,250.65,83.55
+660,19,Male,198,86,Moderately Active,Vegetarian,21.94,healthy weight,mainten_weight,3111.62,3111.62,233.37,311.16,103.72
+661,53,Female,182,77,Very Active,Vegan,23.25,healthy weight,mainten_weight,2555.59,2555.59,191.67,255.56,85.19
+662,77,Female,165,90,Lightly Active,Vegan,33.06,obese,loss_weight,1904.72,1404.72,190.47,142.85,63.49
+663,75,Male,184,87,Moderately Active,Omnivore,25.7,overweight,loss_weight,2557.5,2057.5,255.75,191.81,85.25
+664,37,Female,164,97,Very Active,Pescatarian,36.06,obese,loss_weight,2844.53,2344.53,284.45,213.34,94.82
+665,52,Female,152,67,Very Active,Pescatarian,29.0,overweight,loss_weight,2068.28,1568.2800000000002,206.83,155.12,68.94
+666,37,Male,175,101,Very Active,Vegetarian,32.98,obese,loss_weight,3318.47,2818.47,331.85,248.89,110.62
+667,22,Female,177,103,Moderately Active,Pescatarian,32.88,obese,loss_weight,2891.14,2391.14,289.11,216.84,96.37
+668,27,Female,152,109,Sedentary,Vegan,47.18,severely obese,loss_weight,2092.8,1592.8000000000002,209.28,156.96,69.76
+669,70,Male,198,56,Lightly Active,Vegan,14.28,underweight,gain_muscle,1997.19,2497.19,174.75,224.68,44.38
+670,50,Female,153,104,Very Active,Vegetarian,44.43,severely obese,loss_weight,2734.56,2234.56,273.46,205.09,91.15
+671,39,Male,181,70,Moderately Active,Vegan,21.37,healthy weight,mainten_weight,2543.94,2543.94,190.8,254.39,84.8
+672,25,Female,165,105,Lightly Active,Vegetarian,38.57,obese,loss_weight,2468.47,1968.4699999999998,246.85,185.14,82.28
+673,70,Female,178,65,Lightly Active,Omnivore,20.52,healthy weight,mainten_weight,1720.81,1720.81,129.06,172.08,57.36
+674,21,Female,159,68,Moderately Active,Vegan,26.9,overweight,loss_weight,2182.01,1682.0100000000002,218.2,163.65,72.73
+675,78,Male,166,117,Lightly Active,Pescatarian,42.46,severely obese,loss_weight,2505.94,2005.94,250.59,187.95,83.53
+676,30,Male,163,85,Lightly Active,Pescatarian,31.99,obese,loss_weight,2370.16,1870.1599999999999,237.02,177.76,79.01
+677,32,Female,192,85,Lightly Active,Vegetarian,23.06,healthy weight,mainten_weight,2377.38,2377.38,178.3,237.74,79.25
+678,52,Female,150,71,Sedentary,Pescatarian,31.56,obese,loss_weight,1471.8,971.8,147.18,110.38,49.06
+679,18,Male,152,92,Very Active,Omnivore,39.82,obese,loss_weight,3079.12,2579.12,307.91,230.93,102.64
+680,22,Male,160,90,Very Active,Pescatarian,35.16,obese,loss_weight,3096.38,2596.38,309.64,232.23,103.21
+681,58,Female,170,90,Moderately Active,Pescatarian,31.14,obese,loss_weight,2342.83,1842.83,234.28,175.71,78.09
+682,52,Female,169,115,Very Active,Vegan,40.26,severely obese,loss_weight,3079.56,2579.56,307.96,230.97,102.65
+683,38,Male,197,57,Very Active,Vegan,14.69,underweight,gain_muscle,2788.03,3288.03,243.95,313.65,61.96
+684,32,Male,193,108,Moderately Active,Omnivore,28.99,overweight,loss_weight,3303.44,2803.44,330.34,247.76,110.11
+685,45,Female,153,90,Sedentary,Omnivore,38.45,obese,loss_weight,1764.3,1264.3,176.43,132.32,58.81
+686,31,Male,198,66,Sedentary,Vegetarian,16.84,underweight,gain_muscle,2097.0,2597.0,183.49,235.91,46.6
+687,39,Male,193,75,Very Active,Pescatarian,20.13,healthy weight,mainten_weight,3046.78,3046.78,228.51,304.68,101.56
+688,49,Male,193,91,Very Active,Omnivore,24.43,healthy weight,mainten_weight,3236.53,3236.53,242.74,323.65,107.88
+689,22,Female,155,63,Very Active,Vegan,26.22,overweight,loss_weight,2290.37,1790.37,229.04,171.78,76.35
+690,67,Female,198,91,Moderately Active,Vegetarian,23.21,healthy weight,mainten_weight,2559.83,2559.83,191.99,255.98,85.33
+691,41,Male,168,111,Very Active,Omnivore,39.33,obese,loss_weight,3381.0,2881.0,338.1,253.57,112.7
+692,61,Female,160,98,Moderately Active,Omnivore,38.28,obese,loss_weight,2346.7,1846.6999999999998,234.67,176.0,78.22
+693,71,Female,179,115,Moderately Active,Omnivore,35.89,obese,loss_weight,2716.76,2216.76,271.68,203.76,90.56
+694,22,Female,193,75,Very Active,Omnivore,20.13,healthy weight,mainten_weight,2907.06,2907.06,218.03,290.71,96.9
+695,68,Male,196,63,Moderately Active,Vegetarian,16.4,underweight,gain_muscle,2356.0,2856.0,206.15,265.05,52.36
+696,31,Male,198,103,Sedentary,Vegan,26.27,overweight,loss_weight,2541.0,2041.0,254.1,190.57,84.7
+697,42,Male,168,69,Lightly Active,Pescatarian,24.45,healthy weight,mainten_weight,2110.62,2110.62,158.3,211.06,70.35
+698,71,Female,179,101,Lightly Active,Pescatarian,31.52,obese,loss_weight,2217.53,1717.5300000000002,221.75,166.31,73.92
+699,31,Male,157,88,Lightly Active,Omnivore,35.7,obese,loss_weight,2352.97,1852.9699999999998,235.3,176.47,78.43
+700,46,Female,168,69,Moderately Active,Vegetarian,24.45,healthy weight,mainten_weight,2090.95,2090.95,156.82,209.09,69.7
+701,51,Male,176,79,Sedentary,Omnivore,25.5,overweight,loss_weight,1968.0,1468.0,196.8,147.6,65.6
+702,41,Male,168,80,Sedentary,Vegetarian,28.34,overweight,loss_weight,1980.0,1480.0,198.0,148.5,66.0
+703,76,Male,195,78,Moderately Active,Vegetarian,20.51,healthy weight,mainten_weight,2516.81,2516.81,188.76,251.68,83.89
+704,43,Male,197,62,Moderately Active,Pescatarian,15.98,underweight,gain_muscle,2543.94,3043.94,222.59,286.19,56.53
+705,78,Female,198,100,Sedentary,Vegetarian,25.51,overweight,loss_weight,2023.8,1523.8,202.38,151.78,67.46
+706,34,Female,182,115,Moderately Active,Pescatarian,34.72,obese,loss_weight,3032.58,2532.58,303.26,227.44,101.09
+707,40,Female,159,65,Moderately Active,Omnivore,25.71,overweight,loss_weight,1988.26,1488.26,198.83,149.12,66.28
+708,67,Male,179,94,Moderately Active,Vegetarian,29.34,overweight,loss_weight,2679.56,2179.56,267.96,200.97,89.32
+709,23,Female,153,56,Sedentary,Vegan,23.92,healthy weight,mainten_weight,1488.3,1488.3,111.62,148.83,49.61
+710,34,Male,152,68,Very Active,Vegetarian,29.43,overweight,loss_weight,2527.12,2027.12,252.71,189.53,84.24
+711,32,Male,174,100,Moderately Active,Vegan,33.03,obese,loss_weight,2995.38,2495.38,299.54,224.65,99.85
+712,28,Male,191,80,Lightly Active,Pescatarian,21.93,healthy weight,mainten_weight,2555.78,2555.78,191.68,255.58,85.19
+713,48,Female,188,70,Lightly Active,Vegan,19.81,healthy weight,mainten_weight,2026.75,2026.75,152.01,202.68,67.56
+714,58,Female,171,113,Sedentary,Vegan,38.64,obese,loss_weight,2097.3,1597.3000000000002,209.73,157.3,69.91
+715,58,Male,162,61,Lightly Active,Vegetarian,23.24,healthy weight,mainten_weight,1839.06,1839.06,137.93,183.91,61.3
+716,71,Male,192,50,Lightly Active,Vegetarian,13.56,underweight,gain_muscle,1856.25,2356.25,162.42,208.83,41.25
+717,42,Male,170,118,Moderately Active,Vegetarian,40.83,severely obese,loss_weight,3158.12,2658.12,315.81,236.86,105.27
+718,52,Male,192,97,Sedentary,Vegetarian,26.31,overweight,loss_weight,2298.0,1798.0,229.8,172.35,76.6
+719,58,Male,159,70,Sedentary,Omnivore,27.69,overweight,loss_weight,1690.5,1190.5,169.05,126.79,56.35
+720,61,Male,151,51,Very Active,Omnivore,22.37,healthy weight,mainten_weight,1990.22,1990.22,149.27,199.02,66.34
+721,26,Male,157,90,Lightly Active,Omnivore,36.51,obese,loss_weight,2414.84,1914.8400000000001,241.48,181.11,80.49
+722,62,Male,192,110,Moderately Active,Vegetarian,29.84,overweight,loss_weight,3092.25,2592.25,309.23,231.92,103.07
+723,24,Female,166,101,Very Active,Omnivore,36.65,obese,loss_weight,3047.21,2547.21,304.72,228.54,101.57
+724,33,Female,164,91,Moderately Active,Pescatarian,33.83,obese,loss_weight,2493.95,1993.9499999999998,249.39,187.05,83.13
+725,54,Male,195,98,Very Active,Omnivore,25.77,overweight,loss_weight,3335.72,2835.72,333.57,250.18,111.19
+726,43,Male,184,63,Sedentary,Pescatarian,18.61,healthy weight,mainten_weight,1884.0,1884.0,141.3,188.4,62.8
+727,33,Female,159,80,Lightly Active,Vegetarian,31.64,obese,loss_weight,2018.16,1518.16,201.82,151.36,67.27
+728,32,Male,194,81,Lightly Active,Pescatarian,21.52,healthy weight,mainten_weight,2567.81,2567.81,192.59,256.78,85.59
+729,54,Male,192,76,Sedentary,Pescatarian,20.62,healthy weight,mainten_weight,2034.0,2034.0,152.55,203.4,67.8
+730,27,Male,160,52,Sedentary,Pescatarian,20.31,healthy weight,mainten_weight,1668.0,1668.0,125.1,166.8,55.6
+731,59,Female,163,73,Sedentary,Vegetarian,27.48,overweight,loss_weight,1551.3,1051.3,155.13,116.35,51.71
+732,29,Female,152,69,Very Active,Vegan,29.86,overweight,loss_weight,2301.15,1801.15,230.12,172.59,76.7
+733,36,Male,151,100,Very Active,Vegetarian,43.86,severely obese,loss_weight,3051.09,2551.09,305.11,228.83,101.7
+734,58,Female,159,59,Sedentary,Omnivore,23.34,healthy weight,mainten_weight,1359.3,1359.3,101.95,135.93,45.31
+735,29,Female,170,67,Lightly Active,Vegetarian,23.18,healthy weight,mainten_weight,1961.44,1961.44,147.11,196.14,65.38
+736,32,Female,199,63,Lightly Active,Vegan,15.91,underweight,gain_muscle,2135.03,2635.03,186.82,240.19,47.45
+737,60,Female,156,56,Very Active,Vegan,23.01,healthy weight,mainten_weight,1852.65,1852.65,138.95,185.27,61.75
+738,51,Male,189,66,Moderately Active,Pescatarian,18.48,underweight,gain_muscle,2466.44,2966.44,215.81,277.47,54.81
+739,35,Female,192,85,Lightly Active,Vegetarian,23.06,healthy weight,mainten_weight,2356.75,2356.75,176.76,235.68,78.56
+740,51,Male,161,84,Very Active,Vegetarian,32.41,obese,loss_weight,2753.53,2253.53,275.35,206.51,91.78
+741,61,Male,195,91,Lightly Active,Vegetarian,23.93,healthy weight,mainten_weight,2514.53,2514.53,188.59,251.45,83.82
+742,75,Male,163,91,Very Active,Pescatarian,34.25,obese,loss_weight,2688.84,2188.84,268.88,201.66,89.63
+743,22,Female,168,117,Very Active,Pescatarian,41.45,severely obese,loss_weight,3362.03,2862.03,336.2,252.15,112.07
+744,23,Male,178,76,Sedentary,Pescatarian,23.99,healthy weight,mainten_weight,2115.0,2115.0,158.62,211.5,70.5
+745,61,Male,187,50,Very Active,Pescatarian,14.3,underweight,gain_muscle,2361.09,2861.09,206.6,265.62,52.47
+746,57,Male,165,109,Lightly Active,Vegan,40.04,severely obese,loss_weight,2531.72,2031.7199999999998,253.17,189.88,84.39
+747,67,Male,158,57,Moderately Active,Pescatarian,22.83,healthy weight,mainten_weight,1902.62,1902.62,142.7,190.26,63.42
+748,22,Male,179,54,Lightly Active,Omnivore,16.85,underweight,gain_muscle,2136.41,2636.41,186.94,240.35,47.48
+749,19,Female,199,64,Very Active,Pescatarian,16.16,underweight,gain_muscle,2807.87,3307.87,245.69,315.89,62.4
+750,56,Male,177,51,Sedentary,Pescatarian,16.28,underweight,gain_muscle,1609.5,2109.5,140.83,181.07,35.77
+751,71,Male,167,62,Sedentary,Vegetarian,22.23,healthy weight,mainten_weight,1576.5,1576.5,118.24,157.65,52.55
+752,38,Male,192,105,Moderately Active,Vegan,28.48,overweight,loss_weight,3200.75,2700.75,320.08,240.06,106.69
+753,47,Male,170,96,Lightly Active,Vegetarian,33.22,obese,loss_weight,2464.69,1964.69,246.47,184.85,82.16
+754,34,Female,159,55,Lightly Active,Omnivore,21.76,healthy weight,mainten_weight,1667.53,1667.53,125.06,166.75,55.58
+755,73,Male,187,77,Moderately Active,Pescatarian,22.02,healthy weight,mainten_weight,2447.06,2447.06,183.53,244.71,81.57
+756,23,Female,190,89,Lightly Active,Vegan,24.65,healthy weight,mainten_weight,2477.06,2477.06,185.78,247.71,82.57
+757,36,Male,168,69,Very Active,Omnivore,24.45,healthy weight,mainten_weight,2699.62,2699.62,202.47,269.96,89.99
+758,23,Female,163,66,Moderately Active,Omnivore,24.84,healthy weight,mainten_weight,2174.26,2174.26,163.07,217.43,72.48
+759,26,Female,190,88,Sedentary,Omnivore,24.38,healthy weight,mainten_weight,2131.8,2131.8,159.89,213.18,71.06
+760,32,Female,181,117,Sedentary,Vegetarian,35.71,obese,loss_weight,2376.3,1876.3000000000002,237.63,178.22,79.21
+761,53,Male,183,108,Lightly Active,Vegan,32.25,obese,loss_weight,2700.16,2200.16,270.02,202.51,90.01
+762,46,Female,165,85,Moderately Active,Pescatarian,31.22,obese,loss_weight,2309.89,1809.8899999999999,230.99,173.24,77.0
+763,48,Female,150,50,Very Active,Vegan,22.22,healthy weight,mainten_weight,1787.96,1787.96,134.1,178.8,59.6
+764,62,Male,171,103,Sedentary,Pescatarian,35.22,obese,loss_weight,2152.5,1652.5,215.25,161.44,71.75
+765,59,Male,171,82,Lightly Active,Vegetarian,28.04,overweight,loss_weight,2198.28,1698.2800000000002,219.83,164.87,73.28
+766,22,Female,158,62,Lightly Active,Vegetarian,24.84,healthy weight,mainten_weight,1837.69,1837.69,137.83,183.77,61.26
+767,44,Male,155,119,Sedentary,Vegan,49.53,severely obese,loss_weight,2332.5,1832.5,233.25,174.94,77.75
+768,24,Male,173,74,Lightly Active,Omnivore,24.73,healthy weight,mainten_weight,2346.09,2346.09,175.96,234.61,78.2
+769,41,Male,177,57,Lightly Active,Omnivore,18.19,underweight,gain_muscle,2029.84,2529.84,177.61,228.36,45.11
+770,39,Female,192,55,Sedentary,Omnivore,14.92,underweight,gain_muscle,1672.8,2172.8,146.37,188.19,37.17
+771,52,Female,165,75,Very Active,Vegetarian,27.55,overweight,loss_weight,2346.43,1846.4299999999998,234.64,175.98,78.21
+772,47,Female,170,104,Very Active,Pescatarian,35.99,obese,loss_weight,2943.71,2443.71,294.37,220.78,98.12
+773,54,Female,186,116,Very Active,Pescatarian,33.53,obese,loss_weight,3262.84,2762.84,326.28,244.71,108.76
+774,25,Female,150,53,Lightly Active,Vegan,23.56,healthy weight,mainten_weight,1624.56,1624.56,121.84,162.46,54.15
+775,51,Female,174,93,Sedentary,Pescatarian,30.72,obese,loss_weight,1921.8,1421.8,192.18,144.13,64.06
+776,79,Female,181,61,Sedentary,Pescatarian,18.62,healthy weight,mainten_weight,1422.3,1422.3,106.67,142.23,47.41
+777,62,Male,169,75,Sedentary,Vegan,26.26,overweight,loss_weight,1801.5,1301.5,180.15,135.11,60.05
+778,32,Male,154,64,Very Active,Omnivore,26.99,overweight,loss_weight,2496.94,1996.94,249.69,187.27,83.23
+779,75,Male,153,80,Very Active,Omnivore,34.17,obese,loss_weight,2391.28,1891.2800000000002,239.13,179.35,79.71
+780,37,Male,181,100,Very Active,Pescatarian,30.52,obese,loss_weight,3365.91,2865.91,336.59,252.44,112.2
+781,31,Male,196,50,Very Active,Vegan,13.02,underweight,gain_muscle,2716.88,3216.88,237.73,305.65,60.38
+782,53,Male,154,63,Moderately Active,Pescatarian,26.56,overweight,loss_weight,2065.38,1565.38,206.54,154.9,68.85
+783,71,Female,159,50,Lightly Active,Pescatarian,19.78,healthy weight,mainten_weight,1344.41,1344.41,100.83,134.44,44.81
+784,71,Female,190,111,Lightly Active,Vegetarian,30.75,obese,loss_weight,2449.56,1949.56,244.96,183.72,81.65
+785,21,Male,159,61,Moderately Active,Vegetarian,24.13,healthy weight,mainten_weight,2330.81,2330.81,174.81,233.08,77.69
+786,28,Male,172,60,Lightly Active,Vegetarian,20.28,healthy weight,mainten_weight,2117.5,2117.5,158.81,211.75,70.58
+787,36,Male,186,62,Sedentary,Vegetarian,17.92,underweight,gain_muscle,1929.0,2429.0,168.79,217.01,42.87
+788,48,Male,151,94,Very Active,Vegan,41.23,severely obese,loss_weight,2844.09,2344.09,284.41,213.31,94.8
+789,68,Male,174,103,Lightly Active,Pescatarian,34.02,obese,loss_weight,2450.94,1950.94,245.09,183.82,81.7
+790,75,Female,185,51,Very Active,Pescatarian,14.9,underweight,gain_muscle,1949.68,2449.6800000000003,170.6,219.34,43.33
+791,43,Female,161,95,Sedentary,Vegetarian,36.65,obese,loss_weight,1896.3,1396.3,189.63,142.22,63.21
+792,21,Female,181,97,Lightly Active,Pescatarian,29.61,overweight,loss_weight,2523.47,2023.4699999999998,252.35,189.26,84.12
+793,31,Female,186,111,Very Active,Pescatarian,32.08,obese,loss_weight,3374.96,2874.96,337.5,253.12,112.5
+794,33,Male,184,78,Very Active,Vegan,23.04,healthy weight,mainten_weight,3053.25,3053.25,228.99,305.32,101.78
+795,41,Male,155,84,Moderately Active,Vegetarian,34.96,obese,loss_weight,2493.56,1993.56,249.36,187.02,83.12
+796,72,Female,180,67,Lightly Active,Pescatarian,20.68,healthy weight,mainten_weight,1751.75,1751.75,131.38,175.18,58.39
+797,71,Female,160,110,Lightly Active,Vegan,42.97,severely obese,loss_weight,2178.0,1678.0,217.8,163.35,72.6
+798,71,Male,158,87,Sedentary,Omnivore,34.85,obese,loss_weight,1809.0,1309.0,180.9,135.67,60.3
+799,76,Male,166,92,Very Active,Vegan,33.39,obese,loss_weight,2729.81,2229.81,272.98,204.74,90.99
+800,21,Female,175,65,Lightly Active,Vegan,21.22,healthy weight,mainten_weight,2031.91,2031.91,152.39,203.19,67.73
+801,46,Male,191,114,Moderately Active,Pescatarian,31.25,obese,loss_weight,3268.56,2768.56,326.86,245.14,108.95
+802,27,Female,166,79,Sedentary,Vegan,28.67,overweight,loss_weight,1837.8,1337.8,183.78,137.83,61.26
+803,27,Male,154,73,Sedentary,Vegetarian,30.78,obese,loss_weight,1875.0,1375.0,187.5,140.62,62.5
+804,49,Female,152,111,Lightly Active,Pescatarian,48.04,severely obese,loss_weight,2274.25,1774.25,227.43,170.57,75.81
+805,25,Male,153,90,Very Active,Vegan,38.45,obese,loss_weight,2995.03,2495.03,299.5,224.63,99.83
+806,55,Male,174,71,Sedentary,Omnivore,23.45,healthy weight,mainten_weight,1833.0,1833.0,137.47,183.3,61.1
+807,73,Female,157,70,Very Active,Vegetarian,28.4,overweight,loss_weight,1992.81,1492.81,199.28,149.46,66.43
+808,41,Female,181,72,Moderately Active,Vegetarian,21.98,healthy weight,mainten_weight,2302.14,2302.14,172.66,230.21,76.74
+809,55,Female,190,115,Moderately Active,Omnivore,31.86,obese,loss_weight,2947.33,2447.33,294.73,221.05,98.24
+810,29,Female,198,77,Sedentary,Omnivore,19.64,healthy weight,mainten_weight,2041.8,2041.8,153.13,204.18,68.06
+811,39,Female,173,52,Sedentary,Vegan,17.37,underweight,gain_muscle,1494.3,1994.3,130.75,168.11,33.21
+812,56,Female,152,51,Sedentary,Pescatarian,22.07,healthy weight,mainten_weight,1222.8,1222.8,91.71,122.28,40.76
+813,44,Female,194,50,Moderately Active,Omnivore,13.29,underweight,gain_muscle,2063.83,2563.83,180.59,232.18,45.86
+814,40,Female,174,84,Moderately Active,Pescatarian,27.74,overweight,loss_weight,2428.08,1928.08,242.81,182.11,80.94
+815,35,Female,179,118,Moderately Active,Pescatarian,36.83,obese,loss_weight,3042.26,2542.26,304.23,228.17,101.41
+816,57,Male,154,50,Sedentary,Omnivore,21.08,healthy weight,mainten_weight,1419.0,1419.0,106.42,141.9,47.3
+817,53,Female,173,60,Lightly Active,Omnivore,20.05,healthy weight,mainten_weight,1725.97,1725.97,129.45,172.6,57.53
+818,21,Female,154,112,Lightly Active,Pescatarian,47.23,severely obese,loss_weight,2497.69,1997.69,249.77,187.33,83.26
+819,64,Male,178,90,Lightly Active,Pescatarian,28.41,overweight,loss_weight,2334.06,1834.06,233.41,175.05,77.8
+820,52,Female,168,86,Sedentary,Vegetarian,30.47,obese,loss_weight,1786.8,1286.8,178.68,134.01,59.56
+821,28,Female,156,101,Moderately Active,Vegetarian,41.5,severely obese,loss_weight,2610.2,2110.2,261.02,195.76,87.01
+822,50,Male,156,93,Sedentary,Vegan,38.21,obese,loss_weight,1992.0,1492.0,199.2,149.4,66.4
+823,30,Male,186,55,Moderately Active,Vegetarian,15.9,underweight,gain_muscle,2429.62,2929.62,212.59,273.33,53.99
+824,73,Female,152,61,Very Active,Vegan,26.4,overweight,loss_weight,1783.65,1283.65,178.37,133.77,59.46
+825,44,Male,197,71,Moderately Active,Pescatarian,18.29,underweight,gain_muscle,2675.69,3175.69,234.12,301.02,59.46
+826,36,Male,179,75,Moderately Active,Vegetarian,23.41,healthy weight,mainten_weight,2625.31,2625.31,196.9,262.53,87.51
+827,35,Male,152,107,Sedentary,Vegetarian,46.31,severely obese,loss_weight,2220.0,1720.0,222.0,166.5,74.0
+828,77,Female,162,55,Moderately Active,Vegan,20.96,healthy weight,mainten_weight,1575.58,1575.58,118.17,157.56,52.52
+829,54,Male,153,103,Sedentary,Vegan,44.0,severely obese,loss_weight,2065.5,1565.5,206.55,154.91,68.85
+830,18,Male,183,80,Sedentary,Vegan,23.89,healthy weight,mainten_weight,2230.5,2230.5,167.29,223.05,74.35
+831,63,Male,174,101,Very Active,Vegan,33.36,obese,loss_weight,3083.44,2583.44,308.34,231.26,102.78
+832,61,Male,178,74,Sedentary,Vegan,23.36,healthy weight,mainten_weight,1863.0,1863.0,139.72,186.3,62.1
+833,37,Male,196,70,Sedentary,Vegetarian,18.22,underweight,gain_muscle,2094.0,2594.0,183.22,235.58,46.53
+834,26,Female,185,90,Moderately Active,Omnivore,26.3,overweight,loss_weight,2736.14,2236.14,273.61,205.21,91.2
+835,31,Female,160,59,Moderately Active,Vegan,23.05,healthy weight,mainten_weight,1974.7,1974.7,148.1,197.47,65.82
+836,45,Female,157,70,Moderately Active,Vegetarian,28.4,overweight,loss_weight,2007.64,1507.64,200.76,150.57,66.92
+837,23,Female,192,92,Very Active,Pescatarian,24.96,healthy weight,mainten_weight,3180.9,3180.9,238.57,318.09,106.03
+838,20,Male,182,92,Sedentary,Vegan,27.77,overweight,loss_weight,2355.0,1855.0,235.5,176.62,78.5
+839,51,Male,158,68,Very Active,Vegan,27.24,overweight,loss_weight,2445.19,1945.19,244.52,183.39,81.51
+840,75,Female,191,86,Sedentary,Pescatarian,23.57,healthy weight,mainten_weight,1821.3,1821.3,136.6,182.13,60.71
+841,25,Male,197,109,Very Active,Vegan,28.09,overweight,loss_weight,3797.16,3297.16,379.72,284.79,126.57
+842,70,Female,151,116,Very Active,Pescatarian,50.87,severely obese,loss_weight,2747.49,2247.49,274.75,206.06,91.58
+843,72,Male,191,69,Very Active,Pescatarian,18.91,healthy weight,mainten_weight,2637.09,2637.09,197.78,263.71,87.9
+844,77,Female,196,60,Moderately Active,Omnivore,15.62,underweight,gain_muscle,1982.45,2482.45,173.46,223.03,44.05
+845,60,Female,175,105,Moderately Active,Omnivore,34.29,obese,loss_weight,2608.26,2108.26,260.83,195.62,86.94
+846,22,Male,168,72,Moderately Active,Pescatarian,25.51,overweight,loss_weight,2580.75,2080.75,258.07,193.56,86.03
+847,72,Female,169,111,Lightly Active,Pescatarian,38.86,obese,loss_weight,2262.22,1762.2199999999998,226.22,169.67,75.41
+848,43,Female,169,62,Moderately Active,Pescatarian,21.71,healthy weight,mainten_weight,2015.39,2015.39,151.15,201.54,67.18
+849,45,Female,174,53,Very Active,Omnivore,17.51,underweight,gain_muscle,2124.34,2624.34,185.88,238.99,47.21
+850,37,Male,178,112,Moderately Active,Vegetarian,35.35,obese,loss_weight,3181.38,2681.38,318.14,238.6,106.05
+851,75,Male,185,108,Lightly Active,Vegetarian,31.56,obese,loss_weight,2566.09,2066.09,256.61,192.46,85.54
+852,63,Female,199,97,Moderately Active,Vegetarian,24.49,healthy weight,mainten_weight,2693.51,2693.51,202.01,269.35,89.78
+853,41,Male,154,100,Moderately Active,Pescatarian,42.17,severely obese,loss_weight,2731.88,2231.88,273.19,204.89,91.06
+854,23,Male,151,61,Lightly Active,Omnivore,26.75,overweight,loss_weight,1985.16,1485.16,198.52,148.89,66.17
+855,20,Female,199,94,Lightly Active,Omnivore,23.74,healthy weight,mainten_weight,2643.78,2643.78,198.28,264.38,88.13
+856,61,Male,184,70,Very Active,Pescatarian,20.68,healthy weight,mainten_weight,2673.75,2673.75,200.53,267.38,89.12
+857,66,Male,188,53,Sedentary,Vegan,15.0,underweight,gain_muscle,1656.0,2156.0,144.9,186.3,36.8
+858,38,Female,183,113,Very Active,Pescatarian,33.74,obese,loss_weight,3316.74,2816.74,331.67,248.76,110.56
+859,47,Female,157,91,Moderately Active,Vegan,36.92,obese,loss_weight,2317.64,1817.6399999999999,231.76,173.82,77.25
+860,50,Male,191,111,Moderately Active,Vegan,30.43,obese,loss_weight,3191.06,2691.06,319.11,239.33,106.37
+861,57,Female,187,103,Moderately Active,Omnivore,29.45,overweight,loss_weight,2716.76,2216.76,271.68,203.76,90.56
+862,53,Female,177,91,Moderately Active,Vegetarian,29.05,overweight,loss_weight,2464.89,1964.8899999999999,246.49,184.87,82.16
+863,41,Female,185,78,Very Active,Pescatarian,22.79,healthy weight,mainten_weight,2708.68,2708.68,203.15,270.87,90.29
+864,73,Male,186,62,Sedentary,Pescatarian,17.92,underweight,gain_muscle,1707.0,2207.0,149.36,192.04,37.93
+865,53,Female,194,114,Moderately Active,Vegetarian,30.29,obese,loss_weight,2986.08,2486.08,298.61,223.96,99.54
+866,37,Female,155,101,Lightly Active,Pescatarian,42.04,severely obese,loss_weight,2245.03,1745.0300000000002,224.5,168.38,74.83
+867,63,Female,196,85,Lightly Active,Vegan,22.13,healthy weight,mainten_weight,2198.62,2198.62,164.9,219.86,73.29
+868,58,Male,190,95,Sedentary,Pescatarian,26.32,overweight,loss_weight,2223.0,1723.0,222.3,166.72,74.1
+869,23,Male,170,74,Lightly Active,Vegetarian,25.61,overweight,loss_weight,2327.19,1827.19,232.72,174.54,77.57
+870,77,Male,152,57,Moderately Active,Vegan,24.67,healthy weight,mainten_weight,1767.0,1767.0,132.53,176.7,58.9
+871,70,Female,191,99,Moderately Active,Vegan,27.14,overweight,loss_weight,2592.76,2092.76,259.28,194.46,86.43
+872,49,Male,164,77,Lightly Active,Vegan,28.63,overweight,loss_weight,2138.12,1638.12,213.81,160.36,71.27
+873,30,Female,176,118,Sedentary,Pescatarian,38.09,obese,loss_weight,2362.8,1862.8000000000002,236.28,177.21,78.76
+874,59,Female,151,87,Lightly Active,Vegan,38.16,obese,loss_weight,1866.91,1366.91,186.69,140.02,62.23
+875,66,Male,186,117,Moderately Active,Vegetarian,33.82,obese,loss_weight,3111.62,2611.62,311.16,233.37,103.72
+876,63,Male,191,88,Sedentary,Vegetarian,24.12,healthy weight,mainten_weight,2116.5,2116.5,158.74,211.65,70.55
+877,73,Male,151,75,Moderately Active,Pescatarian,32.89,obese,loss_weight,2067.31,1567.31,206.73,155.05,68.91
+878,46,Female,152,99,Lightly Active,Omnivore,42.85,severely obese,loss_weight,2129.88,1629.88,212.99,159.74,71.0
+879,76,Female,172,109,Moderately Active,Vegetarian,36.84,obese,loss_weight,2517.2,2017.1999999999998,251.72,188.79,83.91
+880,58,Female,185,57,Sedentary,Omnivore,16.65,underweight,gain_muscle,1530.3,2030.3,133.9,172.16,34.01
+881,29,Female,157,50,Sedentary,Omnivore,20.28,healthy weight,mainten_weight,1410.3,1410.3,105.77,141.03,47.01
+882,52,Male,176,114,Lightly Active,Vegan,36.8,obese,loss_weight,2729.38,2229.38,272.94,204.7,90.98
+883,68,Female,169,113,Lightly Active,Vegan,39.56,obese,loss_weight,2317.22,1817.2199999999998,231.72,173.79,77.24
+884,54,Female,175,72,Lightly Active,Vegan,23.51,healthy weight,mainten_weight,1901.28,1901.28,142.6,190.13,63.38
+885,18,Female,160,53,Moderately Active,Vegan,20.7,healthy weight,mainten_weight,1982.45,1982.45,148.68,198.25,66.08
+886,49,Female,186,112,Moderately Active,Omnivore,32.37,obese,loss_weight,2908.58,2408.58,290.86,218.14,96.95
+887,78,Male,193,58,Moderately Active,Vegetarian,15.57,underweight,gain_muscle,2171.94,2671.94,190.04,244.34,48.27
+888,76,Male,154,111,Sedentary,Vegan,46.8,severely obese,loss_weight,2037.0,1537.0,203.7,152.78,67.9
+889,18,Female,170,52,Very Active,Pescatarian,17.99,underweight,gain_muscle,2296.84,2796.84,200.97,258.39,51.04
+890,73,Female,186,62,Moderately Active,Vegan,17.92,underweight,gain_muscle,1947.58,2447.58,170.41,219.1,43.28
+891,73,Female,153,110,Very Active,Vegetarian,46.99,severely obese,loss_weight,2639.68,2139.68,263.97,197.98,87.99
+892,21,Female,153,116,Very Active,Vegetarian,49.55,severely obese,loss_weight,3191.68,2691.68,319.17,239.38,106.39
+893,50,Female,166,104,Moderately Active,Pescatarian,37.74,obese,loss_weight,2583.08,2083.08,258.31,193.73,86.1
+894,25,Female,181,75,Very Active,Vegan,22.89,healthy weight,mainten_weight,2751.81,2751.81,206.39,275.18,91.73
+895,60,Female,164,69,Lightly Active,Vegan,25.65,overweight,loss_weight,1724.25,1224.25,172.43,129.32,57.47
+896,71,Female,153,107,Very Active,Pescatarian,45.71,severely obese,loss_weight,2605.18,2105.18,260.52,195.39,86.84
+897,41,Male,159,108,Lightly Active,Pescatarian,42.72,severely obese,loss_weight,2576.41,2076.41,257.64,193.23,85.88
+898,56,Male,192,81,Lightly Active,Pescatarian,21.97,healthy weight,mainten_weight,2385.62,2385.62,178.92,238.56,79.52
+899,69,Female,193,69,Lightly Active,Omnivore,18.52,healthy weight,mainten_weight,1911.59,1911.59,143.37,191.16,63.72
+900,54,Female,167,87,Moderately Active,Pescatarian,31.2,obese,loss_weight,2298.26,1798.2600000000002,229.83,172.37,76.61
+901,46,Male,192,75,Very Active,Pescatarian,20.35,healthy weight,mainten_weight,2975.62,2975.62,223.17,297.56,99.19
+902,19,Male,160,119,Moderately Active,Pescatarian,46.48,severely obese,loss_weight,3255.0,2755.0,325.5,244.12,108.5
+903,33,Female,158,84,Lightly Active,Vegan,33.65,obese,loss_weight,2064.56,1564.56,206.46,154.84,68.82
+904,39,Female,163,52,Sedentary,Vegan,19.57,healthy weight,mainten_weight,1419.3,1419.3,106.45,141.93,47.31
+905,53,Male,174,67,Sedentary,Vegetarian,22.13,healthy weight,mainten_weight,1797.0,1797.0,134.78,179.7,59.9
+906,30,Male,172,115,Lightly Active,Vegetarian,38.87,obese,loss_weight,2860.0,2360.0,286.0,214.5,95.33
+907,37,Female,155,90,Moderately Active,Omnivore,37.46,obese,loss_weight,2360.26,1860.2600000000002,236.03,177.02,78.68
+908,32,Male,196,57,Sedentary,Omnivore,14.84,underweight,gain_muscle,1968.0,2468.0,172.2,221.4,43.73
+909,64,Female,162,118,Lightly Active,Vegan,44.96,severely obese,loss_weight,2353.31,1853.31,235.33,176.5,78.44
+910,26,Female,157,96,Moderately Active,Vegetarian,38.95,obese,loss_weight,2557.89,2057.89,255.79,191.84,85.26
+911,64,Male,185,62,Moderately Active,Omnivore,18.12,underweight,gain_muscle,2264.94,2764.94,198.18,254.81,50.33
+912,42,Female,167,99,Very Active,Omnivore,35.5,obese,loss_weight,2868.24,2368.24,286.82,215.12,95.61
+913,44,Male,182,57,Moderately Active,Pescatarian,17.21,underweight,gain_muscle,2313.38,2813.38,202.42,260.26,51.41
+914,68,Male,188,83,Moderately Active,Omnivore,23.48,healthy weight,mainten_weight,2588.5,2588.5,194.14,258.85,86.28
+915,34,Male,190,106,Sedentary,Vegetarian,29.36,overweight,loss_weight,2499.0,1999.0,249.9,187.42,83.3
+916,41,Female,161,51,Very Active,Vegetarian,19.68,healthy weight,mainten_weight,1984.18,1984.18,148.81,198.42,66.14
+917,48,Female,195,82,Lightly Active,Vegan,21.56,healthy weight,mainten_weight,2251.91,2251.91,168.89,225.19,75.06
+918,58,Female,183,97,Lightly Active,Vegetarian,28.96,overweight,loss_weight,2286.28,1786.2800000000002,228.63,171.47,76.21
+919,20,Female,162,74,Lightly Active,Omnivore,28.2,overweight,loss_weight,2050.81,1550.81,205.08,153.81,68.36
+920,28,Female,157,53,Moderately Active,Vegan,21.5,healthy weight,mainten_weight,1875.89,1875.89,140.69,187.59,62.53
+921,21,Male,178,117,Moderately Active,Vegetarian,36.93,obese,loss_weight,3382.88,2882.88,338.29,253.72,112.76
+922,41,Female,169,60,Sedentary,Vegan,21.01,healthy weight,mainten_weight,1548.3,1548.3,116.12,154.83,51.61
+923,39,Male,175,50,Lightly Active,Vegetarian,16.33,underweight,gain_muscle,1930.16,2430.16,168.89,217.14,42.89
+924,65,Female,185,88,Moderately Active,Pescatarian,25.71,overweight,loss_weight,2402.89,1902.8899999999999,240.29,180.22,80.1
+925,68,Female,196,108,Sedentary,Pescatarian,28.11,overweight,loss_weight,2164.8,1664.8000000000002,216.48,162.36,72.16
+926,61,Female,160,83,Moderately Active,Vegetarian,32.42,obese,loss_weight,2114.2,1614.1999999999998,211.42,158.56,70.47
+927,64,Male,193,105,Moderately Active,Vegetarian,28.19,overweight,loss_weight,3008.94,2508.94,300.89,225.67,100.3
+928,34,Female,182,115,Lightly Active,Vegan,34.72,obese,loss_weight,2690.19,2190.19,269.02,201.76,89.67
+929,49,Male,167,56,Lightly Active,Vegetarian,20.08,healthy weight,mainten_weight,1875.16,1875.16,140.64,187.52,62.51
+930,57,Female,152,50,Lightly Active,Omnivore,21.64,healthy weight,mainten_weight,1380.5,1380.5,103.54,138.05,46.02
+931,71,Female,169,104,Sedentary,Omnivore,36.41,obese,loss_weight,1896.3,1396.3,189.63,142.22,63.21
+932,58,Male,154,111,Sedentary,Omnivore,46.8,severely obese,loss_weight,2145.0,1645.0,214.5,160.88,71.5
+933,40,Female,164,68,Moderately Active,Omnivore,25.28,overweight,loss_weight,2083.2,1583.1999999999998,208.32,156.24,69.44
+934,26,Female,156,55,Lightly Active,Omnivore,22.6,healthy weight,mainten_weight,1696.75,1696.75,127.26,169.68,56.56
+935,42,Male,158,100,Very Active,Pescatarian,40.06,severely obese,loss_weight,3074.81,2574.81,307.48,230.61,102.49
+936,43,Female,158,74,Sedentary,Omnivore,29.64,overweight,loss_weight,1621.8,1121.8,162.18,121.63,54.06
+937,27,Female,191,66,Moderately Active,Vegetarian,18.09,underweight,gain_muscle,2414.51,2914.51,211.27,271.63,53.66
+938,41,Male,196,82,Lightly Active,Vegan,21.35,healthy weight,mainten_weight,2536.88,2536.88,190.27,253.69,84.56
+939,71,Female,199,50,Very Active,Vegetarian,12.63,underweight,gain_muscle,2117.87,2617.87,185.31,238.26,47.06
+940,78,Female,168,77,Very Active,Vegan,27.28,overweight,loss_weight,2189.03,1689.0300000000002,218.9,164.18,72.97
+941,56,Female,186,67,Very Active,Vegan,19.37,healthy weight,mainten_weight,2400.34,2400.34,180.03,240.03,80.01
+942,71,Male,168,103,Lightly Active,Vegetarian,36.49,obese,loss_weight,2378.75,1878.75,237.88,178.41,79.29
+943,35,Female,176,56,Sedentary,Vegan,18.08,underweight,gain_muscle,1588.8,2088.8,139.02,178.74,35.31
+944,39,Male,172,54,Moderately Active,Vegetarian,18.25,underweight,gain_muscle,2208.75,2708.75,193.27,248.48,49.08
+945,25,Male,194,77,Moderately Active,Vegan,20.46,healthy weight,mainten_weight,2886.88,2886.88,216.52,288.69,96.23
+946,40,Male,190,76,Very Active,Vegan,21.05,healthy weight,mainten_weight,3023.06,3023.06,226.73,302.31,100.77
+947,46,Male,190,62,Sedentary,Pescatarian,17.17,underweight,gain_muscle,1899.0,2399.0,166.16,213.64,42.2
+948,75,Male,174,50,Moderately Active,Omnivore,16.51,underweight,gain_muscle,1887.12,2387.12,165.12,212.3,41.94
+949,23,Female,160,50,Very Active,Vegan,19.53,healthy weight,mainten_weight,2111.4,2111.4,158.35,211.14,70.38
+950,55,Female,150,67,Sedentary,Omnivore,29.78,overweight,loss_weight,1405.8,905.8,140.58,105.43,46.86
+951,41,Female,159,112,Sedentary,Vegetarian,44.3,severely obese,loss_weight,2097.3,1597.3000000000002,209.73,157.3,69.91
+952,63,Female,176,90,Sedentary,Pescatarian,29.05,overweight,loss_weight,1828.8,1328.8,182.88,137.16,60.96
+953,42,Female,156,60,Moderately Active,Pescatarian,24.65,healthy weight,mainten_weight,1866.2,1866.2,139.97,186.62,62.21
+954,55,Female,171,71,Sedentary,Omnivore,24.28,healthy weight,mainten_weight,1611.3,1611.3,120.85,161.13,53.71
+955,55,Female,197,85,Lightly Active,Vegan,21.9,healthy weight,mainten_weight,2262.22,2262.22,169.67,226.22,75.41
+956,39,Female,153,80,Lightly Active,Vegan,34.17,obese,loss_weight,1925.34,1425.34,192.53,144.4,64.18
+957,34,Male,170,92,Lightly Active,Vegetarian,31.83,obese,loss_weight,2499.06,1999.06,249.91,187.43,83.3
+958,64,Male,186,57,Sedentary,Pescatarian,16.48,underweight,gain_muscle,1701.0,2201.0,148.84,191.36,37.8
+959,55,Female,197,87,Lightly Active,Vegan,22.42,healthy weight,mainten_weight,2289.72,2289.72,171.73,228.97,76.32
+960,36,Female,153,57,Moderately Active,Pescatarian,24.35,healthy weight,mainten_weight,1837.14,1837.14,137.79,183.71,61.24
+961,47,Male,161,103,Moderately Active,Pescatarian,39.74,obese,loss_weight,2799.69,2299.69,279.97,209.98,93.32
+962,21,Female,185,69,Lightly Active,Vegan,20.16,healthy weight,mainten_weight,2172.84,2172.84,162.96,217.28,72.43
+963,71,Male,158,66,Lightly Active,Vegetarian,26.44,overweight,loss_weight,1784.06,1284.06,178.41,133.8,59.47
+964,56,Female,173,119,Sedentary,Omnivore,39.76,obese,loss_weight,2196.3,1696.3000000000002,219.63,164.72,73.21
+965,33,Male,188,92,Lightly Active,Pescatarian,26.03,overweight,loss_weight,2660.62,2160.62,266.06,199.55,88.69
+966,71,Female,154,69,Moderately Active,Pescatarian,29.09,overweight,loss_weight,1761.58,1261.58,176.16,132.12,58.72
+967,62,Male,161,112,Sedentary,Omnivore,43.21,severely obese,loss_weight,2185.5,1685.5,218.55,163.91,72.85
+968,29,Female,180,93,Very Active,Vegan,28.7,overweight,loss_weight,3017.03,2517.03,301.7,226.28,100.57
+969,27,Female,157,75,Sedentary,Vegan,30.43,obese,loss_weight,1722.3,1222.3,172.23,129.17,57.41
+970,37,Male,170,50,Lightly Active,Vegan,17.3,underweight,gain_muscle,1900.94,2400.94,166.33,213.86,42.24
+971,41,Male,165,70,Moderately Active,Vegan,25.71,overweight,loss_weight,2373.44,1873.44,237.34,178.01,79.11
+972,31,Female,199,53,Lightly Active,Vegetarian,13.38,underweight,gain_muscle,2004.41,2504.41,175.39,225.5,44.54
+973,37,Male,189,119,Lightly Active,Omnivore,33.31,obese,loss_weight,3012.97,2512.97,301.3,225.97,100.43
+974,62,Female,189,77,Very Active,Pescatarian,21.56,healthy weight,mainten_weight,2553.43,2553.43,191.51,255.34,85.11
+975,59,Male,179,59,Sedentary,Pescatarian,18.41,underweight,gain_muscle,1702.5,2202.5,148.97,191.53,37.83
+976,21,Male,188,77,Very Active,Omnivore,21.79,healthy weight,mainten_weight,3182.62,3182.62,238.7,318.26,106.09
+977,55,Male,196,51,Moderately Active,Vegan,13.28,underweight,gain_muscle,2270.75,2770.75,198.69,255.46,50.46
+978,25,Male,150,53,Very Active,Vegan,23.56,healthy weight,mainten_weight,2324.44,2324.44,174.33,232.44,77.48
+979,36,Female,177,66,Moderately Active,Omnivore,21.07,healthy weight,mainten_weight,2209.14,2209.14,165.69,220.91,73.64
+980,61,Female,169,67,Sedentary,Pescatarian,23.46,healthy weight,mainten_weight,1512.3,1512.3,113.42,151.23,50.41
+981,57,Male,170,97,Sedentary,Vegan,33.56,obese,loss_weight,2103.0,1603.0,210.3,157.72,70.1
+982,75,Male,197,112,Moderately Active,Omnivore,28.86,overweight,loss_weight,3070.94,2570.94,307.09,230.32,102.36
+983,43,Male,176,91,Sedentary,Vegan,29.38,overweight,loss_weight,2160.0,1660.0,216.0,162.0,72.0
+984,50,Female,193,115,Sedentary,Pescatarian,30.87,obese,loss_weight,2334.3,1834.3000000000002,233.43,175.07,77.81
+985,23,Male,187,68,Moderately Active,Pescatarian,19.45,healthy weight,mainten_weight,2695.06,2695.06,202.13,269.51,89.84
+986,73,Male,189,72,Sedentary,Vegan,20.16,healthy weight,mainten_weight,1849.5,1849.5,138.71,184.95,61.65
+987,73,Female,157,82,Lightly Active,Pescatarian,33.27,obese,loss_weight,1753.47,1253.47,175.35,131.51,58.45
+988,31,Male,168,96,Moderately Active,Vegan,34.01,obese,loss_weight,2883.0,2383.0,288.3,216.22,96.1
+989,73,Male,177,100,Lightly Active,Vegetarian,31.92,obese,loss_weight,2401.09,1901.0900000000001,240.11,180.08,80.04
+990,63,Male,182,84,Very Active,Vegetarian,25.36,overweight,loss_weight,2876.44,2376.44,287.64,215.73,95.88
+991,39,Male,179,54,Very Active,Vegan,16.85,underweight,gain_muscle,2533.59,3033.59,221.69,285.03,56.3
+992,65,Male,175,91,Sedentary,Vegan,29.71,overweight,loss_weight,2020.5,1520.5,202.05,151.54,67.35
+993,23,Female,183,101,Very Active,Omnivore,30.16,obese,loss_weight,3239.12,2739.12,323.91,242.93,107.97
+994,34,Female,190,57,Very Active,Omnivore,15.79,underweight,gain_muscle,2460.71,2960.71,215.31,276.83,54.68
+995,70,Female,169,79,Sedentary,Omnivore,27.66,overweight,loss_weight,1602.3,1102.3,160.23,120.17,53.41
+996,41,Female,159,108,Lightly Active,Vegetarian,42.72,severely obese,loss_weight,2348.16,1848.1599999999999,234.82,176.11,78.27
+997,46,Male,164,106,Lightly Active,Vegan,39.41,obese,loss_weight,2557.5,2057.5,255.75,191.81,85.25
+998,73,Female,177,93,Moderately Active,Pescatarian,29.68,overweight,loss_weight,2340.89,1840.8899999999999,234.09,175.57,78.03
+999,27,Female,172,52,Very Active,Vegan,17.58,underweight,gain_muscle,2240.78,2740.78,196.07,252.09,49.8
+1000,55,Male,160,85,Extremely Active,Omnivore,33.2,obese,loss_weight,3002.0,2502.0,300.2,225.15,100.07
+1001,19,Female,152,79,Lightly Active,Omnivore,34.19,obese,loss_weight,2040.5,1540.5,204.05,153.04,68.02
+1002,31,Female,184,92,Very Active,Vegan,27.17,overweight,loss_weight,3025.65,2525.65,302.56,226.92,100.86
+1003,69,Female,151,60,Sedentary,Vegan,26.31,overweight,loss_weight,1245.3,745.3,124.53,93.4,41.51
+1004,39,Male,176,53,Extremely Active,Omnivore,17.11,underweight,gain_muscle,2736.0,3236.0,239.4,307.8,60.8
+1005,26,Female,151,97,Moderately Active,Omnivore,42.54,severely obese,loss_weight,2515.26,2015.2600000000002,251.53,188.64,83.84
+1006,23,Female,161,61,Extremely Active,Vegan,23.53,healthy weight,mainten_weight,2546.47,2546.47,190.99,254.65,84.88
+1007,42,Female,169,93,Lightly Active,Omnivore,32.56,obese,loss_weight,2220.97,1720.9699999999998,222.1,166.57,74.03
+1008,61,Male,170,64,Extremely Active,Omnivore,22.15,healthy weight,mainten_weight,2664.75,2664.75,199.86,266.48,88.82
+1009,41,Male,152,54,Moderately Active,Omnivore,23.37,healthy weight,mainten_weight,1999.5,1999.5,149.96,199.95,66.65
+1010,32,Male,170,94,Sedentary,Vegan,32.53,obese,loss_weight,2217.0,1717.0,221.7,166.28,73.9
+1011,28,Female,188,65,Sedentary,Vegetarian,18.39,underweight,gain_muscle,1828.8,2328.8,160.02,205.74,40.64
+1012,30,Male,164,59,Lightly Active,Omnivore,21.94,healthy weight,mainten_weight,2021.25,2021.25,151.59,202.12,67.38
+1013,65,Female,177,83,Moderately Active,Vegan,26.49,overweight,loss_weight,2247.89,1747.8899999999999,224.79,168.59,74.93
+1014,49,Male,163,60,Lightly Active,Vegetarian,22.58,healthy weight,mainten_weight,1895.78,1895.78,142.18,189.58,63.19
+1015,69,Female,193,96,Extremely Active,Vegan,25.77,overweight,loss_weight,3154.47,2654.47,315.45,236.59,105.15
+1016,21,Male,188,79,Extremely Active,Omnivore,22.35,healthy weight,mainten_weight,3543.5,3543.5,265.76,354.35,118.12
+1017,60,Female,160,53,Very Active,Omnivore,20.7,healthy weight,mainten_weight,1844.03,1844.03,138.3,184.4,61.47
+1018,30,Female,160,96,Extremely Active,Vegan,37.5,obese,loss_weight,3133.1,2633.1,313.31,234.98,104.44
+1019,27,Male,183,83,Moderately Active,Vegetarian,24.78,healthy weight,mainten_weight,2857.81,2857.81,214.34,285.78,95.26
+1020,70,Male,191,92,Moderately Active,Omnivore,25.22,overweight,loss_weight,2741.56,2241.56,274.16,205.62,91.39
+1021,56,Male,175,94,Sedentary,Omnivore,30.69,obese,loss_weight,2110.5,1610.5,211.05,158.29,70.35
+1022,58,Female,159,85,Extremely Active,Omnivore,33.62,obese,loss_weight,2646.22,2146.22,264.62,198.47,88.21
+1023,63,Male,180,64,Sedentary,Vegan,19.75,healthy weight,mainten_weight,1746.0,1746.0,130.95,174.6,58.2
+1024,33,Female,198,92,Very Active,Vegan,23.47,healthy weight,mainten_weight,3159.34,3159.34,236.95,315.93,105.31
+1025,59,Male,160,86,Lightly Active,Vegetarian,33.59,obese,loss_weight,2158.75,1658.75,215.88,161.91,71.96
+1026,36,Female,157,95,Sedentary,Vegan,38.54,obese,loss_weight,1908.3,1408.3,190.83,143.12,63.61
+1027,49,Female,150,56,Extremely Active,Omnivore,24.89,healthy weight,mainten_weight,2073.85,2073.85,155.54,207.38,69.13
+1028,19,Female,193,85,Very Active,Vegan,22.82,healthy weight,mainten_weight,3105.43,3105.43,232.91,310.54,103.51
+1029,45,Male,188,63,Moderately Active,Vegan,17.82,underweight,gain_muscle,2456.75,2956.75,214.97,276.38,54.59
+1030,49,Female,152,61,Lightly Active,Vegan,26.4,overweight,loss_weight,1586.75,1086.75,158.68,119.01,52.89
+1031,45,Female,152,75,Very Active,Vegan,32.46,obese,loss_weight,2266.65,1766.65,226.67,170.0,75.56
+1032,45,Female,154,73,Lightly Active,Vegan,30.78,obese,loss_weight,1796.44,1296.44,179.64,134.73,59.88
+1033,38,Female,186,90,Extremely Active,Vegan,26.01,overweight,loss_weight,3251.85,2751.85,325.19,243.89,108.39
+1034,49,Female,197,65,Sedentary,Omnivore,16.75,underweight,gain_muscle,1770.3,2270.3,154.9,199.16,39.34
+1035,57,Male,153,81,Very Active,Omnivore,34.6,obese,loss_weight,2563.78,2063.78,256.38,192.28,85.46
+1036,28,Male,199,97,Moderately Active,Omnivore,24.49,healthy weight,mainten_weight,3222.06,3222.06,241.65,322.21,107.4
+1037,42,Female,181,97,Very Active,Vegetarian,29.61,overweight,loss_weight,2984.68,2484.68,298.47,223.85,99.49
+1038,19,Female,190,67,Moderately Active,Omnivore,18.56,healthy weight,mainten_weight,2482.33,2482.33,186.17,248.23,82.74
+1039,56,Male,154,74,Very Active,Vegan,31.2,obese,loss_weight,2462.44,1962.44,246.24,184.68,82.08
+1040,39,Female,174,89,Extremely Active,Vegan,29.4,overweight,loss_weight,3080.85,2580.85,308.09,231.06,102.69
+1041,19,Female,189,57,Moderately Active,Vegan,15.96,underweight,gain_muscle,2317.64,2817.64,202.79,260.73,51.5
+1042,49,Female,168,82,Sedentary,Vegan,29.05,overweight,loss_weight,1756.8,1256.8,175.68,131.76,58.56
+1043,28,Female,170,58,Lightly Active,Omnivore,20.07,healthy weight,mainten_weight,1844.56,1844.56,138.34,184.46,61.49
+1044,25,Female,198,76,Moderately Active,Vegetarian,19.39,healthy weight,mainten_weight,2652.83,2652.83,198.96,265.28,88.43
+1045,49,Female,192,60,Very Active,Vegan,16.28,underweight,gain_muscle,2404.65,2904.65,210.41,270.52,53.44
+1046,27,Female,151,62,Extremely Active,Vegan,27.19,overweight,loss_weight,2408.72,1908.7199999999998,240.87,180.65,80.29
+1047,31,Female,191,90,Very Active,Vegetarian,24.67,healthy weight,mainten_weight,3066.62,3066.62,230.0,306.66,102.22
+1048,34,Male,192,50,Extremely Active,Vegan,13.56,underweight,gain_muscle,2916.5,3416.5,255.19,328.11,64.81
+1049,46,Male,178,97,Extremely Active,Vegetarian,30.61,obese,loss_weight,3529.25,3029.25,352.93,264.69,117.64
+1050,43,Male,150,81,Very Active,Vegetarian,36.0,obese,loss_weight,2652.19,2152.19,265.22,198.91,88.41
+1051,51,Male,186,63,Lightly Active,Omnivore,18.21,underweight,gain_muscle,2120.94,2620.94,185.58,238.61,47.13
+1052,42,Female,169,86,Very Active,Vegan,30.11,obese,loss_weight,2665.56,2165.56,266.56,199.92,88.85
+1053,34,Female,188,68,Extremely Active,Vegan,19.24,healthy weight,mainten_weight,2895.6,2895.6,217.17,289.56,96.52
+1054,30,Male,150,86,Very Active,Vegan,38.22,obese,loss_weight,2850.56,2350.56,285.06,213.79,95.02
+1055,39,Female,169,91,Extremely Active,Omnivore,31.86,obese,loss_weight,3059.47,2559.47,305.95,229.46,101.98
+1056,62,Female,162,72,Very Active,Vegan,27.43,overweight,loss_weight,2176.09,1676.0900000000001,217.61,163.21,72.54
+1057,61,Female,171,81,Sedentary,Vegetarian,27.7,overweight,loss_weight,1695.3,1195.3,169.53,127.15,56.51
+1058,65,Female,200,74,Moderately Active,Vegetarian,18.5,healthy weight,mainten_weight,2331.2,2331.2,174.84,233.12,77.71
+1059,19,Female,170,71,Very Active,Vegetarian,24.57,healthy weight,mainten_weight,2615.96,2615.96,196.2,261.6,87.2
+1060,34,Female,168,97,Sedentary,Omnivore,34.37,obese,loss_weight,2026.8,1526.8,202.68,152.01,67.56
+1061,61,Female,178,82,Lightly Active,Vegan,25.88,overweight,loss_weight,2016.44,1516.44,201.64,151.23,67.21
+1062,19,Male,181,57,Sedentary,Omnivore,17.4,underweight,gain_muscle,1933.5,2433.5,169.18,217.52,42.97
+1063,57,Female,186,67,Very Active,Vegan,19.37,healthy weight,mainten_weight,2391.71,2391.71,179.38,239.17,79.72
+1064,63,Female,197,63,Extremely Active,Vegan,16.23,underweight,gain_muscle,2631.97,3131.97,230.3,296.1,58.49
+1065,21,Female,189,67,Extremely Active,Omnivore,18.76,healthy weight,mainten_weight,3011.97,3011.97,225.9,301.2,100.4
+1066,43,Male,180,71,Extremely Active,Vegan,21.91,healthy weight,mainten_weight,3087.5,3087.5,231.56,308.75,102.92
+1067,34,Male,195,98,Extremely Active,Omnivore,25.77,overweight,loss_weight,3864.12,3364.12,386.41,289.81,128.8
+1068,56,Female,170,88,Lightly Active,Omnivore,30.45,obese,loss_weight,2064.56,1564.56,206.46,154.84,68.82
+1069,63,Male,156,70,Moderately Active,Vegetarian,28.76,overweight,loss_weight,2115.75,1615.75,211.58,158.68,70.53
+1070,36,Male,158,99,Sedentary,Vegetarian,39.66,obese,loss_weight,2163.0,1663.0,216.3,162.22,72.1
+1071,53,Female,156,96,Lightly Active,Vegetarian,39.45,obese,loss_weight,2074.88,1574.88,207.49,155.62,69.16
+1072,38,Male,192,85,Lightly Active,Omnivore,23.06,healthy weight,mainten_weight,2564.38,2564.38,192.33,256.44,85.48
+1073,23,Female,184,74,Moderately Active,Vegan,21.86,healthy weight,mainten_weight,2501.7,2501.7,187.63,250.17,83.39
+1074,49,Female,160,77,Lightly Active,Omnivore,30.08,obese,loss_weight,1875.5,1375.5,187.55,140.66,62.52
+1075,68,Male,152,53,Sedentary,Omnivore,22.94,healthy weight,mainten_weight,1374.0,1374.0,103.05,137.4,45.8
+1076,31,Female,172,78,Lightly Active,Vegan,26.37,overweight,loss_weight,2116.12,1616.12,211.61,158.71,70.54
+1077,42,Female,156,58,Sedentary,Omnivore,23.83,healthy weight,mainten_weight,1420.8,1420.8,106.56,142.08,47.36
+1078,58,Female,167,54,Sedentary,Omnivore,19.36,healthy weight,mainten_weight,1359.3,1359.3,101.95,135.93,45.31
+1079,24,Male,184,96,Moderately Active,Vegetarian,28.36,overweight,loss_weight,3092.25,2592.25,309.23,231.92,103.07
+1080,24,Female,170,85,Extremely Active,Vegan,29.41,overweight,loss_weight,3099.85,2599.85,309.99,232.49,103.33
+1081,23,Female,199,92,Moderately Active,Omnivore,23.23,healthy weight,mainten_weight,2926.01,2926.01,219.45,292.6,97.53
+1082,48,Male,157,75,Very Active,Vegan,30.43,obese,loss_weight,2581.03,2081.03,258.1,193.58,86.03
+1083,49,Female,158,50,Extremely Active,Vegetarian,20.03,healthy weight,mainten_weight,2054.85,2054.85,154.11,205.49,68.49
+1084,47,Female,183,62,Very Active,Vegan,18.51,healthy weight,mainten_weight,2359.37,2359.37,176.95,235.94,78.65
+1085,29,Male,188,93,Moderately Active,Vegan,26.31,overweight,loss_weight,3045.75,2545.75,304.57,228.43,101.53
+1086,50,Female,200,61,Very Active,Omnivore,15.25,underweight,gain_muscle,2499.53,2999.53,218.71,281.2,55.55
+1087,59,Male,168,87,Moderately Active,Vegan,30.82,obese,loss_weight,2526.5,2026.5,252.65,189.49,84.22
+1088,56,Male,163,53,Sedentary,Vegan,19.95,healthy weight,mainten_weight,1528.5,1528.5,114.64,152.85,50.95
+1089,56,Male,196,61,Lightly Active,Vegan,15.88,underweight,gain_muscle,2145.0,2645.0,187.69,241.31,47.67
+1090,31,Female,176,70,Very Active,Vegetarian,22.6,healthy weight,mainten_weight,2559.9,2559.9,191.99,255.99,85.33
+1091,70,Male,197,66,Extremely Active,Vegetarian,17.01,underweight,gain_muscle,2937.88,3437.88,257.06,330.51,65.29
+1092,23,Male,164,92,Extremely Active,Vegan,34.21,obese,loss_weight,3486.5,2986.5,348.65,261.49,116.22
+1093,56,Female,164,61,Lightly Active,Omnivore,22.68,healthy weight,mainten_weight,1641.75,1641.75,123.13,164.18,54.72
+1094,21,Male,187,72,Lightly Active,Vegan,20.59,healthy weight,mainten_weight,2459.53,2459.53,184.46,245.95,81.98
+1095,23,Male,168,56,Extremely Active,Omnivore,19.84,healthy weight,mainten_weight,2850.0,2850.0,213.75,285.0,95.0
+1096,35,Female,159,61,Moderately Active,Vegan,24.13,healthy weight,mainten_weight,1965.01,1965.01,147.38,196.5,65.5
+1097,65,Female,150,77,Sedentary,Omnivore,34.22,obese,loss_weight,1465.8,965.8,146.58,109.93,48.86
+1098,41,Female,172,88,Moderately Active,Vegan,29.75,overweight,loss_weight,2462.95,1962.9499999999998,246.29,184.72,82.1
+1099,70,Male,169,52,Moderately Active,Vegetarian,18.21,underweight,gain_muscle,1908.44,2408.44,166.99,214.7,42.41
+1100,33,Female,184,64,Sedentary,Omnivore,18.9,healthy weight,mainten_weight,1756.8,1756.8,131.76,175.68,58.56
+1101,39,Female,198,52,Lightly Active,Vegetarian,13.26,underweight,gain_muscle,1927.06,2427.06,168.62,216.79,42.82
+1102,47,Female,173,85,Sedentary,Vegan,28.4,overweight,loss_weight,1842.3,1342.3,184.23,138.17,61.41
+1103,36,Male,197,81,Very Active,Omnivore,20.87,healthy weight,mainten_weight,3219.28,3219.28,241.45,321.93,107.31
+1104,49,Male,175,80,Very Active,Vegetarian,26.12,overweight,loss_weight,2852.72,2352.72,285.27,213.95,95.09
+1105,54,Male,174,63,Very Active,Vegetarian,20.81,healthy weight,mainten_weight,2505.56,2505.56,187.92,250.56,83.52
+1106,65,Male,171,70,Lightly Active,Omnivore,23.94,healthy weight,mainten_weight,1992.03,1992.03,149.4,199.2,66.4
+1107,23,Male,196,91,Sedentary,Omnivore,23.69,healthy weight,mainten_weight,2430.0,2430.0,182.25,243.0,81.0
+1108,60,Male,200,73,Very Active,Vegetarian,18.25,underweight,gain_muscle,2906.62,3406.62,254.33,326.99,64.59
+1109,52,Male,195,85,Lightly Active,Vegetarian,22.35,healthy weight,mainten_weight,2493.91,2493.91,187.04,249.39,83.13
+1110,36,Female,172,83,Moderately Active,Omnivore,28.06,overweight,loss_weight,2424.2,1924.1999999999998,242.42,181.81,80.81
+1111,67,Male,200,51,Extremely Active,Omnivore,12.75,underweight,gain_muscle,2717.0,3217.0,237.74,305.66,60.38
+1112,59,Female,186,83,Sedentary,Vegetarian,23.99,healthy weight,mainten_weight,1843.8,1843.8,138.28,184.38,61.46
+1113,26,Female,184,81,Moderately Active,Omnivore,23.92,healthy weight,mainten_weight,2586.95,2586.95,194.02,258.69,86.23
+1114,46,Male,153,52,Extremely Active,Vegan,22.21,healthy weight,mainten_weight,2377.38,2377.38,178.3,237.74,79.25
+1115,54,Female,183,98,Sedentary,Vegan,29.26,overweight,loss_weight,2031.3,1531.3,203.13,152.35,67.71
+1116,22,Female,165,79,Extremely Active,Omnivore,29.02,overweight,loss_weight,2945.47,2445.47,294.55,220.91,98.18
+1117,26,Male,174,54,Lightly Active,Vegetarian,17.84,underweight,gain_muscle,2065.94,2565.94,180.77,232.42,45.91
+1118,48,Female,193,57,Lightly Active,Vegetarian,15.3,underweight,gain_muscle,1890.97,2390.9700000000003,165.46,212.73,42.02
+1119,56,Female,196,80,Sedentary,Vegetarian,20.82,healthy weight,mainten_weight,1900.8,1900.8,142.56,190.08,63.36
+1120,26,Female,185,64,Sedentary,Vegetarian,18.7,healthy weight,mainten_weight,1806.3,1806.3,135.47,180.63,60.21
+1121,50,Female,173,59,Extremely Active,Vegetarian,19.71,healthy weight,mainten_weight,2394.47,2394.47,179.59,239.45,79.82
+1122,33,Female,184,50,Sedentary,Vegetarian,14.77,underweight,gain_muscle,1588.8,2088.8,139.02,178.74,35.31
+1123,26,Female,188,63,Sedentary,Vegetarian,17.82,underweight,gain_muscle,1816.8,2316.8,158.97,204.39,40.37
+1124,69,Female,179,86,Lightly Active,Vegan,26.84,overweight,loss_weight,2025.03,1525.03,202.5,151.88,67.5
+1125,23,Female,195,60,Very Active,Vegan,15.78,underweight,gain_muscle,2661.24,3161.24,232.86,299.39,59.14
+1126,50,Male,156,64,Very Active,Vegetarian,26.3,overweight,loss_weight,2363.25,1863.25,236.33,177.24,78.78
+1127,70,Male,170,80,Sedentary,Vegan,27.68,overweight,loss_weight,1821.0,1321.0,182.1,136.57,60.7
+1128,60,Male,161,69,Very Active,Omnivore,26.62,overweight,loss_weight,2417.16,1917.1599999999999,241.72,181.29,80.57
+1129,43,Female,197,85,Very Active,Omnivore,21.9,healthy weight,mainten_weight,2941.56,2941.56,220.62,294.16,98.05
+1130,25,Female,189,97,Lightly Active,Vegan,27.15,overweight,loss_weight,2564.72,2064.72,256.47,192.35,85.49
+1131,60,Male,174,77,Very Active,Vegan,25.43,overweight,loss_weight,2695.31,2195.31,269.53,202.15,89.84
+1132,56,Male,156,86,Sedentary,Vegan,35.34,obese,loss_weight,1872.0,1372.0,187.2,140.4,62.4
+1133,21,Male,157,54,Moderately Active,Omnivore,21.91,healthy weight,mainten_weight,2202.94,2202.94,165.22,220.29,73.43
+1134,67,Male,163,68,Sedentary,Vegetarian,25.59,overweight,loss_weight,1642.5,1142.5,164.25,123.19,54.75
+1135,48,Female,164,97,Sedentary,Vegan,36.06,obese,loss_weight,1912.8,1412.8,191.28,143.46,63.76
+1136,43,Male,182,100,Very Active,Vegetarian,30.19,obese,loss_weight,3324.94,2824.94,332.49,249.37,110.83
+1137,37,Female,182,63,Sedentary,Omnivore,19.02,healthy weight,mainten_weight,1705.8,1705.8,127.93,170.58,56.86
+1138,48,Female,157,93,Sedentary,Omnivore,37.73,obese,loss_weight,1812.3,1312.3,181.23,135.92,60.41
+1139,28,Female,187,61,Sedentary,Vegetarian,17.44,underweight,gain_muscle,1773.3,2273.3,155.16,199.5,39.41
+1140,57,Male,150,71,Very Active,Vegetarian,31.56,obese,loss_weight,2358.94,1858.94,235.89,176.92,78.63
+1141,26,Male,157,83,Lightly Active,Omnivore,33.67,obese,loss_weight,2318.59,1818.5900000000001,231.86,173.89,77.29
+1142,56,Male,153,85,Extremely Active,Vegan,36.31,obese,loss_weight,2909.38,2409.38,290.94,218.2,96.98
+1143,63,Female,189,96,Moderately Active,Vegan,26.87,overweight,loss_weight,2581.14,2081.14,258.11,193.59,86.04
+1144,59,Male,152,79,Sedentary,Omnivore,34.19,obese,loss_weight,1740.0,1240.0,174.0,130.5,58.0
+1145,64,Male,175,87,Sedentary,Vegetarian,28.41,overweight,loss_weight,1978.5,1478.5,197.85,148.39,65.95
+1146,30,Female,163,97,Sedentary,Vegetarian,36.51,obese,loss_weight,2013.3,1513.3,201.33,151.0,67.11
+1147,32,Female,152,57,Very Active,Vegan,24.67,healthy weight,mainten_weight,2068.28,2068.28,155.12,206.83,68.94
+1148,41,Female,158,73,Lightly Active,Vegan,29.24,overweight,loss_weight,1858.31,1358.31,185.83,139.37,61.94
+1149,33,Female,169,67,Extremely Active,Vegan,23.46,healthy weight,mainten_weight,2660.47,2660.47,199.54,266.05,88.68
+1150,32,Female,173,51,Very Active,Omnivore,17.04,underweight,gain_muscle,2191.18,2691.18,191.73,246.51,48.69
+1151,67,Female,182,72,Very Active,Vegetarian,21.74,healthy weight,mainten_weight,2348.59,2348.59,176.14,234.86,78.29
+1152,27,Female,194,57,Lightly Active,Vegan,15.15,underweight,gain_muscle,2043.94,2543.94,178.84,229.94,45.42
+1153,33,Male,167,86,Very Active,Vegetarian,30.84,obese,loss_weight,3007.97,2507.97,300.8,225.6,100.27
+1154,65,Male,187,77,Very Active,Vegan,22.02,healthy weight,mainten_weight,2792.34,2792.34,209.43,279.23,93.08
+1155,29,Male,159,76,Sedentary,Omnivore,30.06,obese,loss_weight,1936.5,1436.5,193.65,145.24,64.55
+1156,67,Female,161,51,Extremely Active,Omnivore,19.68,healthy weight,mainten_weight,1938.47,1938.47,145.39,193.85,64.62
+1157,43,Male,171,74,Sedentary,Omnivore,25.31,overweight,loss_weight,1918.5,1418.5,191.85,143.89,63.95
+1158,49,Male,159,67,Sedentary,Omnivore,26.5,overweight,loss_weight,1708.5,1208.5,170.85,128.14,56.95
+1159,28,Female,169,51,Very Active,Vegetarian,17.86,underweight,gain_muscle,2182.56,2682.56,190.97,245.54,48.5
+1160,42,Male,156,93,Lightly Active,Omnivore,38.21,obese,loss_weight,2337.5,1837.5,233.75,175.31,77.92
+1161,50,Female,156,84,Extremely Active,Vegetarian,34.52,obese,loss_weight,2667.6,2167.6,266.76,200.07,88.92
+1162,36,Female,153,58,Sedentary,Vegetarian,24.78,healthy weight,mainten_weight,1434.3,1434.3,107.57,143.43,47.81
+1163,24,Male,189,80,Lightly Active,Omnivore,22.4,healthy weight,mainten_weight,2566.09,2566.09,192.46,256.61,85.54
+1164,53,Male,174,64,Lightly Active,Vegetarian,21.14,healthy weight,mainten_weight,2017.81,2017.81,151.34,201.78,67.26
+1165,57,Male,196,75,Sedentary,Vegetarian,19.52,healthy weight,mainten_weight,2034.0,2034.0,152.55,203.4,67.8
+1166,49,Female,197,52,Lightly Active,Vegan,13.4,underweight,gain_muscle,1849.72,2349.7200000000003,161.85,208.09,41.1
+1167,31,Male,194,81,Extremely Active,Omnivore,21.52,healthy weight,mainten_weight,3557.75,3557.75,266.83,355.78,118.59
+1168,37,Male,170,74,Moderately Active,Omnivore,25.61,overweight,loss_weight,2514.88,2014.88,251.49,188.62,83.83
+1169,28,Female,192,76,Very Active,Vegetarian,20.62,healthy weight,mainten_weight,2861.78,2861.78,214.63,286.18,95.39
+1170,53,Female,190,50,Very Active,Vegan,13.85,underweight,gain_muscle,2176.09,2676.09,190.41,244.81,48.36
+1171,41,Female,161,90,Sedentary,Vegan,34.72,obese,loss_weight,1848.3,1348.3,184.83,138.62,61.61
+1172,30,Male,184,94,Lightly Active,Vegetarian,27.76,overweight,loss_weight,2674.38,2174.38,267.44,200.58,89.15
+1173,62,Female,181,55,Lightly Active,Vegetarian,16.79,underweight,gain_muscle,1664.09,2164.09,145.61,187.21,36.98
+1174,26,Male,191,75,Very Active,Vegan,20.56,healthy weight,mainten_weight,3137.34,3137.34,235.3,313.73,104.58
+1175,27,Male,163,97,Moderately Active,Omnivore,36.51,obese,loss_weight,2881.06,2381.06,288.11,216.08,96.04
+1176,33,Female,168,99,Very Active,Omnivore,35.08,obese,loss_weight,2956.65,2456.65,295.67,221.75,98.56
+1177,55,Female,171,66,Extremely Active,Vegetarian,22.57,healthy weight,mainten_weight,2456.22,2456.22,184.22,245.62,81.87
+1178,39,Male,185,86,Sedentary,Vegan,25.13,overweight,loss_weight,2191.5,1691.5,219.15,164.36,73.05
+1179,53,Male,159,73,Very Active,Vegan,28.88,overweight,loss_weight,2524.97,2024.9699999999998,252.5,189.37,84.17
+1180,28,Male,163,69,Sedentary,Omnivore,25.97,overweight,loss_weight,1888.5,1388.5,188.85,141.64,62.95
+1181,60,Male,151,70,Sedentary,Vegan,30.7,obese,loss_weight,1618.5,1118.5,161.85,121.39,53.95
+1182,37,Male,181,65,Sedentary,Vegan,19.84,healthy weight,mainten_weight,1921.5,1921.5,144.11,192.15,64.05
+1183,65,Male,197,75,Sedentary,Omnivore,19.33,healthy weight,mainten_weight,1993.5,1993.5,149.51,199.35,66.45
+1184,68,Male,174,74,Extremely Active,Vegan,24.44,healthy weight,mainten_weight,2835.75,2835.75,212.68,283.57,94.53
+1185,55,Male,172,53,Sedentary,Vegan,17.92,underweight,gain_muscle,1602.0,2102.0,140.17,180.22,35.6
+1186,51,Male,159,51,Very Active,Vegan,20.17,healthy weight,mainten_weight,2162.72,2162.72,162.2,216.27,72.09
+1187,27,Male,171,89,Sedentary,Vegan,30.44,obese,loss_weight,2194.5,1694.5,219.45,164.59,73.15
+1188,40,Male,174,100,Moderately Active,Omnivore,33.03,obese,loss_weight,2933.38,2433.38,293.34,220.0,97.78
+1189,37,Male,184,99,Lightly Active,Omnivore,29.24,overweight,loss_weight,2695.0,2195.0,269.5,202.12,89.83
+1190,42,Male,180,97,Moderately Active,Vegetarian,29.94,overweight,loss_weight,2929.5,2429.5,292.95,219.71,97.65
+1191,40,Male,191,88,Very Active,Vegan,24.12,healthy weight,mainten_weight,3240.84,3240.84,243.06,324.08,108.03
+1192,40,Female,193,74,Extremely Active,Omnivore,19.87,healthy weight,mainten_weight,3011.97,3011.97,225.9,301.2,100.4
+1193,53,Male,180,90,Moderately Active,Vegetarian,27.78,overweight,loss_weight,2735.75,2235.75,273.57,205.18,91.19
+1194,38,Female,189,75,Lightly Active,Vegetarian,21.0,healthy weight,mainten_weight,2172.84,2172.84,162.96,217.28,72.43
+1195,22,Male,185,79,Extremely Active,Omnivore,23.08,healthy weight,mainten_weight,3498.38,3498.38,262.38,349.84,116.61
+1196,57,Female,175,62,Sedentary,Vegan,20.24,healthy weight,mainten_weight,1521.3,1521.3,114.1,152.13,50.71
+1197,35,Male,190,62,Moderately Active,Omnivore,17.17,underweight,gain_muscle,2538.12,3038.12,222.09,285.54,56.4
+1198,43,Male,174,61,Moderately Active,Vegan,20.15,healthy weight,mainten_weight,2305.62,2305.62,172.92,230.56,76.85
+1199,64,Female,196,70,Extremely Active,Vegan,18.22,underweight,gain_muscle,2743.6,3243.6,240.06,308.65,60.97
+1200,46,Female,187,92,Moderately Active,Vegetarian,26.31,overweight,loss_weight,2631.51,2131.51,263.15,197.36,87.72
+1201,40,Female,193,88,Lightly Active,Vegetarian,23.62,healthy weight,mainten_weight,2372.22,2372.22,177.92,237.22,79.07
+1202,51,Female,175,92,Moderately Active,Vegetarian,30.04,obese,loss_weight,2476.51,1976.5100000000002,247.65,185.74,82.55
+1203,62,Female,162,92,Lightly Active,Vegan,35.06,obese,loss_weight,2009.56,1509.56,200.96,150.72,66.99
+1204,45,Female,183,91,Moderately Active,Vegan,27.17,overweight,loss_weight,2585.01,2085.01,258.5,193.88,86.17
+1205,45,Female,173,75,Extremely Active,Vegetarian,25.06,overweight,loss_weight,2745.97,2245.97,274.6,205.95,91.53
+1206,27,Male,160,66,Moderately Active,Vegetarian,25.78,overweight,loss_weight,2371.5,1871.5,237.15,177.86,79.05
+1207,64,Female,169,95,Moderately Active,Vegetarian,33.26,obese,loss_weight,2364.14,1864.1399999999999,236.41,177.31,78.8
+1208,34,Male,181,86,Moderately Active,Omnivore,26.25,overweight,loss_weight,2830.69,2330.69,283.07,212.3,94.36
+1209,42,Male,195,99,Extremely Active,Vegan,26.04,overweight,loss_weight,3807.12,3307.12,380.71,285.53,126.9
+1210,25,Female,182,52,Moderately Active,Vegetarian,15.7,underweight,gain_muscle,2125.83,2625.83,186.01,239.16,47.24
+1211,24,Male,168,53,Very Active,Omnivore,18.78,healthy weight,mainten_weight,2527.12,2527.12,189.53,252.71,84.24
+1212,26,Male,186,52,Moderately Active,Omnivore,15.03,underweight,gain_muscle,2414.12,2914.12,211.24,271.59,53.65
+1213,39,Male,200,53,Lightly Active,Vegetarian,13.25,underweight,gain_muscle,2186.25,2686.25,191.3,245.95,48.58
+1214,59,Female,185,91,Moderately Active,Vegan,26.59,overweight,loss_weight,2495.89,1995.8899999999999,249.59,187.19,83.2
+1215,55,Male,183,84,Moderately Active,Vegan,25.08,overweight,loss_weight,2656.31,2156.31,265.63,199.22,88.54
+1216,66,Male,158,79,Sedentary,Vegetarian,31.65,obese,loss_weight,1743.0,1243.0,174.3,130.72,58.1
+1217,52,Female,183,56,Lightly Active,Omnivore,16.72,underweight,gain_muscle,1763.78,2263.7799999999997,154.33,198.43,39.2
+1218,47,Female,186,71,Very Active,Omnivore,20.52,healthy weight,mainten_weight,2546.96,2546.96,191.02,254.7,84.9
+1219,40,Male,196,94,Moderately Active,Vegan,24.47,healthy weight,mainten_weight,3053.5,3053.5,229.01,305.35,101.78
+1220,38,Female,161,82,Very Active,Omnivore,31.63,obese,loss_weight,2544.81,2044.81,254.48,190.86,84.83
+1221,61,Female,155,89,Extremely Active,Omnivore,37.04,obese,loss_weight,2646.22,2146.22,264.62,198.47,88.21
+1222,43,Female,200,87,Moderately Active,Omnivore,21.75,healthy weight,mainten_weight,2703.2,2703.2,202.74,270.32,90.11
+1223,46,Male,173,98,Very Active,Vegetarian,32.74,obese,loss_weight,3167.53,2667.53,316.75,237.56,105.58
+1224,30,Female,179,84,Very Active,Vegan,26.22,overweight,loss_weight,2842.37,2342.37,284.24,213.18,94.75
+1225,69,Male,153,74,Moderately Active,Omnivore,31.61,obese,loss_weight,2102.19,1602.19,210.22,157.66,70.07
+1226,56,Male,182,85,Sedentary,Vegetarian,25.66,overweight,loss_weight,2055.0,1555.0,205.5,154.12,68.5
+1227,41,Male,176,95,Very Active,Vegetarian,30.67,obese,loss_weight,3191.25,2691.25,319.12,239.34,106.38
+1228,23,Male,160,57,Very Active,Vegan,22.27,healthy weight,mainten_weight,2518.5,2518.5,188.89,251.85,83.95
+1229,24,Female,178,69,Moderately Active,Vegetarian,21.78,healthy weight,mainten_weight,2358.33,2358.33,176.87,235.83,78.61
+1230,66,Female,156,99,Extremely Active,Omnivore,40.68,severely obese,loss_weight,2800.6,2300.6,280.06,210.04,93.35
+1231,70,Female,159,58,Sedentary,Vegetarian,22.94,healthy weight,mainten_weight,1275.3,1275.3,95.65,127.53,42.51
+1232,53,Female,171,62,Extremely Active,Vegan,21.2,healthy weight,mainten_weight,2399.22,2399.22,179.94,239.92,79.97
+1233,26,Female,183,58,Moderately Active,Vegan,17.32,underweight,gain_muscle,2220.76,2720.76,194.32,249.84,49.35
+1234,23,Male,172,100,Very Active,Vegetarian,33.8,obese,loss_weight,3389.62,2889.62,338.96,254.22,112.99
+1235,56,Female,190,81,Sedentary,Vegan,22.44,healthy weight,mainten_weight,1867.8,1867.8,140.08,186.78,62.26
+1236,36,Female,200,100,Lightly Active,Omnivore,25.0,overweight,loss_weight,2624.88,2124.88,262.49,196.87,87.5
+1237,56,Male,176,86,Lightly Active,Vegetarian,27.76,overweight,loss_weight,2316.88,1816.88,231.69,173.77,77.23
+1238,46,Female,169,85,Extremely Active,Omnivore,29.76,overweight,loss_weight,2878.97,2378.97,287.9,215.92,95.97
+1239,50,Male,156,69,Moderately Active,Omnivore,28.35,overweight,loss_weight,2201.0,1701.0,220.1,165.07,73.37
+1240,45,Male,195,80,Lightly Active,Vegan,21.04,healthy weight,mainten_weight,2473.28,2473.28,185.5,247.33,82.44
+1241,21,Female,174,52,Extremely Active,Vegan,17.18,underweight,gain_muscle,2548.85,3048.85,223.02,286.75,56.64
+1242,64,Female,151,98,Sedentary,Vegetarian,42.98,severely obese,loss_weight,1731.3,1231.3,173.13,129.85,57.71
+1243,64,Male,166,91,Moderately Active,Vegan,33.02,obese,loss_weight,2530.38,2030.38,253.04,189.78,84.35
+1244,66,Female,182,85,Extremely Active,Vegetarian,25.66,overweight,loss_weight,2843.35,2343.35,284.33,213.25,94.78
+1245,22,Female,200,95,Moderately Active,Vegetarian,23.75,healthy weight,mainten_weight,2989.95,2989.95,224.25,299.0,99.66
+1246,39,Female,164,70,Sedentary,Vegetarian,26.03,overweight,loss_weight,1642.8,1142.8,164.28,123.21,54.76
+1247,28,Male,165,76,Very Active,Vegan,27.92,overweight,loss_weight,2857.03,2357.03,285.7,214.28,95.23
+1248,70,Male,170,89,Lightly Active,Vegetarian,30.8,obese,loss_weight,2210.31,1710.31,221.03,165.77,73.68
+1249,29,Female,173,65,Sedentary,Omnivore,21.72,healthy weight,mainten_weight,1710.3,1710.3,128.27,171.03,57.01
+1250,55,Male,192,58,Very Active,Vegan,15.73,underweight,gain_muscle,2604.75,3104.75,227.92,293.03,57.88
+1251,44,Female,154,92,Very Active,Vegan,38.79,obese,loss_weight,2590.09,2090.09,259.01,194.26,86.34
+1252,67,Female,173,73,Extremely Active,Vegetarian,24.39,healthy weight,mainten_weight,2498.97,2498.97,187.42,249.9,83.3
+1253,29,Female,186,80,Lightly Active,Vegan,23.12,healthy weight,mainten_weight,2277.69,2277.69,170.83,227.77,75.92
+1254,27,Female,150,91,Extremely Active,Omnivore,40.44,severely obese,loss_weight,2947.85,2447.85,294.79,221.09,98.26
+1255,58,Male,152,86,Lightly Active,Vegetarian,37.22,obese,loss_weight,2096.88,1596.88,209.69,157.27,69.9
+1256,62,Female,170,54,Sedentary,Vegan,18.69,healthy weight,mainten_weight,1357.8,1357.8,101.83,135.78,45.26
+1257,51,Male,155,98,Very Active,Omnivore,40.79,severely obese,loss_weight,2930.34,2430.34,293.03,219.78,97.68
+1258,64,Male,168,76,Very Active,Vegan,26.93,overweight,loss_weight,2578.88,2078.88,257.89,193.42,85.96
+1259,49,Male,190,70,Sedentary,Vegetarian,19.39,healthy weight,mainten_weight,1977.0,1977.0,148.28,197.7,65.9
+1260,57,Male,163,56,Extremely Active,Vegan,21.08,healthy weight,mainten_weight,2467.62,2467.62,185.07,246.76,82.25
+1261,52,Female,162,55,Very Active,Vegetarian,20.96,healthy weight,mainten_weight,1969.09,1969.09,147.68,196.91,65.64
+1262,39,Male,178,87,Moderately Active,Omnivore,27.46,overweight,loss_weight,2778.38,2278.38,277.84,208.38,92.61
+1263,45,Female,164,87,Lightly Active,Vegetarian,32.35,obese,loss_weight,2074.88,1574.88,207.49,155.62,69.16
+1264,25,Female,162,98,Sedentary,Vegan,37.34,obese,loss_weight,2047.8,1547.8,204.78,153.58,68.26
+1265,27,Male,153,66,Moderately Active,Vegetarian,28.19,overweight,loss_weight,2303.69,1803.69,230.37,172.78,76.79
+1266,41,Female,183,72,Extremely Active,Vegetarian,21.5,healthy weight,mainten_weight,2845.72,2845.72,213.43,284.57,94.86
+1267,53,Female,153,72,Lightly Active,Omnivore,30.76,obese,loss_weight,1719.09,1219.09,171.91,128.93,57.3
+1268,46,Male,184,94,Sedentary,Omnivore,27.76,overweight,loss_weight,2238.0,1738.0,223.8,167.85,74.6
+1269,22,Female,177,82,Lightly Active,Vegetarian,26.17,overweight,loss_weight,2275.97,1775.9699999999998,227.6,170.7,75.87
+1270,68,Female,153,58,Extremely Active,Omnivore,24.78,healthy weight,mainten_weight,1966.97,1966.97,147.52,196.7,65.57
+1271,56,Male,191,59,Very Active,Vegetarian,16.17,underweight,gain_muscle,2602.59,3102.59,227.73,292.79,57.84
+1272,34,Male,199,69,Sedentary,Vegetarian,17.42,underweight,gain_muscle,2122.5,2622.5,185.72,238.78,47.17
+1273,48,Female,166,85,Lightly Active,Omnivore,30.85,obese,loss_weight,2043.94,1543.94,204.39,153.3,68.13
+1274,48,Female,175,99,Moderately Active,Vegetarian,32.33,obese,loss_weight,2608.26,2108.26,260.83,195.62,86.94
+1275,60,Female,177,67,Lightly Active,Vegan,21.39,healthy weight,mainten_weight,1808.47,1808.47,135.64,180.85,60.28
+1276,33,Male,151,58,Moderately Active,Vegetarian,25.44,overweight,loss_weight,2113.81,1613.81,211.38,158.54,70.46
+1277,48,Female,184,86,Lightly Active,Vegan,25.4,overweight,loss_weight,2212.38,1712.38,221.24,165.93,73.75
+1278,40,Female,178,66,Lightly Active,Omnivore,20.83,healthy weight,mainten_weight,1940.81,1940.81,145.56,194.08,64.69
+1279,64,Female,164,68,Extremely Active,Vegetarian,25.28,overweight,loss_weight,2325.6,1825.6,232.56,174.42,77.52
+1280,68,Male,159,96,Sedentary,Omnivore,37.97,obese,loss_weight,1942.5,1442.5,194.25,145.69,64.75
+1281,62,Male,168,75,Very Active,Vegetarian,26.57,overweight,loss_weight,2578.88,2078.88,257.89,193.42,85.96
+1282,47,Male,179,52,Extremely Active,Vegetarian,16.23,underweight,gain_muscle,2676.62,3176.62,234.2,301.12,59.48
+1283,66,Male,177,80,Sedentary,Omnivore,25.54,overweight,loss_weight,1897.5,1397.5,189.75,142.31,63.25
+1284,70,Male,169,64,Sedentary,Vegetarian,22.41,healthy weight,mainten_weight,1621.5,1621.5,121.61,162.15,54.05
+1285,55,Male,192,68,Moderately Active,Vegan,18.45,underweight,gain_muscle,2495.5,2995.5,218.36,280.74,55.46
+1286,18,Female,165,54,Extremely Active,Vegetarian,19.83,healthy weight,mainten_weight,2508.47,2508.47,188.14,250.85,83.62
+1287,40,Male,156,89,Lightly Active,Vegetarian,36.57,obese,loss_weight,2296.25,1796.25,229.62,172.22,76.54
+1288,44,Male,182,78,Very Active,Omnivore,23.55,healthy weight,mainten_weight,2936.81,2936.81,220.26,293.68,97.89
+1289,21,Female,176,57,Extremely Active,Omnivore,18.4,underweight,gain_muscle,2667.6,3167.6,233.41,300.11,59.28
+1290,49,Female,186,57,Sedentary,Vegetarian,16.48,underweight,gain_muscle,1591.8,2091.8,139.28,179.08,35.37
+1291,67,Female,196,62,Sedentary,Vegetarian,16.14,underweight,gain_muscle,1618.8,2118.8,141.64,182.12,35.97
+1292,19,Male,185,68,Extremely Active,Vegan,19.87,healthy weight,mainten_weight,3317.88,3317.88,248.84,331.79,110.6
+1293,27,Female,189,66,Very Active,Vegetarian,18.48,underweight,gain_muscle,2665.56,3165.56,233.24,299.88,59.23
+1294,19,Male,163,100,Lightly Active,Omnivore,37.64,obese,loss_weight,2652.03,2152.03,265.2,198.9,88.4
+1295,53,Male,189,58,Extremely Active,Vegetarian,16.24,underweight,gain_muscle,2852.38,3352.38,249.58,320.89,63.39
+1296,65,Male,158,84,Extremely Active,Omnivore,33.65,obese,loss_weight,2864.25,2364.25,286.43,214.82,95.47
+1297,37,Female,152,98,Sedentary,Vegetarian,42.42,severely obese,loss_weight,1900.8,1400.8,190.08,142.56,63.36
+1298,69,Male,194,62,Extremely Active,Vegetarian,16.47,underweight,gain_muscle,2835.75,3335.75,248.13,319.02,63.02
+1299,43,Male,173,52,Extremely Active,Omnivore,17.37,underweight,gain_muscle,2643.38,3143.38,231.3,297.38,58.74
+1300,62,Female,195,90,Extremely Active,Omnivore,23.67,healthy weight,mainten_weight,3130.72,3130.72,234.8,313.07,104.36
+1301,19,Female,174,100,Moderately Active,Vegetarian,33.03,obese,loss_weight,2838.83,2338.83,283.88,212.91,94.63
+1302,47,Female,162,84,Very Active,Vegetarian,32.01,obese,loss_weight,2512.46,2012.46,251.25,188.43,83.75
+1303,19,Male,166,52,Lightly Active,Vegan,18.87,healthy weight,mainten_weight,2017.81,2017.81,151.34,201.78,67.26
+1304,52,Male,179,62,Extremely Active,Vegetarian,19.35,healthy weight,mainten_weight,2819.12,2819.12,211.43,281.91,93.97
+1305,64,Female,182,93,Very Active,Omnivore,28.08,overweight,loss_weight,2736.71,2236.71,273.67,205.25,91.22
+1306,29,Female,181,85,Extremely Active,Vegan,25.95,overweight,loss_weight,3182.97,2682.97,318.3,238.72,106.1
+1307,46,Female,175,75,Extremely Active,Omnivore,24.49,healthy weight,mainten_weight,2760.22,2760.22,207.02,276.02,92.01
+1308,25,Female,160,61,Lightly Active,Vegan,23.83,healthy weight,mainten_weight,1820.5,1820.5,136.54,182.05,60.68
+1309,28,Female,175,76,Extremely Active,Vegetarian,24.82,healthy weight,mainten_weight,2950.22,2950.22,221.27,295.02,98.34
+1310,49,Female,198,76,Lightly Active,Omnivore,19.39,healthy weight,mainten_weight,2188.31,2188.31,164.12,218.83,72.94
+1311,40,Female,183,58,Sedentary,Omnivore,17.32,underweight,gain_muscle,1635.3,2135.3,143.09,183.97,36.34
+1312,69,Female,161,85,Extremely Active,Omnivore,32.79,obese,loss_weight,2565.47,2065.47,256.55,192.41,85.52
+1313,54,Female,179,57,Moderately Active,Vegan,17.79,underweight,gain_muscle,1949.51,2449.51,170.58,219.32,43.32
+1314,27,Male,185,52,Moderately Active,Omnivore,15.19,underweight,gain_muscle,2396.69,2896.69,209.71,269.63,53.26
+1315,24,Male,198,87,Sedentary,Vegetarian,22.19,healthy weight,mainten_weight,2391.0,2391.0,179.32,239.1,79.7
+1316,42,Male,154,86,Lightly Active,Vegetarian,36.26,obese,loss_weight,2224.06,1724.06,222.41,166.8,74.14
+1317,57,Female,167,72,Lightly Active,Vegan,25.82,overweight,loss_weight,1811.91,1311.91,181.19,135.89,60.4
+1318,60,Male,181,94,Moderately Active,Vegan,28.69,overweight,loss_weight,2753.19,2253.19,275.32,206.49,91.77
+1319,27,Male,167,62,Sedentary,Omnivore,22.23,healthy weight,mainten_weight,1840.5,1840.5,138.04,184.05,61.35
+1320,45,Male,193,86,Moderately Active,Vegan,23.09,healthy weight,mainten_weight,2861.69,2861.69,214.63,286.17,95.39
+1321,37,Male,168,64,Lightly Active,Vegan,22.68,healthy weight,mainten_weight,2076.25,2076.25,155.72,207.62,69.21
+1322,29,Male,155,69,Lightly Active,Vegan,28.72,overweight,loss_weight,2088.28,1588.2800000000002,208.83,156.62,69.61
+1323,50,Male,193,99,Lightly Active,Vegetarian,26.58,overweight,loss_weight,2682.97,2182.97,268.3,201.22,89.43
+1324,52,Female,159,76,Moderately Active,Vegan,30.06,obese,loss_weight,2065.76,1565.7600000000002,206.58,154.93,68.86
+1325,61,Female,192,93,Extremely Active,Vegan,25.23,overweight,loss_weight,3161.6,2661.6,316.16,237.12,105.39
+1326,41,Male,166,66,Very Active,Omnivore,23.95,healthy weight,mainten_weight,2583.19,2583.19,193.74,258.32,86.11
+1327,40,Male,165,66,Moderately Active,Omnivore,24.24,healthy weight,mainten_weight,2319.19,2319.19,173.94,231.92,77.31
+1328,37,Female,194,50,Sedentary,Omnivore,13.29,underweight,gain_muscle,1639.8,2139.8,143.48,184.48,36.44
+1329,44,Male,156,78,Moderately Active,Omnivore,32.05,obese,loss_weight,2387.0,1887.0,238.7,179.03,79.57
+1330,36,Male,165,82,Extremely Active,Vegetarian,30.12,obese,loss_weight,3184.88,2684.88,318.49,238.87,106.16
+1331,56,Male,184,69,Moderately Active,Vegetarian,20.38,healthy weight,mainten_weight,2425.75,2425.75,181.93,242.58,80.86
+1332,20,Female,156,96,Lightly Active,Vegetarian,39.45,obese,loss_weight,2301.75,1801.75,230.18,172.63,76.72
+1333,52,Female,172,54,Sedentary,Vegetarian,18.25,underweight,gain_muscle,1432.8,1932.8,125.37,161.19,31.84
+1334,47,Male,155,80,Very Active,Vegan,33.3,obese,loss_weight,2654.34,2154.34,265.43,199.08,88.48
+1335,23,Female,181,95,Extremely Active,Vegetarian,29.0,overweight,loss_weight,3429.97,2929.97,343.0,257.25,114.33
+1336,41,Male,170,90,Extremely Active,Vegan,31.14,obese,loss_weight,3348.75,2848.75,334.88,251.16,111.62
+1337,65,Male,163,73,Moderately Active,Vegan,27.48,overweight,loss_weight,2214.56,1714.56,221.46,166.09,73.82
+1338,39,Male,191,86,Moderately Active,Omnivore,23.57,healthy weight,mainten_weight,2888.81,2888.81,216.66,288.88,96.29
+1339,32,Male,188,81,Sedentary,Vegan,22.92,healthy weight,mainten_weight,2196.0,2196.0,164.7,219.6,73.2
+1340,29,Female,179,79,Extremely Active,Vegetarian,24.66,healthy weight,mainten_weight,3045.22,3045.22,228.39,304.52,101.51
+1341,69,Male,199,60,Lightly Active,Vegetarian,15.15,underweight,gain_muscle,2067.66,2567.66,180.92,232.61,45.95
+1342,35,Male,181,56,Extremely Active,Omnivore,17.09,underweight,gain_muscle,2890.38,3390.38,252.91,325.17,64.23
+1343,21,Male,177,60,Moderately Active,Vegan,19.15,healthy weight,mainten_weight,2489.69,2489.69,186.73,248.97,82.99
+1344,49,Female,151,57,Very Active,Omnivore,25.0,overweight,loss_weight,1910.87,1410.87,191.09,143.32,63.7
+1345,70,Female,186,83,Sedentary,Vegan,23.99,healthy weight,mainten_weight,1777.8,1777.8,133.33,177.78,59.26
+1346,63,Female,186,96,Very Active,Omnivore,27.75,overweight,loss_weight,2840.21,2340.21,284.02,213.02,94.67
+1347,42,Female,151,55,Extremely Active,Vegetarian,24.12,healthy weight,mainten_weight,2133.22,2133.22,159.99,213.32,71.11
+1348,49,Female,174,63,Lightly Active,Vegetarian,20.81,healthy weight,mainten_weight,1803.31,1803.31,135.25,180.33,60.11
+1349,64,Female,182,54,Lightly Active,Vegetarian,16.3,underweight,gain_muscle,1645.19,2145.19,143.95,185.08,36.56
+1350,21,Female,183,56,Very Active,Omnivore,16.72,underweight,gain_muscle,2480.12,2980.12,217.01,279.01,55.11
+1351,39,Male,166,67,Moderately Active,Vegan,24.31,healthy weight,mainten_weight,2352.12,2352.12,176.41,235.21,78.4
+1352,38,Female,150,58,Lightly Active,Vegan,25.78,overweight,loss_weight,1603.94,1103.94,160.39,120.3,53.46
+1353,69,Female,179,58,Lightly Active,Vegan,18.1,underweight,gain_muscle,1640.03,2140.0299999999997,143.5,184.5,36.45
+1354,57,Female,188,59,Very Active,Omnivore,16.69,underweight,gain_muscle,2275.28,2775.28,199.09,255.97,50.56
+1355,43,Female,169,52,Extremely Active,Vegetarian,18.21,underweight,gain_muscle,2280.47,2780.47,199.54,256.55,50.68
+1356,42,Female,187,58,Lightly Active,Vegetarian,16.59,underweight,gain_muscle,1894.41,2394.41,165.76,213.12,42.1
+1357,28,Male,186,83,Lightly Active,Omnivore,23.99,healthy weight,mainten_weight,2554.06,2554.06,191.55,255.41,85.14
+1358,20,Female,153,96,Very Active,Vegan,41.01,severely obese,loss_weight,2855.31,2355.31,285.53,214.15,95.18
+1359,41,Female,159,74,Moderately Active,Vegan,29.27,overweight,loss_weight,2120.01,1620.0100000000002,212.0,159.0,70.67
+1360,18,Female,168,75,Extremely Active,Vegetarian,26.57,overweight,loss_weight,2943.1,2443.1,294.31,220.73,98.1
+1361,66,Female,195,94,Extremely Active,Vegan,24.72,healthy weight,mainten_weight,3168.72,3168.72,237.65,316.87,105.62
+1362,37,Male,180,51,Lightly Active,Vegan,15.74,underweight,gain_muscle,2000.62,2500.62,175.05,225.07,44.46
+1363,46,Female,169,100,Very Active,Omnivore,35.01,obese,loss_weight,2872.56,2372.56,287.26,215.44,95.75
+1364,34,Female,163,57,Lightly Active,Vegan,21.45,healthy weight,mainten_weight,1729.41,1729.41,129.71,172.94,57.65
+1365,56,Female,180,75,Very Active,Omnivore,23.15,healthy weight,mainten_weight,2473.65,2473.65,185.52,247.37,82.45
+1366,70,Male,196,84,Sedentary,Vegetarian,21.87,healthy weight,mainten_weight,2064.0,2064.0,154.8,206.4,68.8
+1367,66,Male,158,98,Sedentary,Omnivore,39.26,obese,loss_weight,1971.0,1471.0,197.1,147.82,65.7
+1368,50,Female,162,78,Sedentary,Omnivore,29.72,overweight,loss_weight,1657.8,1157.8,165.78,124.33,55.26
+1369,23,Female,193,98,Moderately Active,Vegan,26.31,overweight,loss_weight,2960.89,2460.89,296.09,222.07,98.7
+1370,33,Female,165,82,Extremely Active,Vegan,30.12,obese,loss_weight,2897.97,2397.97,289.8,217.35,96.6
+1371,23,Female,193,76,Sedentary,Vegetarian,20.4,healthy weight,mainten_weight,2028.3,2028.3,152.12,202.83,67.61
+1372,40,Male,152,82,Sedentary,Vegetarian,35.49,obese,loss_weight,1890.0,1390.0,189.0,141.75,63.0
+1373,20,Male,166,94,Lightly Active,Vegan,34.11,obese,loss_weight,2588.44,2088.44,258.84,194.13,86.28
+1374,21,Female,170,59,Extremely Active,Omnivore,20.42,healthy weight,mainten_weight,2634.35,2634.35,197.58,263.44,87.81
+1375,33,Male,173,77,Very Active,Vegetarian,25.73,overweight,loss_weight,2917.41,2417.41,291.74,218.81,97.25
+1376,41,Male,199,52,Extremely Active,Vegan,13.13,underweight,gain_muscle,2971.12,3471.12,259.97,334.25,66.02
+1377,63,Male,188,100,Moderately Active,Omnivore,28.29,overweight,loss_weight,2890.75,2390.75,289.07,216.81,96.36
+1378,69,Male,171,99,Extremely Active,Omnivore,33.86,obese,loss_weight,3265.62,2765.62,326.56,244.92,108.85
+1379,43,Male,169,64,Moderately Active,Vegetarian,22.41,healthy weight,mainten_weight,2303.69,2303.69,172.78,230.37,76.79
+1380,51,Female,193,100,Very Active,Vegan,26.85,overweight,loss_weight,3088.18,2588.18,308.82,231.61,102.94
+1381,41,Female,153,56,Moderately Active,Vegan,23.92,healthy weight,mainten_weight,1782.89,1782.89,133.72,178.29,59.43
+1382,64,Female,182,70,Extremely Active,Vegetarian,21.13,healthy weight,mainten_weight,2577.35,2577.35,193.3,257.74,85.91
+1383,40,Female,199,58,Sedentary,Vegan,14.65,underweight,gain_muscle,1755.3,2255.3,153.59,197.47,39.01
+1384,67,Male,161,89,Sedentary,Vegan,34.34,obese,loss_weight,1879.5,1379.5,187.95,140.96,62.65
+1385,21,Male,188,84,Extremely Active,Omnivore,23.77,healthy weight,mainten_weight,3638.5,3638.5,272.89,363.85,121.28
+1386,52,Female,193,90,Lightly Active,Vegan,24.16,healthy weight,mainten_weight,2317.22,2317.22,173.79,231.72,77.24
+1387,21,Male,165,72,Moderately Active,Vegan,26.45,overweight,loss_weight,2559.44,2059.44,255.94,191.96,85.31
+1388,25,Male,153,50,Very Active,Vegan,21.36,healthy weight,mainten_weight,2305.03,2305.03,172.88,230.5,76.83
+1389,58,Male,151,80,Lightly Active,Vegan,35.09,obese,loss_weight,2005.78,1505.78,200.58,150.43,66.86
+1390,19,Male,177,67,Moderately Active,Vegetarian,21.39,healthy weight,mainten_weight,2613.69,2613.69,196.03,261.37,87.12
+1391,32,Male,161,58,Sedentary,Omnivore,22.38,healthy weight,mainten_weight,1717.5,1717.5,128.81,171.75,57.25
+1392,55,Female,194,65,Very Active,Vegetarian,17.27,underweight,gain_muscle,2460.71,2960.71,215.31,276.83,54.68
+1393,37,Female,198,87,Sedentary,Vegan,22.19,healthy weight,mainten_weight,2113.8,2113.8,158.53,211.38,70.46
+1394,30,Male,179,78,Extremely Active,Vegetarian,24.34,healthy weight,mainten_weight,3332.12,3332.12,249.91,333.21,111.07
+1395,52,Male,175,98,Lightly Active,Omnivore,32.0,obese,loss_weight,2500.78,2000.7800000000002,250.08,187.56,83.36
+1396,42,Female,168,58,Extremely Active,Vegan,20.55,healthy weight,mainten_weight,2392.1,2392.1,179.41,239.21,79.74
+1397,56,Female,157,84,Moderately Active,Omnivore,34.08,obese,loss_weight,2139.39,1639.3899999999999,213.94,160.45,71.31
+1398,24,Male,188,51,Moderately Active,Omnivore,14.43,underweight,gain_muscle,2433.5,2933.5,212.93,273.77,54.08
+1399,18,Female,198,91,Extremely Active,Omnivore,23.21,healthy weight,mainten_weight,3603.35,3603.35,270.25,360.34,120.11
+1400,19,Male,191,93,Very Active,Vegan,25.49,overweight,loss_weight,3508.22,3008.22,350.82,263.12,116.94
+1401,47,Female,190,78,Sedentary,Omnivore,21.61,healthy weight,mainten_weight,1885.8,1885.8,141.44,188.58,62.86
+1402,29,Female,153,88,Extremely Active,Vegetarian,37.59,obese,loss_weight,2907.47,2407.47,290.75,218.06,96.92
+1403,47,Male,175,90,Extremely Active,Vegan,29.39,overweight,loss_weight,3351.12,2851.12,335.11,251.33,111.7
+1404,69,Female,162,98,Extremely Active,Omnivore,37.34,obese,loss_weight,2824.35,2324.35,282.44,211.83,94.14
+1405,69,Male,195,84,Moderately Active,Vegetarian,22.09,healthy weight,mainten_weight,2664.06,2664.06,199.8,266.41,88.8
+1406,44,Female,152,60,Extremely Active,Vegan,25.97,overweight,loss_weight,2221.1,1721.1,222.11,166.58,74.04
+1407,56,Female,199,88,Moderately Active,Vegetarian,22.22,healthy weight,mainten_weight,2608.26,2608.26,195.62,260.83,86.94
+1408,23,Female,151,74,Lightly Active,Vegan,32.45,obese,loss_weight,1935.66,1435.66,193.57,145.17,64.52
+1409,60,Female,188,82,Extremely Active,Vegetarian,23.2,healthy weight,mainten_weight,2914.6,2914.6,218.59,291.46,97.15
+1410,60,Male,174,61,Very Active,Vegetarian,20.15,healthy weight,mainten_weight,2419.31,2419.31,181.45,241.93,80.64
+1411,35,Male,167,91,Moderately Active,Vegetarian,32.63,obese,loss_weight,2764.81,2264.81,276.48,207.36,92.16
+1412,32,Female,180,94,Extremely Active,Vegan,29.01,overweight,loss_weight,3313.6,2813.6,331.36,248.52,110.45
+1413,34,Male,197,84,Sedentary,Vegan,21.64,healthy weight,mainten_weight,2287.5,2287.5,171.56,228.75,76.25
+1414,42,Female,183,82,Sedentary,Omnivore,24.49,healthy weight,mainten_weight,1911.3,1911.3,143.35,191.13,63.71
+1415,47,Male,168,89,Moderately Active,Vegan,31.53,obese,loss_weight,2650.5,2150.5,265.05,198.79,88.35
+1416,24,Male,166,80,Sedentary,Vegetarian,29.03,overweight,loss_weight,2067.0,1567.0,206.7,155.03,68.9
+1417,41,Female,161,66,Moderately Active,Omnivore,25.46,overweight,loss_weight,2015.39,1515.39,201.54,151.15,67.18
+1418,60,Male,150,57,Lightly Active,Vegetarian,25.33,overweight,loss_weight,1667.19,1167.19,166.72,125.04,55.57
+1419,47,Female,188,54,Lightly Active,Vegetarian,15.28,underweight,gain_muscle,1813.62,2313.62,158.69,204.03,40.3
+1420,39,Male,181,97,Lightly Active,Vegan,29.61,overweight,loss_weight,2627.97,2127.97,262.8,197.1,87.6
+1421,37,Female,181,81,Moderately Active,Vegan,24.72,healthy weight,mainten_weight,2472.64,2472.64,185.45,247.26,82.42
+1422,67,Male,188,72,Lightly Active,Omnivore,20.37,healthy weight,mainten_weight,2151.88,2151.88,161.39,215.19,71.73
+1423,23,Female,188,56,Sedentary,Vegetarian,15.84,underweight,gain_muscle,1750.8,2250.8,153.19,196.97,38.91
+1424,66,Female,177,85,Lightly Active,Vegetarian,27.13,overweight,loss_weight,2014.72,1514.72,201.47,151.1,67.16
+1425,38,Female,179,65,Lightly Active,Vegan,20.29,healthy weight,mainten_weight,1949.41,1949.41,146.21,194.94,64.98
+1426,46,Female,165,67,Moderately Active,Vegetarian,24.61,healthy weight,mainten_weight,2030.89,2030.89,152.32,203.09,67.7
+1427,51,Male,189,60,Sedentary,Vegetarian,16.8,underweight,gain_muscle,1837.5,2337.5,160.78,206.72,40.83
+1428,52,Male,191,57,Moderately Active,Vegetarian,15.62,underweight,gain_muscle,2338.56,2838.56,204.62,263.09,51.97
+1429,30,Male,175,56,Very Active,Omnivore,18.29,underweight,gain_muscle,2602.59,3102.59,227.73,292.79,57.84
+1430,68,Male,198,79,Lightly Active,Vegetarian,20.15,healthy weight,mainten_weight,2327.19,2327.19,174.54,232.72,77.57
+1431,57,Male,185,77,Moderately Active,Omnivore,22.5,healthy weight,mainten_weight,2551.69,2551.69,191.38,255.17,85.06
+1432,30,Male,180,60,Extremely Active,Vegan,18.52,healthy weight,mainten_weight,3002.0,3002.0,225.15,300.2,100.07
+1433,67,Female,189,59,Sedentary,Omnivore,16.52,underweight,gain_muscle,1530.3,2030.3,133.9,172.16,34.01
+1434,65,Male,156,54,Extremely Active,Vegan,22.19,healthy weight,mainten_weight,2270.5,2270.5,170.29,227.05,75.68
+1435,33,Male,153,95,Very Active,Vegan,40.58,severely obese,loss_weight,3012.28,2512.28,301.23,225.92,100.41
+1436,18,Male,183,71,Sedentary,Vegan,21.2,healthy weight,mainten_weight,2122.5,2122.5,159.19,212.25,70.75
+1437,43,Female,194,94,Moderately Active,Omnivore,24.98,healthy weight,mainten_weight,2753.58,2753.58,206.52,275.36,91.79
+1438,46,Female,192,97,Very Active,Omnivore,26.31,overweight,loss_weight,3068.78,2568.78,306.88,230.16,102.29
+1439,24,Female,186,67,Sedentary,Vegan,19.37,healthy weight,mainten_weight,1861.8,1861.8,139.63,186.18,62.06
+1440,23,Male,179,80,Moderately Active,Vegetarian,24.97,healthy weight,mainten_weight,2803.56,2803.56,210.27,280.36,93.45
+1441,60,Female,154,89,Lightly Active,Vegan,37.53,obese,loss_weight,1913.31,1413.31,191.33,143.5,63.78
+1442,18,Male,193,78,Lightly Active,Vegetarian,20.94,healthy weight,mainten_weight,2614.22,2614.22,196.07,261.42,87.14
+1443,42,Female,174,83,Very Active,Vegetarian,27.41,overweight,loss_weight,2667.71,2167.71,266.77,200.08,88.92
+1444,43,Female,189,67,Lightly Active,Vegan,18.76,healthy weight,mainten_weight,2028.47,2028.47,152.14,202.85,67.62
+1445,36,Male,194,90,Lightly Active,Omnivore,23.91,healthy weight,mainten_weight,2664.06,2664.06,199.8,266.41,88.8
+1446,57,Male,158,55,Sedentary,Omnivore,22.03,healthy weight,mainten_weight,1509.0,1509.0,113.17,150.9,50.3
+1447,29,Male,164,63,Lightly Active,Vegetarian,23.42,healthy weight,mainten_weight,2083.12,2083.12,156.23,208.31,69.44
+1448,34,Male,200,63,Sedentary,Omnivore,15.75,underweight,gain_muscle,2058.0,2558.0,180.07,231.53,45.73
+1449,63,Male,181,59,Lightly Active,Vegetarian,18.01,underweight,gain_muscle,1940.47,2440.4700000000003,169.79,218.3,43.12
+1450,49,Female,153,54,Sedentary,Omnivore,23.07,healthy weight,mainten_weight,1308.3,1308.3,98.12,130.83,43.61
+1451,36,Female,183,61,Sedentary,Vegan,18.21,underweight,gain_muscle,1695.3,2195.3,148.34,190.72,37.67
+1452,27,Female,172,68,Lightly Active,Vegan,22.99,healthy weight,mainten_weight,2006.12,2006.12,150.46,200.61,66.87
+1453,69,Male,181,74,Moderately Active,Omnivore,22.59,healthy weight,mainten_weight,2373.44,2373.44,178.01,237.34,79.11
+1454,45,Female,195,88,Lightly Active,Vegan,23.14,healthy weight,mainten_weight,2355.03,2355.03,176.63,235.5,78.5
+1455,65,Female,190,78,Lightly Active,Vegetarian,21.61,healthy weight,mainten_weight,2037.06,2037.06,152.78,203.71,67.9
+1456,62,Male,200,73,Very Active,Vegetarian,18.25,underweight,gain_muscle,2889.38,3389.38,252.82,325.06,64.21
+1457,66,Male,161,69,Sedentary,Vegetarian,26.62,overweight,loss_weight,1645.5,1145.5,164.55,123.41,54.85
+1458,36,Female,196,89,Extremely Active,Vegetarian,23.17,healthy weight,mainten_weight,3370.6,3370.6,252.79,337.06,112.35
+1459,48,Male,173,82,Sedentary,Vegan,27.4,overweight,loss_weight,1999.5,1499.5,199.95,149.96,66.65
+1460,31,Male,172,67,Sedentary,Vegan,22.65,healthy weight,mainten_weight,1914.0,1914.0,143.55,191.4,63.8
+1461,58,Female,182,70,Sedentary,Vegan,21.13,healthy weight,mainten_weight,1663.8,1663.8,124.78,166.38,55.46
+1462,64,Male,171,82,Lightly Active,Omnivore,28.04,overweight,loss_weight,2163.91,1663.9099999999999,216.39,162.29,72.13
+1463,55,Male,186,75,Sedentary,Omnivore,21.68,healthy weight,mainten_weight,1971.0,1971.0,147.82,197.1,65.7
+1464,55,Male,163,86,Sedentary,Omnivore,32.37,obese,loss_weight,1930.5,1430.5,193.05,144.79,64.35
+1465,51,Male,165,88,Extremely Active,Vegetarian,32.32,obese,loss_weight,3156.38,2656.38,315.64,236.73,105.21
+1466,32,Female,163,80,Extremely Active,Omnivore,30.11,obese,loss_weight,2845.72,2345.72,284.57,213.43,94.86
+1467,34,Male,195,83,Lightly Active,Vegan,21.83,healthy weight,mainten_weight,2590.16,2590.16,194.26,259.02,86.34
+1468,54,Male,187,85,Moderately Active,Vegan,24.31,healthy weight,mainten_weight,2718.31,2718.31,203.87,271.83,90.61
+1469,49,Female,170,54,Sedentary,Omnivore,18.69,healthy weight,mainten_weight,1435.8,1435.8,107.68,143.58,47.86
+1470,29,Male,200,87,Moderately Active,Vegan,21.75,healthy weight,mainten_weight,3069.0,3069.0,230.17,306.9,102.3
+1471,70,Male,193,68,Lightly Active,Vegan,18.26,underweight,gain_muscle,2119.22,2619.22,185.43,238.41,47.09
+1472,19,Female,189,59,Lightly Active,Vegan,16.52,underweight,gain_muscle,2083.47,2583.47,182.3,234.39,46.3
+1473,31,Male,183,94,Sedentary,Vegan,28.07,overweight,loss_weight,2320.5,1820.5,232.05,174.04,77.35
+1474,32,Female,156,59,Very Active,Omnivore,24.24,healthy weight,mainten_weight,2145.9,2145.9,160.94,214.59,71.53
+1475,22,Male,196,58,Moderately Active,Omnivore,15.1,underweight,gain_muscle,2635.0,3135.0,230.56,296.44,58.56
+1476,54,Female,189,50,Lightly Active,Omnivore,14.0,underweight,gain_muscle,1719.09,2219.09,150.42,193.4,38.2
+1477,33,Male,168,62,Sedentary,Omnivore,21.97,healthy weight,mainten_weight,1812.0,1812.0,135.9,181.2,60.4
+1478,23,Female,187,73,Lightly Active,Omnivore,20.88,healthy weight,mainten_weight,2231.28,2231.28,167.35,223.13,74.38
+1479,57,Male,200,66,Moderately Active,Vegetarian,16.5,underweight,gain_muscle,2526.5,3026.5,221.07,284.23,56.14
+1480,55,Male,175,87,Very Active,Omnivore,28.41,overweight,loss_weight,2921.72,2421.72,292.17,219.13,97.39
+1481,19,Male,151,54,Lightly Active,Vegan,23.68,healthy weight,mainten_weight,1916.41,1916.41,143.73,191.64,63.88
+1482,63,Female,153,55,Extremely Active,Vegan,23.5,healthy weight,mainten_weight,1957.47,1957.47,146.81,195.75,65.25
+1483,38,Female,193,100,Lightly Active,Vegan,26.85,overweight,loss_weight,2550.97,2050.97,255.1,191.32,85.03
+1484,25,Male,166,75,Moderately Active,Vegetarian,27.22,overweight,loss_weight,2584.62,2084.62,258.46,193.85,86.15
+1485,38,Male,151,97,Moderately Active,Vegetarian,42.54,severely obese,loss_weight,2679.56,2179.56,267.96,200.97,89.32
+1486,45,Male,179,100,Extremely Active,Omnivore,31.21,obese,loss_weight,3607.62,3107.62,360.76,270.57,120.25
+1487,22,Female,200,60,Moderately Active,Omnivore,15.0,underweight,gain_muscle,2447.45,2947.45,214.15,275.34,54.39
+1488,67,Female,195,68,Sedentary,Vegetarian,17.88,underweight,gain_muscle,1683.3,2183.3,147.29,189.37,37.41
+1489,31,Male,161,84,Extremely Active,Omnivore,32.41,obese,loss_weight,3222.88,2722.88,322.29,241.72,107.43
+1490,35,Female,157,50,Sedentary,Omnivore,20.28,healthy weight,mainten_weight,1374.3,1374.3,103.07,137.43,45.81
+1491,40,Female,199,93,Lightly Active,Omnivore,23.48,healthy weight,mainten_weight,2492.53,2492.53,186.94,249.25,83.08
+1492,61,Female,172,84,Lightly Active,Vegan,28.39,overweight,loss_weight,1992.38,1492.38,199.24,149.43,66.41
+1493,42,Male,162,59,Moderately Active,Omnivore,22.48,healthy weight,mainten_weight,2166.12,2166.12,162.46,216.61,72.2
+1494,54,Female,184,75,Very Active,Vegan,22.15,healthy weight,mainten_weight,2534.03,2534.03,190.05,253.4,84.47
+1495,54,Male,193,54,Lightly Active,Vegan,14.5,underweight,gain_muscle,2036.72,2536.7200000000003,178.21,229.13,45.26
+1496,47,Female,169,63,Very Active,Vegan,22.06,healthy weight,mainten_weight,2225.68,2225.68,166.93,222.57,74.19
+1497,27,Female,175,58,Very Active,Omnivore,18.94,healthy weight,mainten_weight,2376.62,2376.62,178.25,237.66,79.22
+1498,20,Male,180,63,Lightly Active,Vegan,19.44,healthy weight,mainten_weight,2282.5,2282.5,171.19,228.25,76.08
+1499,21,Female,160,95,Lightly Active,Omnivore,37.11,obese,loss_weight,2315.5,1815.5,231.55,173.66,77.18
+1500,32,Female,166,74,Extremely Active,Vegetarian,26.85,overweight,loss_weight,2767.35,2267.35,276.74,207.55,92.24
+1501,49,Male,172,70,Very Active,Vegetarian,23.66,healthy weight,mainten_weight,2647.88,2647.88,198.59,264.79,88.26
+1502,64,Male,181,83,Moderately Active,Omnivore,25.34,overweight,loss_weight,2551.69,2051.69,255.17,191.38,85.06
+1503,38,Female,182,53,Sedentary,Omnivore,16.0,underweight,gain_muscle,1579.8,2079.8,138.23,177.73,35.11
+1504,18,Female,152,56,Moderately Active,Vegetarian,24.24,healthy weight,mainten_weight,1951.45,1951.45,146.36,195.15,65.05
+1505,56,Female,163,81,Lightly Active,Vegan,30.49,obese,loss_weight,1908.16,1408.16,190.82,143.11,63.61
+1506,67,Male,167,85,Sedentary,Omnivore,30.48,obese,loss_weight,1876.5,1376.5,187.65,140.74,62.55
+1507,39,Female,153,51,Extremely Active,Vegan,21.79,healthy weight,mainten_weight,2109.47,2109.47,158.21,210.95,70.32
+1508,66,Male,178,69,Sedentary,Omnivore,21.78,healthy weight,mainten_weight,1773.0,1773.0,132.97,177.3,59.1
+1509,24,Male,176,88,Sedentary,Omnivore,28.41,overweight,loss_weight,2238.0,1738.0,223.8,167.85,74.6
+1510,34,Male,195,50,Extremely Active,Vegan,13.15,underweight,gain_muscle,2952.12,3452.12,258.31,332.11,65.6
+1511,43,Female,158,74,Extremely Active,Vegan,29.64,overweight,loss_weight,2567.85,2067.85,256.79,192.59,85.59
+1512,21,Female,153,56,Sedentary,Omnivore,23.92,healthy weight,mainten_weight,1500.3,1500.3,112.52,150.03,50.01
+1513,28,Male,196,94,Extremely Active,Vegan,24.47,healthy weight,mainten_weight,3857.0,3857.0,289.27,385.7,128.57
+1514,41,Female,180,67,Lightly Active,Omnivore,20.68,healthy weight,mainten_weight,1964.88,1964.88,147.37,196.49,65.5
+1515,33,Female,165,58,Extremely Active,Omnivore,21.3,healthy weight,mainten_weight,2441.97,2441.97,183.15,244.2,81.4
+1516,62,Male,198,67,Very Active,Vegan,17.09,underweight,gain_muscle,2764.31,3264.31,241.88,310.98,61.43
+1517,46,Male,196,73,Very Active,Vegan,19.0,healthy weight,mainten_weight,2984.25,2984.25,223.82,298.43,99.47
+1518,23,Female,176,89,Moderately Active,Vegetarian,28.73,overweight,loss_weight,2656.7,2156.7,265.67,199.25,88.56
+1519,65,Male,156,67,Moderately Active,Vegan,27.53,overweight,loss_weight,2053.75,1553.75,205.38,154.03,68.46
+1520,34,Male,191,74,Lightly Active,Vegetarian,20.28,healthy weight,mainten_weight,2432.03,2432.03,182.4,243.2,81.07
+1521,55,Male,162,92,Moderately Active,Omnivore,35.06,obese,loss_weight,2576.88,2076.88,257.69,193.27,85.9
+1522,35,Female,164,78,Very Active,Vegan,29.0,overweight,loss_weight,2534.03,2034.0300000000002,253.4,190.05,84.47
+1523,19,Male,162,52,Extremely Active,Omnivore,19.81,healthy weight,mainten_weight,2740.75,2740.75,205.56,274.07,91.36
+1524,32,Male,194,62,Lightly Active,Omnivore,16.47,underweight,gain_muscle,2306.56,2806.56,201.82,259.49,51.26
+1525,34,Female,188,90,Moderately Active,Vegetarian,25.46,overweight,loss_weight,2703.2,2203.2,270.32,202.74,90.11
+1526,40,Female,156,68,Extremely Active,Vegan,27.94,overweight,loss_weight,2458.6,1958.6,245.86,184.39,81.95
+1527,27,Male,159,75,Lightly Active,Omnivore,29.67,overweight,loss_weight,2218.91,1718.9099999999999,221.89,166.42,73.96
+1528,60,Male,154,85,Lightly Active,Omnivore,35.84,obese,loss_weight,2086.56,1586.56,208.66,156.49,69.55
+1529,25,Male,167,95,Very Active,Omnivore,34.06,obese,loss_weight,3232.22,2732.22,323.22,242.42,107.74
+1530,21,Female,195,84,Moderately Active,Omnivore,22.09,healthy weight,mainten_weight,2778.76,2778.76,208.41,277.88,92.63
+1531,52,Female,165,91,Extremely Active,Vegetarian,33.43,obese,loss_weight,2888.47,2388.47,288.85,216.64,96.28
+1532,46,Male,188,93,Very Active,Omnivore,26.31,overweight,loss_weight,3243.0,2743.0,324.3,243.22,108.1
+1533,36,Female,193,95,Moderately Active,Vegetarian,25.5,overweight,loss_weight,2813.64,2313.64,281.36,211.02,93.79
+1534,62,Female,163,63,Extremely Active,Vegan,23.71,healthy weight,mainten_weight,2237.72,2237.72,167.83,223.77,74.59
+1535,64,Female,158,95,Very Active,Vegetarian,38.05,obese,loss_weight,2512.46,2012.46,251.25,188.43,83.75
+1536,46,Female,199,75,Extremely Active,Vegetarian,18.94,healthy weight,mainten_weight,3045.22,3045.22,228.39,304.52,101.51
+1537,59,Male,162,99,Sedentary,Vegetarian,37.72,obese,loss_weight,2055.0,1555.0,205.5,154.12,68.5
+1538,23,Female,184,100,Moderately Active,Omnivore,29.54,overweight,loss_weight,2904.7,2404.7,290.47,217.85,96.82
+1539,56,Male,177,99,Extremely Active,Omnivore,31.6,obese,loss_weight,3460.38,2960.38,346.04,259.53,115.35
+1540,18,Male,163,61,Sedentary,Vegan,22.96,healthy weight,mainten_weight,1852.5,1852.5,138.94,185.25,61.75
+1541,56,Female,157,100,Very Active,Vegetarian,40.57,severely obese,loss_weight,2656.93,2156.93,265.69,199.27,88.56
+1542,62,Male,186,86,Extremely Active,Omnivore,24.86,healthy weight,mainten_weight,3263.25,3263.25,244.74,326.33,108.77
+1543,27,Male,179,72,Moderately Active,Vegan,22.47,healthy weight,mainten_weight,2648.56,2648.56,198.64,264.86,88.29
+1544,33,Male,200,80,Lightly Active,Vegan,20.0,healthy weight,mainten_weight,2598.75,2598.75,194.91,259.88,86.62
+1545,50,Female,197,73,Extremely Active,Vegetarian,18.81,healthy weight,mainten_weight,2945.47,2945.47,220.91,294.55,98.18
+1546,34,Female,162,61,Extremely Active,Vegetarian,23.24,healthy weight,mainten_weight,2453.85,2453.85,184.04,245.38,81.8
+1547,21,Male,159,94,Very Active,Vegan,37.18,obese,loss_weight,3163.22,2663.22,316.32,237.24,105.44
+1548,43,Female,187,84,Lightly Active,Vegetarian,24.02,healthy weight,mainten_weight,2245.03,2245.03,168.38,224.5,74.83
+1549,42,Female,200,74,Sedentary,Vegetarian,18.5,healthy weight,mainten_weight,1942.8,1942.8,145.71,194.28,64.76
+1550,22,Male,194,100,Extremely Active,Vegetarian,26.57,overweight,loss_weight,4004.25,3504.25,400.43,300.32,133.47
+1551,36,Female,163,51,Moderately Active,Omnivore,19.2,healthy weight,mainten_weight,1841.01,1841.01,138.08,184.1,61.37
+1552,58,Female,154,72,Lightly Active,Vegetarian,30.36,obese,loss_weight,1693.31,1193.31,169.33,127.0,56.44
+1553,52,Female,184,94,Lightly Active,Vegan,27.76,overweight,loss_weight,2294.88,1794.88,229.49,172.12,76.5
+1554,30,Female,162,60,Extremely Active,Vegan,22.86,healthy weight,mainten_weight,2472.85,2472.85,185.46,247.28,82.43
+1555,35,Female,172,99,Very Active,Vegetarian,33.46,obese,loss_weight,2982.53,2482.53,298.25,223.69,99.42
+1556,26,Male,182,92,Sedentary,Vegetarian,27.77,overweight,loss_weight,2319.0,1819.0,231.9,173.92,77.3
+1557,27,Male,157,100,Moderately Active,Vegetarian,40.57,severely obese,loss_weight,2869.44,2369.44,286.94,215.21,95.65
+1558,21,Male,182,75,Extremely Active,Vegetarian,22.64,healthy weight,mainten_weight,3396.25,3396.25,254.72,339.62,113.21
+1559,19,Male,175,79,Sedentary,Vegan,25.8,overweight,loss_weight,2152.5,1652.5,215.25,161.44,71.75
+1560,56,Female,176,92,Sedentary,Omnivore,29.7,overweight,loss_weight,1894.8,1394.8,189.48,142.11,63.16
+1561,39,Male,181,92,Lightly Active,Vegetarian,28.08,overweight,loss_weight,2559.22,2059.22,255.92,191.94,85.31
+1562,25,Male,179,88,Very Active,Vegetarian,27.46,overweight,loss_weight,3240.84,2740.84,324.08,243.06,108.03
+1563,64,Female,183,61,Very Active,Vegan,18.21,underweight,gain_muscle,2195.49,2695.49,192.11,246.99,48.79
+1564,25,Male,169,79,Sedentary,Vegetarian,27.66,overweight,loss_weight,2071.5,1571.5,207.15,155.36,69.05
+1565,39,Female,183,50,Very Active,Vegan,14.93,underweight,gain_muscle,2221.37,2721.37,194.37,249.9,49.36
+1566,63,Female,175,75,Moderately Active,Vegan,24.49,healthy weight,mainten_weight,2120.01,2120.01,159.0,212.0,70.67
+1567,25,Female,182,62,Moderately Active,Vegetarian,18.72,healthy weight,mainten_weight,2280.83,2280.83,171.06,228.08,76.03
+1568,63,Male,160,68,Very Active,Vegan,26.56,overweight,loss_weight,2363.25,1863.25,236.33,177.24,78.78
+1569,64,Female,167,66,Very Active,Omnivore,23.67,healthy weight,mainten_weight,2109.24,2109.24,158.19,210.92,70.31
+1570,31,Female,184,67,Lightly Active,Vegetarian,19.79,healthy weight,mainten_weight,2068.0,2068.0,155.1,206.8,68.93
+1571,45,Female,177,61,Sedentary,Omnivore,19.47,healthy weight,mainten_weight,1596.3,1596.3,119.72,159.63,53.21
+1572,61,Male,171,56,Very Active,Vegetarian,19.15,healthy weight,mainten_weight,2292.09,2292.09,171.91,229.21,76.4
+1573,22,Female,155,51,Moderately Active,Vegan,21.23,healthy weight,mainten_weight,1872.01,1872.01,140.4,187.2,62.4
+1574,39,Female,197,61,Lightly Active,Omnivore,15.72,underweight,gain_muscle,2042.22,2542.2200000000003,178.69,229.75,45.38
+1575,64,Female,152,76,Lightly Active,Vegetarian,32.89,obese,loss_weight,1689.88,1189.88,168.99,126.74,56.33
+1576,50,Female,150,96,Sedentary,Vegan,42.67,severely obese,loss_weight,1783.8,1283.8,178.38,133.78,59.46
+1577,48,Female,184,68,Sedentary,Omnivore,20.09,healthy weight,mainten_weight,1714.8,1714.8,128.61,171.48,57.16
+1578,22,Male,177,82,Very Active,Vegan,26.17,overweight,loss_weight,3141.66,2641.66,314.17,235.62,104.72
+1579,38,Male,160,77,Lightly Active,Vegetarian,30.08,obese,loss_weight,2179.38,1679.38,217.94,163.45,72.65
+1580,47,Male,186,66,Sedentary,Vegetarian,19.08,healthy weight,mainten_weight,1911.0,1911.0,143.32,191.1,63.7
+1581,60,Male,184,71,Lightly Active,Vegan,20.97,healthy weight,mainten_weight,2151.88,2151.88,161.39,215.19,71.73
+1582,68,Female,191,98,Lightly Active,Omnivore,26.86,overweight,loss_weight,2300.03,1800.0300000000002,230.0,172.5,76.67
+1583,41,Female,164,99,Very Active,Vegan,36.81,obese,loss_weight,2844.53,2344.53,284.45,213.34,94.82
+1584,65,Female,156,51,Lightly Active,Vegetarian,20.96,healthy weight,mainten_weight,1373.62,1373.62,103.02,137.36,45.79
+1585,69,Male,158,82,Sedentary,Vegetarian,32.85,obese,loss_weight,1761.0,1261.0,176.1,132.07,58.7
+1586,55,Male,173,69,Sedentary,Vegan,23.05,healthy weight,mainten_weight,1801.5,1801.5,135.11,180.15,60.05
+1587,38,Male,161,69,Lightly Active,Vegan,26.62,overweight,loss_weight,2077.97,1577.9699999999998,207.8,155.85,69.27
+1588,25,Male,150,85,Moderately Active,Vegan,37.78,obese,loss_weight,2584.62,2084.62,258.46,193.85,86.15
+1589,57,Female,151,64,Sedentary,Vegan,28.07,overweight,loss_weight,1365.3,865.3,136.53,102.4,45.51
+1590,56,Female,188,57,Lightly Active,Vegetarian,16.13,underweight,gain_muscle,1793.0,2293.0,156.89,201.71,39.84
+1591,23,Male,182,60,Very Active,Vegetarian,18.11,underweight,gain_muscle,2807.44,3307.44,245.65,315.84,62.39
+1592,20,Female,195,90,Extremely Active,Vegetarian,23.67,healthy weight,mainten_weight,3529.72,3529.72,264.73,352.97,117.66
+1593,47,Female,150,85,Very Active,Vegan,37.78,obese,loss_weight,2400.34,1900.3400000000001,240.03,180.03,80.01
+1594,35,Female,185,90,Sedentary,Omnivore,26.3,overweight,loss_weight,2064.3,1564.3000000000002,206.43,154.82,68.81
+1595,54,Male,152,78,Very Active,Vegan,33.76,obese,loss_weight,2527.12,2027.12,252.71,189.53,84.24
+1596,46,Male,189,53,Very Active,Vegetarian,14.84,underweight,gain_muscle,2563.78,3063.78,224.33,288.43,56.97
+1597,59,Male,165,68,Lightly Active,Vegan,24.98,healthy weight,mainten_weight,1954.22,1954.22,146.57,195.42,65.14
+1598,46,Male,178,98,Very Active,Omnivore,30.93,obese,loss_weight,3221.44,2721.44,322.14,241.61,107.38
+1599,39,Male,179,78,Moderately Active,Vegetarian,24.34,healthy weight,mainten_weight,2648.56,2648.56,198.64,264.86,88.29
+1600,40,Male,182,75,Lightly Active,Vegetarian,22.64,healthy weight,mainten_weight,2327.19,2327.19,174.54,232.72,77.57
+1601,42,Male,168,77,Lightly Active,Omnivore,27.28,overweight,loss_weight,2220.62,1720.62,222.06,166.55,74.02
+1602,39,Female,196,74,Extremely Active,Vegan,19.26,healthy weight,mainten_weight,3057.1,3057.1,229.28,305.71,101.9
+1603,34,Male,155,86,Lightly Active,Omnivore,35.8,obese,loss_weight,2287.66,1787.6599999999999,228.77,171.57,76.26
+1604,23,Male,163,86,Moderately Active,Omnivore,32.37,obese,loss_weight,2741.56,2241.56,274.16,205.62,91.39
+1605,62,Female,153,60,Moderately Active,Vegan,25.63,overweight,loss_weight,1682.14,1182.14,168.21,126.16,56.07
+1606,69,Male,164,87,Sedentary,Vegan,32.35,obese,loss_weight,1866.0,1366.0,186.6,139.95,62.2
+1607,30,Male,159,65,Very Active,Vegan,25.71,overweight,loss_weight,2585.34,2085.34,258.53,193.9,86.18
+1608,60,Male,166,63,Moderately Active,Vegan,22.86,healthy weight,mainten_weight,2127.38,2127.38,159.55,212.74,70.91
+1609,43,Male,199,68,Very Active,Vegetarian,17.17,underweight,gain_muscle,2956.22,3456.22,258.67,332.57,65.69
+1610,68,Female,195,87,Very Active,Vegetarian,22.88,healthy weight,mainten_weight,2738.87,2738.87,205.42,273.89,91.3
+1611,39,Male,155,85,Lightly Active,Omnivore,35.38,obese,loss_weight,2239.53,1739.5300000000002,223.95,167.96,74.65
+1612,54,Male,172,62,Sedentary,Omnivore,20.96,healthy weight,mainten_weight,1716.0,1716.0,128.7,171.6,57.2
+1613,54,Male,174,70,Moderately Active,Vegetarian,23.12,healthy weight,mainten_weight,2359.88,2359.88,176.99,235.99,78.66
+1614,52,Male,169,100,Very Active,Omnivore,35.01,obese,loss_weight,3107.16,2607.16,310.72,233.04,103.57
+1615,53,Female,187,66,Extremely Active,Vegetarian,18.87,healthy weight,mainten_weight,2665.22,2665.22,199.89,266.52,88.84
+1616,54,Female,161,69,Moderately Active,Omnivore,26.62,overweight,loss_weight,1961.14,1461.14,196.11,147.09,65.37
+1617,30,Male,157,52,Lightly Active,Omnivore,21.1,healthy weight,mainten_weight,1864.84,1864.84,139.86,186.48,62.16
+1618,45,Female,197,96,Lightly Active,Vegan,24.74,healthy weight,mainten_weight,2482.22,2482.22,186.17,248.22,82.74
+1619,56,Female,185,90,Very Active,Vegetarian,26.3,overweight,loss_weight,2786.31,2286.31,278.63,208.97,92.88
+1620,65,Female,183,52,Lightly Active,Omnivore,15.53,underweight,gain_muscle,1619.41,2119.41,141.7,182.18,35.99
+1621,25,Male,154,54,Moderately Active,Omnivore,22.77,healthy weight,mainten_weight,2142.88,2142.88,160.72,214.29,71.43
+1622,25,Male,180,63,Extremely Active,Omnivore,19.44,healthy weight,mainten_weight,3106.5,3106.5,232.99,310.65,103.55
+1623,59,Male,163,52,Moderately Active,Omnivore,19.57,healthy weight,mainten_weight,1935.56,1935.56,145.17,193.56,64.52
+1624,28,Male,166,91,Very Active,Vegan,33.02,obese,loss_weight,3126.56,2626.56,312.66,234.49,104.22
+1625,52,Female,172,90,Very Active,Vegan,30.42,obese,loss_weight,2680.65,2180.65,268.06,201.05,89.36
+1626,46,Male,181,87,Lightly Active,Omnivore,26.56,overweight,loss_weight,2442.34,1942.3400000000001,244.23,183.18,81.41
+1627,58,Female,171,78,Lightly Active,Omnivore,26.67,overweight,loss_weight,1921.91,1421.91,192.19,144.14,64.06
+1628,37,Male,184,76,Lightly Active,Omnivore,22.45,healthy weight,mainten_weight,2378.75,2378.75,178.41,237.88,79.29
+1629,35,Female,193,100,Extremely Active,Vegetarian,26.85,overweight,loss_weight,3553.47,3053.47,355.35,266.51,118.45
+1630,58,Male,167,56,Very Active,Vegan,20.08,healthy weight,mainten_weight,2274.84,2274.84,170.61,227.48,75.83
+1631,49,Female,175,71,Sedentary,Vegetarian,23.18,healthy weight,mainten_weight,1677.3,1677.3,125.8,167.73,55.91
+1632,62,Male,198,75,Sedentary,Vegan,19.13,healthy weight,mainten_weight,2019.0,2019.0,151.42,201.9,67.3
+1633,47,Female,166,97,Moderately Active,Vegan,35.2,obese,loss_weight,2497.83,1997.83,249.78,187.34,83.26
+1634,32,Male,158,66,Lightly Active,Omnivore,26.44,overweight,loss_weight,2052.19,1552.19,205.22,153.91,68.41
+1635,61,Female,169,68,Extremely Active,Omnivore,23.81,healthy weight,mainten_weight,2413.47,2413.47,181.01,241.35,80.45
+1636,44,Male,184,79,Sedentary,Vegan,23.33,healthy weight,mainten_weight,2070.0,2070.0,155.25,207.0,69.0
+1637,43,Female,160,83,Extremely Active,Vegan,32.42,obese,loss_weight,2762.6,2262.6,276.26,207.19,92.09
+1638,24,Male,178,83,Moderately Active,Omnivore,26.2,overweight,loss_weight,2832.62,2332.62,283.26,212.45,94.42
+1639,29,Male,166,99,Very Active,Omnivore,35.93,obese,loss_weight,3255.94,2755.94,325.59,244.2,108.53
+1640,45,Male,156,79,Lightly Active,Vegan,32.46,obese,loss_weight,2124.38,1624.38,212.44,159.33,70.81
+1641,39,Female,172,60,Extremely Active,Vegan,20.28,healthy weight,mainten_weight,2506.1,2506.1,187.96,250.61,83.54
+1642,52,Male,197,68,Sedentary,Omnivore,17.52,underweight,gain_muscle,1987.5,2487.5,173.91,223.59,44.17
+1643,21,Male,193,74,Extremely Active,Vegetarian,19.87,healthy weight,mainten_weight,3507.88,3507.88,263.09,350.79,116.93
+1644,22,Male,157,80,Extremely Active,Omnivore,32.46,obese,loss_weight,3184.88,2684.88,318.49,238.87,106.16
+1645,38,Male,185,79,Sedentary,Vegetarian,23.08,healthy weight,mainten_weight,2113.5,2113.5,158.51,211.35,70.45
+1646,45,Female,151,78,Lightly Active,Omnivore,34.21,obese,loss_weight,1839.41,1339.41,183.94,137.96,61.31
+1647,38,Female,157,93,Sedentary,Vegan,37.73,obese,loss_weight,1872.3,1372.3,187.23,140.42,62.41
+1648,48,Male,160,64,Lightly Active,Vegetarian,25.0,overweight,loss_weight,1931.88,1431.88,193.19,144.89,64.4
+1649,21,Female,188,94,Lightly Active,Omnivore,26.6,overweight,loss_weight,2542.38,2042.38,254.24,190.68,84.75
+1650,69,Female,194,77,Extremely Active,Vegan,20.46,healthy weight,mainten_weight,2805.35,2805.35,210.4,280.54,93.51
+1651,68,Male,157,82,Moderately Active,Omnivore,33.27,obese,loss_weight,2272.69,1772.69,227.27,170.45,75.76
+1652,30,Female,183,90,Extremely Active,Vegan,26.87,overweight,loss_weight,3292.22,2792.22,329.22,246.92,109.74
+1653,20,Male,163,70,Very Active,Omnivore,26.35,overweight,loss_weight,2800.97,2300.97,280.1,210.07,93.37
+1654,66,Female,164,90,Very Active,Omnivore,33.46,obese,loss_weight,2473.65,1973.65,247.37,185.52,82.45
+1655,28,Male,151,79,Very Active,Omnivore,34.65,obese,loss_weight,2757.84,2257.84,275.78,206.84,91.93
+1656,68,Female,187,50,Sedentary,Omnivore,14.3,underweight,gain_muscle,1401.3,1901.3,122.61,157.65,31.14
+1657,30,Female,154,97,Very Active,Vegan,40.9,severely obese,loss_weight,2797.09,2297.09,279.71,209.78,93.24
+1658,70,Male,176,52,Extremely Active,Omnivore,16.79,underweight,gain_muscle,2422.5,2922.5,211.97,272.53,53.83
+1659,20,Male,179,94,Moderately Active,Vegan,29.34,overweight,loss_weight,3043.81,2543.81,304.38,228.29,101.46
+1660,23,Male,187,83,Moderately Active,Vegetarian,23.74,healthy weight,mainten_weight,2927.56,2927.56,219.57,292.76,97.59
+1661,29,Female,173,88,Moderately Active,Omnivore,29.4,overweight,loss_weight,2565.64,2065.64,256.56,192.42,85.52
+1662,54,Male,159,70,Moderately Active,Omnivore,27.69,overweight,loss_weight,2214.56,1714.56,221.46,166.09,73.82
+1663,48,Male,170,76,Moderately Active,Vegan,26.3,overweight,loss_weight,2460.62,1960.62,246.06,184.55,82.02
+1664,68,Male,184,90,Extremely Active,Vegetarian,26.58,overweight,loss_weight,3258.5,2758.5,325.85,244.39,108.62
+1665,65,Female,192,88,Extremely Active,Omnivore,23.87,healthy weight,mainten_weight,3028.6,3028.6,227.14,302.86,100.95
+1666,32,Female,151,92,Sedentary,Omnivore,40.35,severely obese,loss_weight,1851.3,1351.3,185.13,138.85,61.71
+1667,46,Female,156,80,Extremely Active,Vegan,32.87,obese,loss_weight,2629.6,2129.6,262.96,197.22,87.65
+1668,70,Female,170,52,Moderately Active,Vegetarian,17.99,underweight,gain_muscle,1660.83,2160.83,145.32,186.84,36.91
+1669,50,Male,155,60,Moderately Active,Omnivore,24.97,healthy weight,mainten_weight,2051.81,2051.81,153.89,205.18,68.39
+1670,35,Female,152,88,Moderately Active,Omnivore,38.09,obese,loss_weight,2315.7,1815.6999999999998,231.57,173.68,77.19
+1671,41,Female,157,54,Sedentary,Vegetarian,21.91,healthy weight,mainten_weight,1386.3,1386.3,103.97,138.63,46.21
+1672,63,Female,166,56,Moderately Active,Vegan,20.32,healthy weight,mainten_weight,1738.33,1738.33,130.37,173.83,57.94
+1673,51,Male,178,53,Moderately Active,Vegan,16.73,underweight,gain_muscle,2158.38,2658.38,188.86,242.82,47.96
+1674,32,Female,160,58,Lightly Active,Vegetarian,22.66,healthy weight,mainten_weight,1731.12,1731.12,129.83,173.11,57.7
+1675,52,Male,153,65,Lightly Active,Vegetarian,27.77,overweight,loss_weight,1857.97,1357.97,185.8,139.35,61.93
+1676,40,Male,198,74,Sedentary,Vegan,18.88,healthy weight,mainten_weight,2139.0,2139.0,160.42,213.9,71.3
+1677,21,Male,183,59,Moderately Active,Vegan,17.62,underweight,gain_muscle,2532.31,3032.31,221.58,284.88,56.27
+1678,19,Female,196,52,Very Active,Omnivore,13.54,underweight,gain_muscle,2568.53,3068.53,224.75,288.96,57.08
+1679,45,Male,157,53,Moderately Active,Vegetarian,21.5,healthy weight,mainten_weight,2001.44,2001.44,150.11,200.14,66.71
+1680,21,Male,175,96,Very Active,Vegan,31.35,obese,loss_weight,3370.22,2870.22,337.02,252.77,112.34
+1681,59,Male,179,84,Very Active,Vegetarian,26.22,overweight,loss_weight,2878.59,2378.59,287.86,215.89,95.95
+1682,28,Male,156,69,Lightly Active,Vegetarian,28.35,overweight,loss_weight,2103.75,1603.75,210.38,157.78,70.12
+1683,50,Female,186,92,Very Active,Omnivore,26.59,overweight,loss_weight,2883.34,2383.34,288.33,216.25,96.11
+1684,22,Female,167,91,Extremely Active,Omnivore,32.63,obese,loss_weight,3197.22,2697.22,319.72,239.79,106.57
+1685,30,Female,193,96,Sedentary,Vegan,25.77,overweight,loss_weight,2226.3,1726.3000000000002,222.63,166.97,74.21
+1686,32,Female,169,73,Sedentary,Vegan,25.56,overweight,loss_weight,1758.3,1258.3,175.83,131.87,58.61
+1687,67,Female,193,52,Lightly Active,Omnivore,13.96,underweight,gain_muscle,1691.59,2191.59,148.01,190.3,37.59
+1688,51,Female,195,96,Extremely Active,Vegetarian,25.25,overweight,loss_weight,3349.22,2849.22,334.92,251.19,111.64
+1689,43,Male,175,82,Lightly Active,Omnivore,26.78,overweight,loss_weight,2342.66,1842.6599999999999,234.27,175.7,78.09
+1690,67,Male,179,69,Very Active,Vegetarian,21.53,healthy weight,mainten_weight,2550.84,2550.84,191.31,255.08,85.03
+1691,25,Male,170,88,Sedentary,Vegetarian,30.45,obese,loss_weight,2187.0,1687.0,218.7,164.03,72.9
+1692,21,Female,180,99,Extremely Active,Omnivore,30.56,obese,loss_weight,3513.1,3013.1,351.31,263.48,117.1
+1693,50,Male,176,62,Sedentary,Vegan,20.02,healthy weight,mainten_weight,1770.0,1770.0,132.75,177.0,59.0
+1694,53,Female,182,76,Sedentary,Vegan,22.94,healthy weight,mainten_weight,1765.8,1765.8,132.44,176.58,58.86
+1695,38,Male,150,76,Very Active,Vegan,33.78,obese,loss_weight,2609.06,2109.06,260.91,195.68,86.97
+1696,57,Male,165,73,Very Active,Vegan,26.81,overweight,loss_weight,2555.16,2055.16,255.52,191.64,85.17
+1697,40,Male,166,91,Extremely Active,Vegan,33.02,obese,loss_weight,3329.75,2829.75,332.98,249.73,110.99
+1698,54,Female,198,75,Sedentary,Vegetarian,19.13,healthy weight,mainten_weight,1867.8,1867.8,140.08,186.78,62.26

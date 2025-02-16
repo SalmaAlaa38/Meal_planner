@@ -1,0 +1,1699 @@
+Ages,Gender,Height,Weight,Activity Level,Dietary Preference
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+48,Male,175,95,Sedentary,Vegan
+55,Female,160,70,Very Active,Omnivore
+62,Male,170,85,Sedentary,Vegetarian
+68,Female,155,60,Lightly Active,Vegan
+28,Male,190,100,Moderately Active,Omnivore
+35,Female,170,75,Very Active,Vegetarian
+42,Male,185,110,Moderately Active,Vegan
+58,Female,168,78,Sedentary,Vegan
+25,Male,180,80,Lightly Active,Omnivore
+32,Female,165,65,Moderately Active,Vegan
+48,Male,175,95,Sedentary,Vegetarian
+55,Female,160,70,Moderately Active,Omnivore
+62,Male,170,85,Very Active,Vegan
+28,Female,172,60,Lightly Active,Vegan
+35,Male,185,90,Very Active,Omnivore
+40,Female,168,75,Moderately Active,Vegetarian
+22,Male,190,100,Lightly Active,Omnivore
+58,Female,155,68,Sedentary,Vegan
+24,Female,165,55,Lightly Active,Omnivore
+38,Male,180,80,Moderately Active,Omnivore
+55,Female,160,70,Sedentary,Vegetarian
+62,Male,175,95,Moderately Active,Omnivore
+28,Female,170,65,Very Active,Vegan
+45,Male,185,100,Lightly Active,Omnivore
+68,Female,155,60,Sedentary,Vegan
+32,Male,190,90,Very Active,Omnivore
+58,Male,170,85,Moderately Active,Vegetarian
+22,Female,160,50,Lightly Active,Vegan
+25,Female,165,60,Lightly Active,Omnivore
+38,Male,180,85,Moderately Active,Vegetarian
+55,Female,160,65,Sedentary,Vegan
+42,Male,190,95,Very Active,Omnivore
+62,Female,155,58,Sedentary,Vegan
+28,Male,175,70,Moderately Active,Omnivore
+31,Female,170,75,Lightly Active,Vegetarian
+58,Male,185,90,Moderately Active,Omnivore
+22,Female,168,55,Very Active,Vegan
+45,Male,182,80,Lightly Active,Omnivore
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Vegan
+68,Female,160,75,Lightly Active,Omnivore
+28,Male,185,95,Very Active,Omnivore
+38,Female,170,70,Moderately Active,Vegan
+62,Male,170,85,Sedentary,Omnivore
+45,Female,168,60,Very Active,Vegetarian
+22,Female,172,55,Moderately Active,Vegan
+58,Male,178,98,Sedentary,Omnivore
+25,Male,180,85,Lightly Active,Omnivore
+32,Female,165,60,Moderately Active,Vegetarian
+48,Male,175,95,Very Active,Omnivore
+55,Female,160,70,Sedentary,Vegan
+28,Male,185,90,Moderately Active,Vegan
+62,Female,155,65,Lightly Active,Omnivore
+35,Female,170,75,Very Active,Vegetarian
+22,Male,190,80,Moderately Active,Vegan
+58,Male,178,100,Sedentary,Omnivore
+40,Female,168,72,Lightly Active,Vegetarian
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,60,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+28,Female,170,65,Very Active,Vegan
+62,Female,160,70,Lightly Active,Omnivore
+21,Male,190,95,Moderately Active,Omnivore
+35,Female,168,55,Sedentary,Vegetarian
+68,Female,155,65,Lightly Active,Vegetarian
+25,Female,165,60,Lightly Active,Omnivore
+32,Male,180,85,Moderately Active,Omnivore
+48,Female,170,75,Sedentary,Vegetarian
+55,Male,175,90,Moderately Active,Vegan
+62,Female,160,65,Lightly Active,Vegan
+28,Male,190,100,Very Active,Omnivore
+35,Female,168,55,Sedentary,Vegetarian
+42,Male,185,95,Moderately Active,Vegan
+21,Female,172,58,Lightly Active,Omnivore
+58,Male,178,80,Sedentary,Vegetarian
+25,Male,180,80,Moderately Active,Omnivore
+38,Female,165,65,Sedentary,Vegetarian
+62,Male,175,90,Lightly Active,Omnivore
+45,Female,170,75,Very Active,Vegan
+58,Male,178,85,Sedentary,Omnivore
+22,Female,160,55,Moderately Active,Vegetarian
+68,Male,170,70,Lightly Active,Omnivore
+30,Female,168,60,Very Active,Vegan
+55,Female,165,78,Sedentary,Vegetarian
+28,Male,185,100,Moderately Active,Omnivore
+25,Female,165,60,Lightly Active,Omnivore
+32,Male,180,85,Moderately Active,Omnivore
+55,Female,160,70,Sedentary,Vegetarian
+40,Male,190,95,Very Active,Vegan
+62,Male,175,80,Moderately Active,Omnivore
+28,Female,170,55,Sedentary,Vegan
+38,Female,168,65,Lightly Active,Vegetarian
+58,Male,178,85,Moderately Active,Vegan
+22,Male,185,90,Very Active,Omnivore
+45,Female,172,75,Sedentary,Vegan
+28,Female,165,55,Lightly Active,Omnivore
+55,Male,180,90,Moderately Active,Vegetarian
+32,Female,170,60,Very Active,Vegan
+22,Male,190,85,Sedentary,Omnivore
+62,Female,160,70,Moderately Active,Vegan
+25,Male,185,95,Lightly Active,Omnivore
+40,Female,175,75,Very Active,Vegetarian
+38,Male,178,80,Sedentary,Vegan
+20,Female,168,50,Lightly Active,Omnivore
+58,Male,175,85,Moderately Active,Vegetarian
+25,Male,175,75,Moderately Active,Omnivore
+38,Female,165,60,Lightly Active,Vegetarian
+55,Male,180,90,Sedentary,Omnivore
+62,Female,160,70,Sedentary,Vegan
+28,Female,170,65,Very Active,Omnivore
+32,Male,185,85,Moderately Active,Vegan
+68,Male,170,80,Lightly Active,Omnivore
+45,Female,165,65,Very Active,Vegetarian
+72,Female,155,55,Sedentary,Omnivore
+21,Male,190,95,Moderately Active,Omnivore
+25,Male,180,80,Moderately Active,Omnivore
+30,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+22,Female,170,55,Very Active,Vegan
+60,Female,155,60,Moderately Active,Vegetarian
+28,Male,190,100,Very Active,Omnivore
+35,Female,160,50,Lightly Active,Vegan
+48,Male,185,95,Moderately Active,Omnivore
+65,Male,170,75,Sedentary,Omnivore
+19,Female,168,58,Very Active,Vegan
+25,Male,180,85,Moderately Active,Omnivore
+38,Female,165,68,Lightly Active,Vegetarian
+55,Male,175,95,Sedentary,Vegan
+22,Female,160,55,Very Active,Omnivore
+62,Female,168,72,Sedentary,Vegan
+30,Male,190,100,Moderately Active,Omnivore
+28,Female,170,65,Lightly Active,Vegetarian
+40,Male,185,90,Very Active,Omnivore
+21,Female,168,58,Lightly Active,Vegan
+58,Male,178,88,Sedentary,Omnivore
+25,Female,165,58,Moderately Active,Omnivore
+32,Male,180,85,Lightly Active,Omnivore
+55,Female,160,70,Sedentary,Vegetarian
+40,Male,190,95,Moderately Active,Vegan
+68,Female,155,62,Sedentary,Vegan
+28,Male,175,78,Very Active,Omnivore
+35,Female,170,65,Lightly Active,Vegetarian
+52,Male,185,100,Very Active,Vegan
+22,Female,168,55,Moderately Active,Vegan
+47,Male,178,80,Sedentary,Omnivore
+28,Female,165,60,Lightly Active,Omnivore
+35,Male,180,80,Moderately Active,Vegetarian
+55,Female,160,75,Sedentary,Vegan
+62,Male,175,90,Moderately Active,Omnivore
+22,Female,170,55,Very Active,Omnivore
+40,Male,185,100,Lightly Active,Vegetarian
+68,Female,155,65,Sedentary,Omnivore
+70,Male,170,85,Sedentary,Vegan
+33,Female,168,70,Very Active,Omnivore
+25,Male,190,95,Moderately Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+55,Female,165,70,Sedentary,Vegetarian
+32,Male,190,95,Very Active,Omnivore
+68,Female,170,65,Lightly Active,Vegan
+42,Male,185,100,Very Active,Omnivore
+58,Female,160,55,Sedentary,Vegan
+35,Male,178,85,Lightly Active,Vegetarian
+72,Male,175,75,Sedentary,Vegan
+48,Female,168,68,Moderately Active,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,60,Sedentary,Vegetarian
+55,Female,160,75,Lightly Active,Vegan
+40,Male,185,95,Very Active,Omnivore
+28,Female,170,70,Moderately Active,Vegetarian
+62,Male,175,80,Lightly Active,Omnivore
+35,Female,168,65,Moderately Active,Vegan
+22,Male,190,90,Very Active,Omnivore
+48,Female,172,78,Sedentary,Vegetarian
+21,Male,183,82,Moderately Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+58,Male,175,95,Sedentary,Omnivore
+28,Female,170,70,Very Active,Vegan
+62,Female,160,75,Sedentary,Vegan
+45,Male,185,105,Moderately Active,Omnivore
+21,Female,168,55,Lightly Active,Vegetarian
+68,Male,170,85,Sedentary,Omnivore
+35,Female,172,68,Very Active,Vegan
+55,Female,158,60,Sedentary,Vegan
+25,Female,165,55,Lightly Active,Omnivore
+58,Male,180,90,Moderately Active,Vegetarian
+32,Female,170,65,Sedentary,Vegan
+62,Male,175,85,Very Active,Omnivore
+28,Female,160,50,Lightly Active,Vegan
+45,Male,185,100,Moderately Active,Omnivore
+68,Female,162,60,Sedentary,Vegan
+35,Male,190,80,Very Active,Omnivore
+21,Female,172,58,Lightly Active,Vegetarian
+55,Male,178,82,Moderately Active,Vegan
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,60,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+68,Female,160,70,Sedentary,Vegan
+28,Male,190,100,Very Active,Omnivore
+42,Female,170,75,Moderately Active,Vegan
+38,Male,185,95,Lightly Active,Omnivore
+52,Female,165,65,Sedentary,Vegetarian
+22,Female,170,55,Very Active,Vegan
+48,Male,175,80,Moderately Active,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+38,Female,165,68,Sedentary,Vegetarian
+55,Male,175,90,Lightly Active,Omnivore
+62,Female,160,75,Sedentary,Vegan
+28,Male,190,100,Very Active,Omnivore
+32,Female,170,65,Moderately Active,Vegetarian
+68,Male,170,80,Lightly Active,Omnivore
+21,Female,165,55,Very Active,Vegan
+45,Male,185,95,Moderately Active,Omnivore
+70,Female,155,60,Sedentary,Vegan
+25,Female,165,58,Moderately Active,Omnivore
+32,Male,180,90,Lightly Active,Vegetarian
+55,Female,160,65,Sedentary,Vegan
+48,Male,185,105,Very Active,Omnivore
+38,Male,175,75,Moderately Active,Vegetarian
+21,Female,170,60,Lightly Active,Omnivore
+58,Male,178,80,Sedentary,Omnivore
+70,Female,162,68,Sedentary,Vegan
+42,Male,190,100,Very Active,Vegetarian
+25,Male,180,85,Moderately Active,Omnivore
+62,Female,165,70,Lightly Active,Vegan
+38,Male,190,95,Very Active,Omnivore
+45,Female,170,65,Sedentary,Vegetarian
+22,Female,160,55,Moderately Active,Vegan
+58,Male,175,80,Moderately Active,Omnivore
+30,Male,185,90,Very Active,Omnivore
+28,Female,170,60,Sedentary,Vegetarian
+68,Female,155,60,Lightly Active,Vegan
+42,Male,180,80,Very Active,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,60,Lightly Active,Vegetarian
+58,Male,175,95,Sedentary,Omnivore
+28,Female,170,70,Very Active,Vegan
+62,Female,160,75,Sedentary,Vegan
+40,Male,185,90,Moderately Active,Omnivore
+35,Female,168,55,Lightly Active,Omnivore
+22,Male,190,100,Very Active,Vegetarian
+65,Male,170,80,Sedentary,Omnivore
+48,Female,163,65,Lightly Active,Vegan
+25,Male,185,85,Moderately Active,Omnivore
+38,Female,165,65,Lightly Active,Vegetarian
+62,Female,160,70,Sedentary,Vegan
+45,Male,190,95,Very Active,Omnivore
+28,Female,170,58,Moderately Active,Omnivore
+55,Male,175,80,Sedentary,Omnivore
+22,Female,168,62,Lightly Active,Vegan
+30,Male,180,78,Moderately Active,Omnivore
+68,Male,170,75,Sedentary,Omnivore
+35,Female,175,72,Very Active,Vegetarian
+25,Female,165,55,Lightly Active,Omnivore
+32,Male,180,85,Moderately Active,Omnivore
+55,Female,160,68,Sedentary,Vegetarian
+28,Male,190,95,Very Active,Vegan
+62,Male,175,80,Lightly Active,Omnivore
+21,Female,170,60,Moderately Active,Vegan
+48,Female,168,75,Sedentary,Vegetarian
+35,Male,185,100,Very Active,Omnivore
+40,Male,178,88,Moderately Active,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,68,Lightly Active,Vegetarian
+55,Male,175,95,Sedentary,Omnivore
+28,Female,170,72,Very Active,Vegan
+62,Female,160,65,Lightly Active,Vegan
+40,Male,185,90,Moderately Active,Omnivore
+38,Female,172,78,Sedentary,Omnivore
+22,Male,190,105,Very Active,Vegan
+19,Female,168,55,Moderately Active,Vegetarian
+45,Male,178,82,Lightly Active,Omnivore
+25,Female,165,58,Lightly Active,Omnivore
+32,Male,180,85,Moderately Active,Omnivore
+58,Female,160,70,Sedentary,Vegetarian
+65,Male,175,90,Lightly Active,Vegan
+42,Female,170,65,Moderately Active,Vegan
+38,Male,185,95,Very Active,Omnivore
+28,Female,162,55,Sedentary,Vegetarian
+62,Male,170,80,Moderately Active,Vegan
+21,Female,158,48,Lightly Active,Omnivore
+55,Male,178,88,Sedentary,Vegetarian
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Sedentary,Vegetarian
+55,Female,160,75,Lightly Active,Vegan
+40,Male,190,95,Very Active,Omnivore
+62,Male,175,85,Sedentary,Omnivore
+28,Female,170,55,Moderately Active,Vegetarian
+35,Male,185,110,Very Active,Omnivore
+22,Female,160,50,Lightly Active,Vegan
+48,Male,180,90,Moderately Active,Omnivore
+58,Female,155,60,Sedentary,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,95,Sedentary,Omnivore
+28,Female,170,72,Very Active,Vegan
+62,Female,160,60,Sedentary,Vegan
+38,Male,190,105,Moderately Active,Omnivore
+22,Female,168,58,Lightly Active,Vegetarian
+40,Male,178,85,Very Active,Vegan
+27,Female,172,68,Moderately Active,Omnivore
+58,Male,182,100,Lightly Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Sedentary,Vegetarian
+58,Female,160,70,Lightly Active,Vegan
+40,Male,190,95,Very Active,Omnivore
+62,Male,175,85,Lightly Active,Vegetarian
+38,Female,170,75,Moderately Active,Vegan
+28,Male,185,90,Very Active,Omnivore
+55,Female,155,60,Sedentary,Vegan
+70,Male,170,75,Lightly Active,Omnivore
+22,Female,168,55,Moderately Active,Vegetarian
+25,Female,165,55,Moderately Active,Omnivore
+32,Male,180,85,Lightly Active,Omnivore
+58,Female,160,68,Sedentary,Vegetarian
+40,Male,190,95,Very Active,Omnivore
+62,Female,155,50,Sedentary,Vegan
+28,Male,175,70,Moderately Active,Omnivore
+65,Male,170,75,Lightly Active,Omnivore
+35,Female,168,60,Very Active,Vegan
+48,Male,185,100,Moderately Active,Omnivore
+22,Female,170,58,Lightly Active,Vegetarian
+25,Female,165,55,Moderately Active,Omnivore
+38,Male,180,85,Lightly Active,Omnivore
+55,Female,160,65,Sedentary,Vegetarian
+62,Male,175,90,Moderately Active,Vegan
+28,Female,170,60,Very Active,Vegan
+42,Male,185,95,Lightly Active,Omnivore
+58,Female,155,50,Sedentary,Vegetarian
+33,Male,190,100,Moderately Active,Vegan
+21,Female,168,58,Very Active,Omnivore
+68,Male,170,75,Lightly Active,Omnivore
+25,Male,180,80,Moderately Active,Omnivore
+38,Female,165,65,Lightly Active,Vegetarian
+62,Male,175,90,Sedentary,Omnivore
+45,Female,170,75,Very Active,Vegan
+58,Male,185,105,Moderately Active,Omnivore
+22,Female,160,50,Lightly Active,Vegan
+70,Female,155,55,Sedentary,Vegetarian
+30,Male,190,95,Very Active,Omnivore
+42,Female,168,60,Moderately Active,Vegan
+55,Male,178,85,Sedentary,Omnivore
+25,Female,165,58,Moderately Active,Omnivore
+38,Male,180,85,Lightly Active,Vegetarian
+55,Female,160,70,Sedentary,Vegan
+62,Male,175,95,Moderately Active,Omnivore
+28,Female,170,65,Very Active,Vegetarian
+32,Male,185,90,Lightly Active,Omnivore
+58,Female,155,62,Sedentary,Vegan
+40,Male,190,110,Very Active,Omnivore
+21,Female,168,55,Lightly Active,Vegan
+70,Male,170,75,Sedentary,Omnivore
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+58,Male,175,90,Sedentary,Omnivore
+62,Female,160,70,Moderately Active,Vegan
+28,Male,190,100,Very Active,Omnivore
+45,Female,170,75,Lightly Active,Vegetarian
+30,Male,185,95,Moderately Active,Vegan
+65,Female,155,60,Sedentary,Omnivore
+22,Female,168,55,Very Active,Vegetarian
+50,Male,170,85,Lightly Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,60,Sedentary,Vegetarian
+55,Male,175,90,Lightly Active,Omnivore
+28,Female,170,70,Very Active,Vegan
+40,Male,190,110,Moderately Active,Omnivore
+62,Female,160,55,Sedentary,Vegan
+22,Male,185,95,Very Active,Omnivore
+38,Female,168,65,Lightly Active,Vegan
+27,Female,172,75,Moderately Active,Vegetarian
+45,Male,180,100,Very Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+28,Female,170,70,Very Active,Vegan
+48,Female,160,60,Sedentary,Vegan
+62,Male,170,85,Lightly Active,Omnivore
+22,Female,168,55,Moderately Active,Vegetarian
+38,Male,185,100,Very Active,Omnivore
+21,Female,158,50,Moderately Active,Vegan
+58,Female,163,75,Sedentary,Vegetarian
+25,Female,165,58,Lightly Active,Omnivore
+38,Male,180,85,Moderately Active,Omnivore
+62,Female,160,65,Sedentary,Vegetarian
+28,Male,185,90,Very Active,Vegan
+45,Female,170,70,Lightly Active,Vegan
+58,Male,175,80,Sedentary,Omnivore
+32,Female,168,62,Moderately Active,Vegetarian
+70,Male,170,75,Lightly Active,Vegan
+19,Female,163,55,Very Active,Omnivore
+55,Male,183,95,Sedentary,Vegetarian
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,95,Sedentary,Vegan
+68,Female,160,70,Lightly Active,Omnivore
+28,Male,185,90,Very Active,Omnivore
+38,Female,170,75,Moderately Active,Vegan
+58,Male,170,85,Sedentary,Omnivore
+42,Female,168,60,Very Active,Vegetarian
+21,Male,190,100,Moderately Active,Vegan
+62,Female,155,55,Sedentary,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Sedentary,Vegetarian
+58,Male,175,95,Lightly Active,Vegan
+40,Female,170,72,Moderately Active,Omnivore
+28,Male,185,90,Very Active,Vegan
+62,Female,160,60,Sedentary,Omnivore
+35,Male,190,100,Very Active,Vegetarian
+22,Female,168,55,Lightly Active,Vegan
+55,Male,178,85,Sedentary,Omnivore
+48,Female,172,78,Moderately Active,Vegan
+25,Male,180,85,Moderately Active,Omnivore
+38,Female,165,68,Lightly Active,Vegetarian
+55,Male,175,95,Sedentary,Vegan
+62,Female,160,70,Lightly Active,Vegan
+28,Male,190,90,Very Active,Omnivore
+40,Female,170,75,Moderately Active,Vegetarian
+58,Male,170,80,Sedentary,Vegan
+65,Female,155,65,Lightly Active,Omnivore
+32,Male,185,100,Very Active,Omnivore
+45,Female,168,72,Moderately Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Sedentary,Vegetarian
+48,Male,175,95,Very Active,Vegan
+55,Female,160,70,Lightly Active,Omnivore
+28,Male,190,100,Moderately Active,Omnivore
+62,Female,155,55,Sedentary,Vegan
+35,Male,170,75,Very Active,Vegetarian
+22,Female,168,58,Lightly Active,Omnivore
+58,Male,178,85,Moderately Active,Vegan
+40,Female,172,78,Sedentary,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,60,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+28,Female,170,70,Very Active,Vegan
+62,Female,160,65,Lightly Active,Vegan
+38,Male,185,95,Moderately Active,Omnivore
+21,Female,168,55,Very Active,Vegan
+40,Male,190,110,Sedentary,Omnivore
+23,Female,172,68,Moderately Active,Vegetarian
+48,Male,178,80,Lightly Active,Vegan
+25,Male,180,80,Moderately Active,Omnivore
+32,Female,165,65,Lightly Active,Vegetarian
+48,Male,175,95,Very Active,Omnivore
+55,Female,160,70,Sedentary,Vegan
+28,Male,190,90,Moderately Active,Omnivore
+62,Male,170,85,Lightly Active,Vegan
+35,Female,170,75,Very Active,Vegetarian
+22,Female,160,55,Sedentary,Vegan
+40,Male,185,100,Moderately Active,Omnivore
+29,Female,175,85,Very Active,Vegetarian
+25,Male,180,80,Moderately Active,Omnivore
+38,Female,165,65,Lightly Active,Vegetarian
+55,Male,175,90,Sedentary,Omnivore
+62,Female,160,70,Moderately Active,Vegan
+28,Male,190,100,Very Active,Omnivore
+42,Female,170,75,Lightly Active,Vegan
+68,Male,170,85,Sedentary,Omnivore
+22,Female,165,55,Very Active,Vegan
+35,Male,185,95,Moderately Active,Omnivore
+58,Female,155,60,Sedentary,Vegan
+25,Female,165,55,Lightly Active,Omnivore
+32,Male,180,80,Moderately Active,Omnivore
+58,Female,160,70,Sedentary,Vegetarian
+38,Male,190,95,Very Active,Omnivore
+22,Female,170,60,Lightly Active,Vegan
+65,Male,175,85,Sedentary,Omnivore
+40,Female,168,65,Moderately Active,Vegetarian
+28,Male,185,90,Very Active,Vegan
+52,Female,158,62,Sedentary,Vegan
+35,Male,178,75,Moderately Active,Omnivore
+25,Male,180,80,Moderately Active,Omnivore
+35,Female,165,65,Lightly Active,Vegetarian
+55,Female,160,70,Sedentary,Vegan
+40,Male,190,95,Very Active,Omnivore
+28,Female,170,55,Lightly Active,Vegan
+62,Male,175,85,Moderately Active,Omnivore
+32,Female,168,60,Very Active,Vegetarian
+21,Male,185,88,Sedentary,Vegan
+48,Male,178,90,Moderately Active,Omnivore
+38,Female,172,75,Lightly Active,Vegan
+25,Male,180,85,Moderately Active,Omnivore
+38,Female,165,62,Lightly Active,Vegan
+55,Female,160,70,Sedentary,Vegetarian
+28,Male,190,95,Very Active,Omnivore
+62,Male,175,80,Lightly Active,Omnivore
+32,Female,170,68,Moderately Active,Vegan
+21,Female,168,55,Sedentary,Vegan
+40,Male,185,90,Very Active,Omnivore
+27,Female,172,75,Moderately Active,Vegetarian
+19,Male,183,78,Lightly Active,Omnivore
+25,Male,180,85,Moderately Active,Omnivore
+32,Female,165,60,Lightly Active,Vegan
+55,Male,175,90,Sedentary,Omnivore
+68,Female,160,70,Sedentary,Vegetarian
+47,Male,168,115,Sedentary,Omnivore
+77,Male,161,106,Sedentary,Vegan
+51,Female,162,72,Moderately Active,Vegan
+50,Female,188,61,Moderately Active,Vegetarian
+77,Male,185,101,Moderately Active,Vegetarian
+53,Male,196,62,Lightly Active,Vegetarian
+79,Female,156,96,Sedentary,Vegan
+65,Female,169,59,Sedentary,Vegetarian
+25,Male,183,53,Sedentary,Vegetarian
+39,Male,153,58,Moderately Active,Omnivore
+53,Female,194,60,Moderately Active,Vegan
+42,Female,198,75,Moderately Active,Vegetarian
+74,Male,184,82,Moderately Active,Vegan
+72,Male,162,93,Sedentary,Vegan
+18,Female,192,112,Moderately Active,Vegan
+51,Male,199,62,Moderately Active,Pescatarian
+70,Female,164,61,Very Active,Pescatarian
+53,Male,150,79,Sedentary,Pescatarian
+59,Female,180,97,Moderately Active,Pescatarian
+46,Male,170,76,Sedentary,Vegan
+34,Female,177,54,Sedentary,Pescatarian
+44,Male,178,78,Sedentary,Pescatarian
+52,Male,169,101,Lightly Active,Vegan
+56,Female,169,57,Very Active,Vegan
+70,Male,166,54,Sedentary,Pescatarian
+72,Female,179,58,Moderately Active,Pescatarian
+57,Male,163,111,Very Active,Vegan
+44,Female,190,107,Moderately Active,Vegetarian
+70,Female,150,100,Moderately Active,Pescatarian
+38,Male,197,50,Sedentary,Pescatarian
+51,Female,152,92,Sedentary,Vegetarian
+21,Female,183,86,Very Active,Pescatarian
+52,Male,173,71,Moderately Active,Vegan
+40,Female,178,88,Sedentary,Pescatarian
+61,Male,199,104,Very Active,Vegan
+36,Male,171,81,Lightly Active,Vegan
+70,Female,164,79,Very Active,Omnivore
+20,Male,196,80,Lightly Active,Pescatarian
+36,Female,152,64,Lightly Active,Vegetarian
+40,Male,187,81,Very Active,Pescatarian
+61,Female,167,96,Moderately Active,Omnivore
+77,Male,184,74,Very Active,Omnivore
+63,Female,177,113,Very Active,Vegan
+37,Male,154,78,Very Active,Omnivore
+41,Male,191,97,Moderately Active,Omnivore
+69,Female,180,112,Very Active,Omnivore
+56,Female,177,56,Sedentary,Omnivore
+74,Female,187,82,Moderately Active,Vegan
+25,Male,188,117,Very Active,Pescatarian
+44,Male,171,104,Moderately Active,Vegan
+69,Female,165,110,Lightly Active,Vegetarian
+26,Female,166,68,Moderately Active,Vegan
+26,Male,192,82,Lightly Active,Omnivore
+46,Female,188,50,Sedentary,Omnivore
+61,Male,192,73,Moderately Active,Pescatarian
+31,Male,169,93,Very Active,Vegan
+78,Female,169,96,Lightly Active,Pescatarian
+21,Female,184,96,Sedentary,Omnivore
+58,Male,154,110,Very Active,Pescatarian
+30,Female,166,92,Lightly Active,Vegan
+53,Male,187,119,Moderately Active,Vegan
+62,Male,170,117,Very Active,Vegan
+24,Female,163,105,Very Active,Omnivore
+58,Female,171,87,Lightly Active,Vegetarian
+67,Female,172,115,Lightly Active,Omnivore
+48,Male,154,52,Moderately Active,Vegetarian
+29,Female,192,100,Moderately Active,Vegan
+75,Male,189,88,Sedentary,Vegetarian
+26,Male,185,93,Lightly Active,Pescatarian
+60,Female,191,95,Sedentary,Vegan
+36,Female,192,107,Very Active,Pescatarian
+69,Female,183,71,Moderately Active,Pescatarian
+66,Male,164,100,Sedentary,Vegetarian
+41,Male,167,58,Moderately Active,Pescatarian
+53,Female,189,111,Sedentary,Pescatarian
+45,Female,176,110,Lightly Active,Pescatarian
+24,Female,187,97,Sedentary,Vegetarian
+32,Male,157,70,Very Active,Vegan
+46,Female,159,116,Sedentary,Omnivore
+52,Female,179,98,Moderately Active,Vegetarian
+73,Male,191,98,Sedentary,Vegetarian
+31,Male,158,89,Very Active,Vegan
+47,Female,164,77,Moderately Active,Pescatarian
+42,Female,162,103,Moderately Active,Vegan
+53,Female,161,108,Lightly Active,Omnivore
+31,Female,176,91,Very Active,Omnivore
+55,Female,198,75,Sedentary,Vegan
+47,Male,170,95,Moderately Active,Vegetarian
+45,Female,155,73,Lightly Active,Vegan
+38,Female,160,106,Sedentary,Vegan
+24,Female,188,77,Very Active,Vegan
+79,Male,158,102,Very Active,Pescatarian
+74,Female,194,110,Very Active,Vegan
+20,Male,185,95,Very Active,Pescatarian
+41,Male,193,61,Lightly Active,Vegetarian
+37,Female,170,98,Sedentary,Pescatarian
+57,Male,198,87,Moderately Active,Vegetarian
+52,Female,187,104,Lightly Active,Omnivore
+31,Female,186,113,Lightly Active,Omnivore
+33,Female,175,95,Very Active,Omnivore
+30,Female,163,78,Moderately Active,Vegetarian
+43,Male,188,74,Moderately Active,Pescatarian
+66,Female,190,60,Sedentary,Vegetarian
+19,Male,190,62,Lightly Active,Vegan
+57,Male,154,97,Very Active,Pescatarian
+49,Male,157,112,Moderately Active,Pescatarian
+32,Female,158,57,Sedentary,Pescatarian
+33,Male,172,101,Lightly Active,Pescatarian
+73,Male,186,63,Very Active,Vegan
+32,Male,170,107,Very Active,Omnivore
+66,Female,155,63,Sedentary,Pescatarian
+66,Male,162,83,Very Active,Vegan
+29,Male,180,58,Lightly Active,Vegan
+56,Female,183,71,Lightly Active,Omnivore
+23,Male,199,87,Very Active,Pescatarian
+49,Male,181,90,Lightly Active,Vegetarian
+59,Male,163,111,Lightly Active,Pescatarian
+21,Male,172,98,Sedentary,Vegetarian
+41,Female,161,86,Moderately Active,Vegan
+29,Female,169,77,Very Active,Vegetarian
+65,Male,187,75,Moderately Active,Pescatarian
+51,Female,186,71,Lightly Active,Vegetarian
+64,Male,197,114,Lightly Active,Vegan
+47,Male,198,96,Lightly Active,Vegan
+71,Female,199,119,Lightly Active,Pescatarian
+18,Female,197,96,Moderately Active,Pescatarian
+31,Male,187,70,Sedentary,Vegan
+68,Male,169,95,Lightly Active,Omnivore
+50,Female,198,71,Sedentary,Vegan
+47,Female,179,60,Lightly Active,Pescatarian
+71,Male,191,68,Lightly Active,Pescatarian
+29,Female,181,82,Sedentary,Omnivore
+53,Female,170,84,Sedentary,Pescatarian
+65,Male,192,84,Moderately Active,Vegan
+39,Female,175,91,Sedentary,Pescatarian
+33,Male,156,110,Sedentary,Pescatarian
+25,Male,192,90,Moderately Active,Omnivore
+46,Male,174,118,Moderately Active,Pescatarian
+72,Female,151,92,Moderately Active,Vegan
+30,Male,164,101,Sedentary,Vegan
+51,Male,178,63,Sedentary,Vegetarian
+34,Male,175,55,Moderately Active,Vegetarian
+56,Female,197,93,Sedentary,Vegan
+43,Male,179,94,Moderately Active,Vegetarian
+41,Female,176,75,Sedentary,Omnivore
+20,Female,192,57,Moderately Active,Pescatarian
+57,Female,180,72,Sedentary,Vegan
+54,Male,171,57,Lightly Active,Vegan
+36,Male,196,102,Lightly Active,Omnivore
+69,Female,197,112,Moderately Active,Omnivore
+34,Female,176,116,Lightly Active,Vegetarian
+24,Female,183,118,Moderately Active,Omnivore
+32,Male,152,88,Sedentary,Vegan
+31,Female,199,93,Moderately Active,Omnivore
+77,Male,197,75,Moderately Active,Vegetarian
+29,Male,168,72,Lightly Active,Omnivore
+61,Male,157,93,Moderately Active,Pescatarian
+34,Female,186,89,Very Active,Vegetarian
+18,Female,190,119,Lightly Active,Vegan
+58,Female,182,79,Sedentary,Vegetarian
+28,Male,199,98,Sedentary,Vegan
+19,Male,198,86,Moderately Active,Vegetarian
+53,Female,182,77,Very Active,Vegan
+77,Female,165,90,Lightly Active,Vegan
+75,Male,184,87,Moderately Active,Omnivore
+37,Female,164,97,Very Active,Pescatarian
+52,Female,152,67,Very Active,Pescatarian
+37,Male,175,101,Very Active,Vegetarian
+22,Female,177,103,Moderately Active,Pescatarian
+27,Female,152,109,Sedentary,Vegan
+70,Male,198,56,Lightly Active,Vegan
+50,Female,153,104,Very Active,Vegetarian
+39,Male,181,70,Moderately Active,Vegan
+25,Female,165,105,Lightly Active,Vegetarian
+70,Female,178,65,Lightly Active,Omnivore
+21,Female,159,68,Moderately Active,Vegan
+78,Male,166,117,Lightly Active,Pescatarian
+30,Male,163,85,Lightly Active,Pescatarian
+32,Female,192,85,Lightly Active,Vegetarian
+52,Female,150,71,Sedentary,Pescatarian
+18,Male,152,92,Very Active,Omnivore
+22,Male,160,90,Very Active,Pescatarian
+58,Female,170,90,Moderately Active,Pescatarian
+52,Female,169,115,Very Active,Vegan
+38,Male,197,57,Very Active,Vegan
+32,Male,193,108,Moderately Active,Omnivore
+45,Female,153,90,Sedentary,Omnivore
+31,Male,198,66,Sedentary,Vegetarian
+39,Male,193,75,Very Active,Pescatarian
+49,Male,193,91,Very Active,Omnivore
+22,Female,155,63,Very Active,Vegan
+67,Female,198,91,Moderately Active,Vegetarian
+41,Male,168,111,Very Active,Omnivore
+61,Female,160,98,Moderately Active,Omnivore
+71,Female,179,115,Moderately Active,Omnivore
+22,Female,193,75,Very Active,Omnivore
+68,Male,196,63,Moderately Active,Vegetarian
+31,Male,198,103,Sedentary,Vegan
+42,Male,168,69,Lightly Active,Pescatarian
+71,Female,179,101,Lightly Active,Pescatarian
+31,Male,157,88,Lightly Active,Omnivore
+46,Female,168,69,Moderately Active,Vegetarian
+51,Male,176,79,Sedentary,Omnivore
+41,Male,168,80,Sedentary,Vegetarian
+76,Male,195,78,Moderately Active,Vegetarian
+43,Male,197,62,Moderately Active,Pescatarian
+78,Female,198,100,Sedentary,Vegetarian
+34,Female,182,115,Moderately Active,Pescatarian
+40,Female,159,65,Moderately Active,Omnivore
+67,Male,179,94,Moderately Active,Vegetarian
+23,Female,153,56,Sedentary,Vegan
+34,Male,152,68,Very Active,Vegetarian
+32,Male,174,100,Moderately Active,Vegan
+28,Male,191,80,Lightly Active,Pescatarian
+48,Female,188,70,Lightly Active,Vegan
+58,Female,171,113,Sedentary,Vegan
+58,Male,162,61,Lightly Active,Vegetarian
+71,Male,192,50,Lightly Active,Vegetarian
+42,Male,170,118,Moderately Active,Vegetarian
+52,Male,192,97,Sedentary,Vegetarian
+58,Male,159,70,Sedentary,Omnivore
+61,Male,151,51,Very Active,Omnivore
+26,Male,157,90,Lightly Active,Omnivore
+62,Male,192,110,Moderately Active,Vegetarian
+24,Female,166,101,Very Active,Omnivore
+33,Female,164,91,Moderately Active,Pescatarian
+54,Male,195,98,Very Active,Omnivore
+43,Male,184,63,Sedentary,Pescatarian
+33,Female,159,80,Lightly Active,Vegetarian
+32,Male,194,81,Lightly Active,Pescatarian
+54,Male,192,76,Sedentary,Pescatarian
+27,Male,160,52,Sedentary,Pescatarian
+59,Female,163,73,Sedentary,Vegetarian
+29,Female,152,69,Very Active,Vegan
+36,Male,151,100,Very Active,Vegetarian
+58,Female,159,59,Sedentary,Omnivore
+29,Female,170,67,Lightly Active,Vegetarian
+32,Female,199,63,Lightly Active,Vegan
+60,Female,156,56,Very Active,Vegan
+51,Male,189,66,Moderately Active,Pescatarian
+35,Female,192,85,Lightly Active,Vegetarian
+51,Male,161,84,Very Active,Vegetarian
+61,Male,195,91,Lightly Active,Vegetarian
+75,Male,163,91,Very Active,Pescatarian
+22,Female,168,117,Very Active,Pescatarian
+23,Male,178,76,Sedentary,Pescatarian
+61,Male,187,50,Very Active,Pescatarian
+57,Male,165,109,Lightly Active,Vegan
+67,Male,158,57,Moderately Active,Pescatarian
+22,Male,179,54,Lightly Active,Omnivore
+19,Female,199,64,Very Active,Pescatarian
+56,Male,177,51,Sedentary,Pescatarian
+71,Male,167,62,Sedentary,Vegetarian
+38,Male,192,105,Moderately Active,Vegan
+47,Male,170,96,Lightly Active,Vegetarian
+34,Female,159,55,Lightly Active,Omnivore
+73,Male,187,77,Moderately Active,Pescatarian
+23,Female,190,89,Lightly Active,Vegan
+36,Male,168,69,Very Active,Omnivore
+23,Female,163,66,Moderately Active,Omnivore
+26,Female,190,88,Sedentary,Omnivore
+32,Female,181,117,Sedentary,Vegetarian
+53,Male,183,108,Lightly Active,Vegan
+46,Female,165,85,Moderately Active,Pescatarian
+48,Female,150,50,Very Active,Vegan
+62,Male,171,103,Sedentary,Pescatarian
+59,Male,171,82,Lightly Active,Vegetarian
+22,Female,158,62,Lightly Active,Vegetarian
+44,Male,155,119,Sedentary,Vegan
+24,Male,173,74,Lightly Active,Omnivore
+41,Male,177,57,Lightly Active,Omnivore
+39,Female,192,55,Sedentary,Omnivore
+52,Female,165,75,Very Active,Vegetarian
+47,Female,170,104,Very Active,Pescatarian
+54,Female,186,116,Very Active,Pescatarian
+25,Female,150,53,Lightly Active,Vegan
+51,Female,174,93,Sedentary,Pescatarian
+79,Female,181,61,Sedentary,Pescatarian
+62,Male,169,75,Sedentary,Vegan
+32,Male,154,64,Very Active,Omnivore
+75,Male,153,80,Very Active,Omnivore
+37,Male,181,100,Very Active,Pescatarian
+31,Male,196,50,Very Active,Vegan
+53,Male,154,63,Moderately Active,Pescatarian
+71,Female,159,50,Lightly Active,Pescatarian
+71,Female,190,111,Lightly Active,Vegetarian
+21,Male,159,61,Moderately Active,Vegetarian
+28,Male,172,60,Lightly Active,Vegetarian
+36,Male,186,62,Sedentary,Vegetarian
+48,Male,151,94,Very Active,Vegan
+68,Male,174,103,Lightly Active,Pescatarian
+75,Female,185,51,Very Active,Pescatarian
+43,Female,161,95,Sedentary,Vegetarian
+21,Female,181,97,Lightly Active,Pescatarian
+31,Female,186,111,Very Active,Pescatarian
+33,Male,184,78,Very Active,Vegan
+41,Male,155,84,Moderately Active,Vegetarian
+72,Female,180,67,Lightly Active,Pescatarian
+71,Female,160,110,Lightly Active,Vegan
+71,Male,158,87,Sedentary,Omnivore
+76,Male,166,92,Very Active,Vegan
+21,Female,175,65,Lightly Active,Vegan
+46,Male,191,114,Moderately Active,Pescatarian
+27,Female,166,79,Sedentary,Vegan
+27,Male,154,73,Sedentary,Vegetarian
+49,Female,152,111,Lightly Active,Pescatarian
+25,Male,153,90,Very Active,Vegan
+55,Male,174,71,Sedentary,Omnivore
+73,Female,157,70,Very Active,Vegetarian
+41,Female,181,72,Moderately Active,Vegetarian
+55,Female,190,115,Moderately Active,Omnivore
+29,Female,198,77,Sedentary,Omnivore
+39,Female,173,52,Sedentary,Vegan
+56,Female,152,51,Sedentary,Pescatarian
+44,Female,194,50,Moderately Active,Omnivore
+40,Female,174,84,Moderately Active,Pescatarian
+35,Female,179,118,Moderately Active,Pescatarian
+57,Male,154,50,Sedentary,Omnivore
+53,Female,173,60,Lightly Active,Omnivore
+21,Female,154,112,Lightly Active,Pescatarian
+64,Male,178,90,Lightly Active,Pescatarian
+52,Female,168,86,Sedentary,Vegetarian
+28,Female,156,101,Moderately Active,Vegetarian
+50,Male,156,93,Sedentary,Vegan
+30,Male,186,55,Moderately Active,Vegetarian
+73,Female,152,61,Very Active,Vegan
+44,Male,197,71,Moderately Active,Pescatarian
+36,Male,179,75,Moderately Active,Vegetarian
+35,Male,152,107,Sedentary,Vegetarian
+77,Female,162,55,Moderately Active,Vegan
+54,Male,153,103,Sedentary,Vegan
+18,Male,183,80,Sedentary,Vegan
+63,Male,174,101,Very Active,Vegan
+61,Male,178,74,Sedentary,Vegan
+37,Male,196,70,Sedentary,Vegetarian
+26,Female,185,90,Moderately Active,Omnivore
+31,Female,160,59,Moderately Active,Vegan
+45,Female,157,70,Moderately Active,Vegetarian
+23,Female,192,92,Very Active,Pescatarian
+20,Male,182,92,Sedentary,Vegan
+51,Male,158,68,Very Active,Vegan
+75,Female,191,86,Sedentary,Pescatarian
+25,Male,197,109,Very Active,Vegan
+70,Female,151,116,Very Active,Pescatarian
+72,Male,191,69,Very Active,Pescatarian
+77,Female,196,60,Moderately Active,Omnivore
+60,Female,175,105,Moderately Active,Omnivore
+22,Male,168,72,Moderately Active,Pescatarian
+72,Female,169,111,Lightly Active,Pescatarian
+43,Female,169,62,Moderately Active,Pescatarian
+45,Female,174,53,Very Active,Omnivore
+37,Male,178,112,Moderately Active,Vegetarian
+75,Male,185,108,Lightly Active,Vegetarian
+63,Female,199,97,Moderately Active,Vegetarian
+41,Male,154,100,Moderately Active,Pescatarian
+23,Male,151,61,Lightly Active,Omnivore
+20,Female,199,94,Lightly Active,Omnivore
+61,Male,184,70,Very Active,Pescatarian
+66,Male,188,53,Sedentary,Vegan
+38,Female,183,113,Very Active,Pescatarian
+47,Female,157,91,Moderately Active,Vegan
+50,Male,191,111,Moderately Active,Vegan
+57,Female,187,103,Moderately Active,Omnivore
+53,Female,177,91,Moderately Active,Vegetarian
+41,Female,185,78,Very Active,Pescatarian
+73,Male,186,62,Sedentary,Pescatarian
+53,Female,194,114,Moderately Active,Vegetarian
+37,Female,155,101,Lightly Active,Pescatarian
+63,Female,196,85,Lightly Active,Vegan
+58,Male,190,95,Sedentary,Pescatarian
+23,Male,170,74,Lightly Active,Vegetarian
+77,Male,152,57,Moderately Active,Vegan
+70,Female,191,99,Moderately Active,Vegan
+49,Male,164,77,Lightly Active,Vegan
+30,Female,176,118,Sedentary,Pescatarian
+59,Female,151,87,Lightly Active,Vegan
+66,Male,186,117,Moderately Active,Vegetarian
+63,Male,191,88,Sedentary,Vegetarian
+73,Male,151,75,Moderately Active,Pescatarian
+46,Female,152,99,Lightly Active,Omnivore
+76,Female,172,109,Moderately Active,Vegetarian
+58,Female,185,57,Sedentary,Omnivore
+29,Female,157,50,Sedentary,Omnivore
+52,Male,176,114,Lightly Active,Vegan
+68,Female,169,113,Lightly Active,Vegan
+54,Female,175,72,Lightly Active,Vegan
+18,Female,160,53,Moderately Active,Vegan
+49,Female,186,112,Moderately Active,Omnivore
+78,Male,193,58,Moderately Active,Vegetarian
+76,Male,154,111,Sedentary,Vegan
+18,Female,170,52,Very Active,Pescatarian
+73,Female,186,62,Moderately Active,Vegan
+73,Female,153,110,Very Active,Vegetarian
+21,Female,153,116,Very Active,Vegetarian
+50,Female,166,104,Moderately Active,Pescatarian
+25,Female,181,75,Very Active,Vegan
+60,Female,164,69,Lightly Active,Vegan
+71,Female,153,107,Very Active,Pescatarian
+41,Male,159,108,Lightly Active,Pescatarian
+56,Male,192,81,Lightly Active,Pescatarian
+69,Female,193,69,Lightly Active,Omnivore
+54,Female,167,87,Moderately Active,Pescatarian
+46,Male,192,75,Very Active,Pescatarian
+19,Male,160,119,Moderately Active,Pescatarian
+33,Female,158,84,Lightly Active,Vegan
+39,Female,163,52,Sedentary,Vegan
+53,Male,174,67,Sedentary,Vegetarian
+30,Male,172,115,Lightly Active,Vegetarian
+37,Female,155,90,Moderately Active,Omnivore
+32,Male,196,57,Sedentary,Omnivore
+64,Female,162,118,Lightly Active,Vegan
+26,Female,157,96,Moderately Active,Vegetarian
+64,Male,185,62,Moderately Active,Omnivore
+42,Female,167,99,Very Active,Omnivore
+44,Male,182,57,Moderately Active,Pescatarian
+68,Male,188,83,Moderately Active,Omnivore
+34,Male,190,106,Sedentary,Vegetarian
+41,Female,161,51,Very Active,Vegetarian
+48,Female,195,82,Lightly Active,Vegan
+58,Female,183,97,Lightly Active,Vegetarian
+20,Female,162,74,Lightly Active,Omnivore
+28,Female,157,53,Moderately Active,Vegan
+21,Male,178,117,Moderately Active,Vegetarian
+41,Female,169,60,Sedentary,Vegan
+39,Male,175,50,Lightly Active,Vegetarian
+65,Female,185,88,Moderately Active,Pescatarian
+68,Female,196,108,Sedentary,Pescatarian
+61,Female,160,83,Moderately Active,Vegetarian
+64,Male,193,105,Moderately Active,Vegetarian
+34,Female,182,115,Lightly Active,Vegan
+49,Male,167,56,Lightly Active,Vegetarian
+57,Female,152,50,Lightly Active,Omnivore
+71,Female,169,104,Sedentary,Omnivore
+58,Male,154,111,Sedentary,Omnivore
+40,Female,164,68,Moderately Active,Omnivore
+26,Female,156,55,Lightly Active,Omnivore
+42,Male,158,100,Very Active,Pescatarian
+43,Female,158,74,Sedentary,Omnivore
+27,Female,191,66,Moderately Active,Vegetarian
+41,Male,196,82,Lightly Active,Vegan
+71,Female,199,50,Very Active,Vegetarian
+78,Female,168,77,Very Active,Vegan
+56,Female,186,67,Very Active,Vegan
+71,Male,168,103,Lightly Active,Vegetarian
+35,Female,176,56,Sedentary,Vegan
+39,Male,172,54,Moderately Active,Vegetarian
+25,Male,194,77,Moderately Active,Vegan
+40,Male,190,76,Very Active,Vegan
+46,Male,190,62,Sedentary,Pescatarian
+75,Male,174,50,Moderately Active,Omnivore
+23,Female,160,50,Very Active,Vegan
+55,Female,150,67,Sedentary,Omnivore
+41,Female,159,112,Sedentary,Vegetarian
+63,Female,176,90,Sedentary,Pescatarian
+42,Female,156,60,Moderately Active,Pescatarian
+55,Female,171,71,Sedentary,Omnivore
+55,Female,197,85,Lightly Active,Vegan
+39,Female,153,80,Lightly Active,Vegan
+34,Male,170,92,Lightly Active,Vegetarian
+64,Male,186,57,Sedentary,Pescatarian
+55,Female,197,87,Lightly Active,Vegan
+36,Female,153,57,Moderately Active,Pescatarian
+47,Male,161,103,Moderately Active,Pescatarian
+21,Female,185,69,Lightly Active,Vegan
+71,Male,158,66,Lightly Active,Vegetarian
+56,Female,173,119,Sedentary,Omnivore
+33,Male,188,92,Lightly Active,Pescatarian
+71,Female,154,69,Moderately Active,Pescatarian
+62,Male,161,112,Sedentary,Omnivore
+29,Female,180,93,Very Active,Vegan
+27,Female,157,75,Sedentary,Vegan
+37,Male,170,50,Lightly Active,Vegan
+41,Male,165,70,Moderately Active,Vegan
+31,Female,199,53,Lightly Active,Vegetarian
+37,Male,189,119,Lightly Active,Omnivore
+62,Female,189,77,Very Active,Pescatarian
+59,Male,179,59,Sedentary,Pescatarian
+21,Male,188,77,Very Active,Omnivore
+55,Male,196,51,Moderately Active,Vegan
+25,Male,150,53,Very Active,Vegan
+36,Female,177,66,Moderately Active,Omnivore
+61,Female,169,67,Sedentary,Pescatarian
+57,Male,170,97,Sedentary,Vegan
+75,Male,197,112,Moderately Active,Omnivore
+43,Male,176,91,Sedentary,Vegan
+50,Female,193,115,Sedentary,Pescatarian
+23,Male,187,68,Moderately Active,Pescatarian
+73,Male,189,72,Sedentary,Vegan
+73,Female,157,82,Lightly Active,Pescatarian
+31,Male,168,96,Moderately Active,Vegan
+73,Male,177,100,Lightly Active,Vegetarian
+63,Male,182,84,Very Active,Vegetarian
+39,Male,179,54,Very Active,Vegan
+65,Male,175,91,Sedentary,Vegan
+23,Female,183,101,Very Active,Omnivore
+34,Female,190,57,Very Active,Omnivore
+70,Female,169,79,Sedentary,Omnivore
+41,Female,159,108,Lightly Active,Vegetarian
+46,Male,164,106,Lightly Active,Vegan
+73,Female,177,93,Moderately Active,Pescatarian
+27,Female,172,52,Very Active,Vegan
+55,Male,160,85,Extremely Active,Omnivore
+19,Female,152,79,Lightly Active,Omnivore
+31,Female,184,92,Very Active,Vegan
+69,Female,151,60,Sedentary,Vegan
+39,Male,176,53,Extremely Active,Omnivore
+26,Female,151,97,Moderately Active,Omnivore
+23,Female,161,61,Extremely Active,Vegan
+42,Female,169,93,Lightly Active,Omnivore
+61,Male,170,64,Extremely Active,Omnivore
+41,Male,152,54,Moderately Active,Omnivore
+32,Male,170,94,Sedentary,Vegan
+28,Female,188,65,Sedentary,Vegetarian
+30,Male,164,59,Lightly Active,Omnivore
+65,Female,177,83,Moderately Active,Vegan
+49,Male,163,60,Lightly Active,Vegetarian
+69,Female,193,96,Extremely Active,Vegan
+21,Male,188,79,Extremely Active,Omnivore
+60,Female,160,53,Very Active,Omnivore
+30,Female,160,96,Extremely Active,Vegan
+27,Male,183,83,Moderately Active,Vegetarian
+70,Male,191,92,Moderately Active,Omnivore
+56,Male,175,94,Sedentary,Omnivore
+58,Female,159,85,Extremely Active,Omnivore
+63,Male,180,64,Sedentary,Vegan
+33,Female,198,92,Very Active,Vegan
+59,Male,160,86,Lightly Active,Vegetarian
+36,Female,157,95,Sedentary,Vegan
+49,Female,150,56,Extremely Active,Omnivore
+19,Female,193,85,Very Active,Vegan
+45,Male,188,63,Moderately Active,Vegan
+49,Female,152,61,Lightly Active,Vegan
+45,Female,152,75,Very Active,Vegan
+45,Female,154,73,Lightly Active,Vegan
+38,Female,186,90,Extremely Active,Vegan
+49,Female,197,65,Sedentary,Omnivore
+57,Male,153,81,Very Active,Omnivore
+28,Male,199,97,Moderately Active,Omnivore
+42,Female,181,97,Very Active,Vegetarian
+19,Female,190,67,Moderately Active,Omnivore
+56,Male,154,74,Very Active,Vegan
+39,Female,174,89,Extremely Active,Vegan
+19,Female,189,57,Moderately Active,Vegan
+49,Female,168,82,Sedentary,Vegan
+28,Female,170,58,Lightly Active,Omnivore
+25,Female,198,76,Moderately Active,Vegetarian
+49,Female,192,60,Very Active,Vegan
+27,Female,151,62,Extremely Active,Vegan
+31,Female,191,90,Very Active,Vegetarian
+34,Male,192,50,Extremely Active,Vegan
+46,Male,178,97,Extremely Active,Vegetarian
+43,Male,150,81,Very Active,Vegetarian
+51,Male,186,63,Lightly Active,Omnivore
+42,Female,169,86,Very Active,Vegan
+34,Female,188,68,Extremely Active,Vegan
+30,Male,150,86,Very Active,Vegan
+39,Female,169,91,Extremely Active,Omnivore
+62,Female,162,72,Very Active,Vegan
+61,Female,171,81,Sedentary,Vegetarian
+65,Female,200,74,Moderately Active,Vegetarian
+19,Female,170,71,Very Active,Vegetarian
+34,Female,168,97,Sedentary,Omnivore
+61,Female,178,82,Lightly Active,Vegan
+19,Male,181,57,Sedentary,Omnivore
+57,Female,186,67,Very Active,Vegan
+63,Female,197,63,Extremely Active,Vegan
+21,Female,189,67,Extremely Active,Omnivore
+43,Male,180,71,Extremely Active,Vegan
+34,Male,195,98,Extremely Active,Omnivore
+56,Female,170,88,Lightly Active,Omnivore
+63,Male,156,70,Moderately Active,Vegetarian
+36,Male,158,99,Sedentary,Vegetarian
+53,Female,156,96,Lightly Active,Vegetarian
+38,Male,192,85,Lightly Active,Omnivore
+23,Female,184,74,Moderately Active,Vegan
+49,Female,160,77,Lightly Active,Omnivore
+68,Male,152,53,Sedentary,Omnivore
+31,Female,172,78,Lightly Active,Vegan
+42,Female,156,58,Sedentary,Omnivore
+58,Female,167,54,Sedentary,Omnivore
+24,Male,184,96,Moderately Active,Vegetarian
+24,Female,170,85,Extremely Active,Vegan
+23,Female,199,92,Moderately Active,Omnivore
+48,Male,157,75,Very Active,Vegan
+49,Female,158,50,Extremely Active,Vegetarian
+47,Female,183,62,Very Active,Vegan
+29,Male,188,93,Moderately Active,Vegan
+50,Female,200,61,Very Active,Omnivore
+59,Male,168,87,Moderately Active,Vegan
+56,Male,163,53,Sedentary,Vegan
+56,Male,196,61,Lightly Active,Vegan
+31,Female,176,70,Very Active,Vegetarian
+70,Male,197,66,Extremely Active,Vegetarian
+23,Male,164,92,Extremely Active,Vegan
+56,Female,164,61,Lightly Active,Omnivore
+21,Male,187,72,Lightly Active,Vegan
+23,Male,168,56,Extremely Active,Omnivore
+35,Female,159,61,Moderately Active,Vegan
+65,Female,150,77,Sedentary,Omnivore
+41,Female,172,88,Moderately Active,Vegan
+70,Male,169,52,Moderately Active,Vegetarian
+33,Female,184,64,Sedentary,Omnivore
+39,Female,198,52,Lightly Active,Vegetarian
+47,Female,173,85,Sedentary,Vegan
+36,Male,197,81,Very Active,Omnivore
+49,Male,175,80,Very Active,Vegetarian
+54,Male,174,63,Very Active,Vegetarian
+65,Male,171,70,Lightly Active,Omnivore
+23,Male,196,91,Sedentary,Omnivore
+60,Male,200,73,Very Active,Vegetarian
+52,Male,195,85,Lightly Active,Vegetarian
+36,Female,172,83,Moderately Active,Omnivore
+67,Male,200,51,Extremely Active,Omnivore
+59,Female,186,83,Sedentary,Vegetarian
+26,Female,184,81,Moderately Active,Omnivore
+46,Male,153,52,Extremely Active,Vegan
+54,Female,183,98,Sedentary,Vegan
+22,Female,165,79,Extremely Active,Omnivore
+26,Male,174,54,Lightly Active,Vegetarian
+48,Female,193,57,Lightly Active,Vegetarian
+56,Female,196,80,Sedentary,Vegetarian
+26,Female,185,64,Sedentary,Vegetarian
+50,Female,173,59,Extremely Active,Vegetarian
+33,Female,184,50,Sedentary,Vegetarian
+26,Female,188,63,Sedentary,Vegetarian
+69,Female,179,86,Lightly Active,Vegan
+23,Female,195,60,Very Active,Vegan
+50,Male,156,64,Very Active,Vegetarian
+70,Male,170,80,Sedentary,Vegan
+60,Male,161,69,Very Active,Omnivore
+43,Female,197,85,Very Active,Omnivore
+25,Female,189,97,Lightly Active,Vegan
+60,Male,174,77,Very Active,Vegan
+56,Male,156,86,Sedentary,Vegan
+21,Male,157,54,Moderately Active,Omnivore
+67,Male,163,68,Sedentary,Vegetarian
+48,Female,164,97,Sedentary,Vegan
+43,Male,182,100,Very Active,Vegetarian
+37,Female,182,63,Sedentary,Omnivore
+48,Female,157,93,Sedentary,Omnivore
+28,Female,187,61,Sedentary,Vegetarian
+57,Male,150,71,Very Active,Vegetarian
+26,Male,157,83,Lightly Active,Omnivore
+56,Male,153,85,Extremely Active,Vegan
+63,Female,189,96,Moderately Active,Vegan
+59,Male,152,79,Sedentary,Omnivore
+64,Male,175,87,Sedentary,Vegetarian
+30,Female,163,97,Sedentary,Vegetarian
+32,Female,152,57,Very Active,Vegan
+41,Female,158,73,Lightly Active,Vegan
+33,Female,169,67,Extremely Active,Vegan
+32,Female,173,51,Very Active,Omnivore
+67,Female,182,72,Very Active,Vegetarian
+27,Female,194,57,Lightly Active,Vegan
+33,Male,167,86,Very Active,Vegetarian
+65,Male,187,77,Very Active,Vegan
+29,Male,159,76,Sedentary,Omnivore
+67,Female,161,51,Extremely Active,Omnivore
+43,Male,171,74,Sedentary,Omnivore
+49,Male,159,67,Sedentary,Omnivore
+28,Female,169,51,Very Active,Vegetarian
+42,Male,156,93,Lightly Active,Omnivore
+50,Female,156,84,Extremely Active,Vegetarian
+36,Female,153,58,Sedentary,Vegetarian
+24,Male,189,80,Lightly Active,Omnivore
+53,Male,174,64,Lightly Active,Vegetarian
+57,Male,196,75,Sedentary,Vegetarian
+49,Female,197,52,Lightly Active,Vegan
+31,Male,194,81,Extremely Active,Omnivore
+37,Male,170,74,Moderately Active,Omnivore
+28,Female,192,76,Very Active,Vegetarian
+53,Female,190,50,Very Active,Vegan
+41,Female,161,90,Sedentary,Vegan
+30,Male,184,94,Lightly Active,Vegetarian
+62,Female,181,55,Lightly Active,Vegetarian
+26,Male,191,75,Very Active,Vegan
+27,Male,163,97,Moderately Active,Omnivore
+33,Female,168,99,Very Active,Omnivore
+55,Female,171,66,Extremely Active,Vegetarian
+39,Male,185,86,Sedentary,Vegan
+53,Male,159,73,Very Active,Vegan
+28,Male,163,69,Sedentary,Omnivore
+60,Male,151,70,Sedentary,Vegan
+37,Male,181,65,Sedentary,Vegan
+65,Male,197,75,Sedentary,Omnivore
+68,Male,174,74,Extremely Active,Vegan
+55,Male,172,53,Sedentary,Vegan
+51,Male,159,51,Very Active,Vegan
+27,Male,171,89,Sedentary,Vegan
+40,Male,174,100,Moderately Active,Omnivore
+37,Male,184,99,Lightly Active,Omnivore
+42,Male,180,97,Moderately Active,Vegetarian
+40,Male,191,88,Very Active,Vegan
+40,Female,193,74,Extremely Active,Omnivore
+53,Male,180,90,Moderately Active,Vegetarian
+38,Female,189,75,Lightly Active,Vegetarian
+22,Male,185,79,Extremely Active,Omnivore
+57,Female,175,62,Sedentary,Vegan
+35,Male,190,62,Moderately Active,Omnivore
+43,Male,174,61,Moderately Active,Vegan
+64,Female,196,70,Extremely Active,Vegan
+46,Female,187,92,Moderately Active,Vegetarian
+40,Female,193,88,Lightly Active,Vegetarian
+51,Female,175,92,Moderately Active,Vegetarian
+62,Female,162,92,Lightly Active,Vegan
+45,Female,183,91,Moderately Active,Vegan
+45,Female,173,75,Extremely Active,Vegetarian
+27,Male,160,66,Moderately Active,Vegetarian
+64,Female,169,95,Moderately Active,Vegetarian
+34,Male,181,86,Moderately Active,Omnivore
+42,Male,195,99,Extremely Active,Vegan
+25,Female,182,52,Moderately Active,Vegetarian
+24,Male,168,53,Very Active,Omnivore
+26,Male,186,52,Moderately Active,Omnivore
+39,Male,200,53,Lightly Active,Vegetarian
+59,Female,185,91,Moderately Active,Vegan
+55,Male,183,84,Moderately Active,Vegan
+66,Male,158,79,Sedentary,Vegetarian
+52,Female,183,56,Lightly Active,Omnivore
+47,Female,186,71,Very Active,Omnivore
+40,Male,196,94,Moderately Active,Vegan
+38,Female,161,82,Very Active,Omnivore
+61,Female,155,89,Extremely Active,Omnivore
+43,Female,200,87,Moderately Active,Omnivore
+46,Male,173,98,Very Active,Vegetarian
+30,Female,179,84,Very Active,Vegan
+69,Male,153,74,Moderately Active,Omnivore
+56,Male,182,85,Sedentary,Vegetarian
+41,Male,176,95,Very Active,Vegetarian
+23,Male,160,57,Very Active,Vegan
+24,Female,178,69,Moderately Active,Vegetarian
+66,Female,156,99,Extremely Active,Omnivore
+70,Female,159,58,Sedentary,Vegetarian
+53,Female,171,62,Extremely Active,Vegan
+26,Female,183,58,Moderately Active,Vegan
+23,Male,172,100,Very Active,Vegetarian
+56,Female,190,81,Sedentary,Vegan
+36,Female,200,100,Lightly Active,Omnivore
+56,Male,176,86,Lightly Active,Vegetarian
+46,Female,169,85,Extremely Active,Omnivore
+50,Male,156,69,Moderately Active,Omnivore
+45,Male,195,80,Lightly Active,Vegan
+21,Female,174,52,Extremely Active,Vegan
+64,Female,151,98,Sedentary,Vegetarian
+64,Male,166,91,Moderately Active,Vegan
+66,Female,182,85,Extremely Active,Vegetarian
+22,Female,200,95,Moderately Active,Vegetarian
+39,Female,164,70,Sedentary,Vegetarian
+28,Male,165,76,Very Active,Vegan
+70,Male,170,89,Lightly Active,Vegetarian
+29,Female,173,65,Sedentary,Omnivore
+55,Male,192,58,Very Active,Vegan
+44,Female,154,92,Very Active,Vegan
+67,Female,173,73,Extremely Active,Vegetarian
+29,Female,186,80,Lightly Active,Vegan
+27,Female,150,91,Extremely Active,Omnivore
+58,Male,152,86,Lightly Active,Vegetarian
+62,Female,170,54,Sedentary,Vegan
+51,Male,155,98,Very Active,Omnivore
+64,Male,168,76,Very Active,Vegan
+49,Male,190,70,Sedentary,Vegetarian
+57,Male,163,56,Extremely Active,Vegan
+52,Female,162,55,Very Active,Vegetarian
+39,Male,178,87,Moderately Active,Omnivore
+45,Female,164,87,Lightly Active,Vegetarian
+25,Female,162,98,Sedentary,Vegan
+27,Male,153,66,Moderately Active,Vegetarian
+41,Female,183,72,Extremely Active,Vegetarian
+53,Female,153,72,Lightly Active,Omnivore
+46,Male,184,94,Sedentary,Omnivore
+22,Female,177,82,Lightly Active,Vegetarian
+68,Female,153,58,Extremely Active,Omnivore
+56,Male,191,59,Very Active,Vegetarian
+34,Male,199,69,Sedentary,Vegetarian
+48,Female,166,85,Lightly Active,Omnivore
+48,Female,175,99,Moderately Active,Vegetarian
+60,Female,177,67,Lightly Active,Vegan
+33,Male,151,58,Moderately Active,Vegetarian
+48,Female,184,86,Lightly Active,Vegan
+40,Female,178,66,Lightly Active,Omnivore
+64,Female,164,68,Extremely Active,Vegetarian
+68,Male,159,96,Sedentary,Omnivore
+62,Male,168,75,Very Active,Vegetarian
+47,Male,179,52,Extremely Active,Vegetarian
+66,Male,177,80,Sedentary,Omnivore
+70,Male,169,64,Sedentary,Vegetarian
+55,Male,192,68,Moderately Active,Vegan
+18,Female,165,54,Extremely Active,Vegetarian
+40,Male,156,89,Lightly Active,Vegetarian
+44,Male,182,78,Very Active,Omnivore
+21,Female,176,57,Extremely Active,Omnivore
+49,Female,186,57,Sedentary,Vegetarian
+67,Female,196,62,Sedentary,Vegetarian
+19,Male,185,68,Extremely Active,Vegan
+27,Female,189,66,Very Active,Vegetarian
+19,Male,163,100,Lightly Active,Omnivore
+53,Male,189,58,Extremely Active,Vegetarian
+65,Male,158,84,Extremely Active,Omnivore
+37,Female,152,98,Sedentary,Vegetarian
+69,Male,194,62,Extremely Active,Vegetarian
+43,Male,173,52,Extremely Active,Omnivore
+62,Female,195,90,Extremely Active,Omnivore
+19,Female,174,100,Moderately Active,Vegetarian
+47,Female,162,84,Very Active,Vegetarian
+19,Male,166,52,Lightly Active,Vegan
+52,Male,179,62,Extremely Active,Vegetarian
+64,Female,182,93,Very Active,Omnivore
+29,Female,181,85,Extremely Active,Vegan
+46,Female,175,75,Extremely Active,Omnivore
+25,Female,160,61,Lightly Active,Vegan
+28,Female,175,76,Extremely Active,Vegetarian
+49,Female,198,76,Lightly Active,Omnivore
+40,Female,183,58,Sedentary,Omnivore
+69,Female,161,85,Extremely Active,Omnivore
+54,Female,179,57,Moderately Active,Vegan
+27,Male,185,52,Moderately Active,Omnivore
+24,Male,198,87,Sedentary,Vegetarian
+42,Male,154,86,Lightly Active,Vegetarian
+57,Female,167,72,Lightly Active,Vegan
+60,Male,181,94,Moderately Active,Vegan
+27,Male,167,62,Sedentary,Omnivore
+45,Male,193,86,Moderately Active,Vegan
+37,Male,168,64,Lightly Active,Vegan
+29,Male,155,69,Lightly Active,Vegan
+50,Male,193,99,Lightly Active,Vegetarian
+52,Female,159,76,Moderately Active,Vegan
+61,Female,192,93,Extremely Active,Vegan
+41,Male,166,66,Very Active,Omnivore
+40,Male,165,66,Moderately Active,Omnivore
+37,Female,194,50,Sedentary,Omnivore
+44,Male,156,78,Moderately Active,Omnivore
+36,Male,165,82,Extremely Active,Vegetarian
+56,Male,184,69,Moderately Active,Vegetarian
+20,Female,156,96,Lightly Active,Vegetarian
+52,Female,172,54,Sedentary,Vegetarian
+47,Male,155,80,Very Active,Vegan
+23,Female,181,95,Extremely Active,Vegetarian
+41,Male,170,90,Extremely Active,Vegan
+65,Male,163,73,Moderately Active,Vegan
+39,Male,191,86,Moderately Active,Omnivore
+32,Male,188,81,Sedentary,Vegan
+29,Female,179,79,Extremely Active,Vegetarian
+69,Male,199,60,Lightly Active,Vegetarian
+35,Male,181,56,Extremely Active,Omnivore
+21,Male,177,60,Moderately Active,Vegan
+49,Female,151,57,Very Active,Omnivore
+70,Female,186,83,Sedentary,Vegan
+63,Female,186,96,Very Active,Omnivore
+42,Female,151,55,Extremely Active,Vegetarian
+49,Female,174,63,Lightly Active,Vegetarian
+64,Female,182,54,Lightly Active,Vegetarian
+21,Female,183,56,Very Active,Omnivore
+39,Male,166,67,Moderately Active,Vegan
+38,Female,150,58,Lightly Active,Vegan
+69,Female,179,58,Lightly Active,Vegan
+57,Female,188,59,Very Active,Omnivore
+43,Female,169,52,Extremely Active,Vegetarian
+42,Female,187,58,Lightly Active,Vegetarian
+28,Male,186,83,Lightly Active,Omnivore
+20,Female,153,96,Very Active,Vegan
+41,Female,159,74,Moderately Active,Vegan
+18,Female,168,75,Extremely Active,Vegetarian
+66,Female,195,94,Extremely Active,Vegan
+37,Male,180,51,Lightly Active,Vegan
+46,Female,169,100,Very Active,Omnivore
+34,Female,163,57,Lightly Active,Vegan
+56,Female,180,75,Very Active,Omnivore
+70,Male,196,84,Sedentary,Vegetarian
+66,Male,158,98,Sedentary,Omnivore
+50,Female,162,78,Sedentary,Omnivore
+23,Female,193,98,Moderately Active,Vegan
+33,Female,165,82,Extremely Active,Vegan
+23,Female,193,76,Sedentary,Vegetarian
+40,Male,152,82,Sedentary,Vegetarian
+20,Male,166,94,Lightly Active,Vegan
+21,Female,170,59,Extremely Active,Omnivore
+33,Male,173,77,Very Active,Vegetarian
+41,Male,199,52,Extremely Active,Vegan
+63,Male,188,100,Moderately Active,Omnivore
+69,Male,171,99,Extremely Active,Omnivore
+43,Male,169,64,Moderately Active,Vegetarian
+51,Female,193,100,Very Active,Vegan
+41,Female,153,56,Moderately Active,Vegan
+64,Female,182,70,Extremely Active,Vegetarian
+40,Female,199,58,Sedentary,Vegan
+67,Male,161,89,Sedentary,Vegan
+21,Male,188,84,Extremely Active,Omnivore
+52,Female,193,90,Lightly Active,Vegan
+21,Male,165,72,Moderately Active,Vegan
+25,Male,153,50,Very Active,Vegan
+58,Male,151,80,Lightly Active,Vegan
+19,Male,177,67,Moderately Active,Vegetarian
+32,Male,161,58,Sedentary,Omnivore
+55,Female,194,65,Very Active,Vegetarian
+37,Female,198,87,Sedentary,Vegan
+30,Male,179,78,Extremely Active,Vegetarian
+52,Male,175,98,Lightly Active,Omnivore
+42,Female,168,58,Extremely Active,Vegan
+56,Female,157,84,Moderately Active,Omnivore
+24,Male,188,51,Moderately Active,Omnivore
+18,Female,198,91,Extremely Active,Omnivore
+19,Male,191,93,Very Active,Vegan
+47,Female,190,78,Sedentary,Omnivore
+29,Female,153,88,Extremely Active,Vegetarian
+47,Male,175,90,Extremely Active,Vegan
+69,Female,162,98,Extremely Active,Omnivore
+69,Male,195,84,Moderately Active,Vegetarian
+44,Female,152,60,Extremely Active,Vegan
+56,Female,199,88,Moderately Active,Vegetarian
+23,Female,151,74,Lightly Active,Vegan
+60,Female,188,82,Extremely Active,Vegetarian
+60,Male,174,61,Very Active,Vegetarian
+35,Male,167,91,Moderately Active,Vegetarian
+32,Female,180,94,Extremely Active,Vegan
+34,Male,197,84,Sedentary,Vegan
+42,Female,183,82,Sedentary,Omnivore
+47,Male,168,89,Moderately Active,Vegan
+24,Male,166,80,Sedentary,Vegetarian
+41,Female,161,66,Moderately Active,Omnivore
+60,Male,150,57,Lightly Active,Vegetarian
+47,Female,188,54,Lightly Active,Vegetarian
+39,Male,181,97,Lightly Active,Vegan
+37,Female,181,81,Moderately Active,Vegan
+67,Male,188,72,Lightly Active,Omnivore
+23,Female,188,56,Sedentary,Vegetarian
+66,Female,177,85,Lightly Active,Vegetarian
+38,Female,179,65,Lightly Active,Vegan
+46,Female,165,67,Moderately Active,Vegetarian
+51,Male,189,60,Sedentary,Vegetarian
+52,Male,191,57,Moderately Active,Vegetarian
+30,Male,175,56,Very Active,Omnivore
+68,Male,198,79,Lightly Active,Vegetarian
+57,Male,185,77,Moderately Active,Omnivore
+30,Male,180,60,Extremely Active,Vegan
+67,Female,189,59,Sedentary,Omnivore
+65,Male,156,54,Extremely Active,Vegan
+33,Male,153,95,Very Active,Vegan
+18,Male,183,71,Sedentary,Vegan
+43,Female,194,94,Moderately Active,Omnivore
+46,Female,192,97,Very Active,Omnivore
+24,Female,186,67,Sedentary,Vegan
+23,Male,179,80,Moderately Active,Vegetarian
+60,Female,154,89,Lightly Active,Vegan
+18,Male,193,78,Lightly Active,Vegetarian
+42,Female,174,83,Very Active,Vegetarian
+43,Female,189,67,Lightly Active,Vegan
+36,Male,194,90,Lightly Active,Omnivore
+57,Male,158,55,Sedentary,Omnivore
+29,Male,164,63,Lightly Active,Vegetarian
+34,Male,200,63,Sedentary,Omnivore
+63,Male,181,59,Lightly Active,Vegetarian
+49,Female,153,54,Sedentary,Omnivore
+36,Female,183,61,Sedentary,Vegan
+27,Female,172,68,Lightly Active,Vegan
+69,Male,181,74,Moderately Active,Omnivore
+45,Female,195,88,Lightly Active,Vegan
+65,Female,190,78,Lightly Active,Vegetarian
+62,Male,200,73,Very Active,Vegetarian
+66,Male,161,69,Sedentary,Vegetarian
+36,Female,196,89,Extremely Active,Vegetarian
+48,Male,173,82,Sedentary,Vegan
+31,Male,172,67,Sedentary,Vegan
+58,Female,182,70,Sedentary,Vegan
+64,Male,171,82,Lightly Active,Omnivore
+55,Male,186,75,Sedentary,Omnivore
+55,Male,163,86,Sedentary,Omnivore
+51,Male,165,88,Extremely Active,Vegetarian
+32,Female,163,80,Extremely Active,Omnivore
+34,Male,195,83,Lightly Active,Vegan
+54,Male,187,85,Moderately Active,Vegan
+49,Female,170,54,Sedentary,Omnivore
+29,Male,200,87,Moderately Active,Vegan
+70,Male,193,68,Lightly Active,Vegan
+19,Female,189,59,Lightly Active,Vegan
+31,Male,183,94,Sedentary,Vegan
+32,Female,156,59,Very Active,Omnivore
+22,Male,196,58,Moderately Active,Omnivore
+54,Female,189,50,Lightly Active,Omnivore
+33,Male,168,62,Sedentary,Omnivore
+23,Female,187,73,Lightly Active,Omnivore
+57,Male,200,66,Moderately Active,Vegetarian
+55,Male,175,87,Very Active,Omnivore
+19,Male,151,54,Lightly Active,Vegan
+63,Female,153,55,Extremely Active,Vegan
+38,Female,193,100,Lightly Active,Vegan
+25,Male,166,75,Moderately Active,Vegetarian
+38,Male,151,97,Moderately Active,Vegetarian
+45,Male,179,100,Extremely Active,Omnivore
+22,Female,200,60,Moderately Active,Omnivore
+67,Female,195,68,Sedentary,Vegetarian
+31,Male,161,84,Extremely Active,Omnivore
+35,Female,157,50,Sedentary,Omnivore
+40,Female,199,93,Lightly Active,Omnivore
+61,Female,172,84,Lightly Active,Vegan
+42,Male,162,59,Moderately Active,Omnivore
+54,Female,184,75,Very Active,Vegan
+54,Male,193,54,Lightly Active,Vegan
+47,Female,169,63,Very Active,Vegan
+27,Female,175,58,Very Active,Omnivore
+20,Male,180,63,Lightly Active,Vegan
+21,Female,160,95,Lightly Active,Omnivore
+32,Female,166,74,Extremely Active,Vegetarian
+49,Male,172,70,Very Active,Vegetarian
+64,Male,181,83,Moderately Active,Omnivore
+38,Female,182,53,Sedentary,Omnivore
+18,Female,152,56,Moderately Active,Vegetarian
+56,Female,163,81,Lightly Active,Vegan
+67,Male,167,85,Sedentary,Omnivore
+39,Female,153,51,Extremely Active,Vegan
+66,Male,178,69,Sedentary,Omnivore
+24,Male,176,88,Sedentary,Omnivore
+34,Male,195,50,Extremely Active,Vegan
+43,Female,158,74,Extremely Active,Vegan
+21,Female,153,56,Sedentary,Omnivore
+28,Male,196,94,Extremely Active,Vegan
+41,Female,180,67,Lightly Active,Omnivore
+33,Female,165,58,Extremely Active,Omnivore
+62,Male,198,67,Very Active,Vegan
+46,Male,196,73,Very Active,Vegan
+23,Female,176,89,Moderately Active,Vegetarian
+65,Male,156,67,Moderately Active,Vegan
+34,Male,191,74,Lightly Active,Vegetarian
+55,Male,162,92,Moderately Active,Omnivore
+35,Female,164,78,Very Active,Vegan
+19,Male,162,52,Extremely Active,Omnivore
+32,Male,194,62,Lightly Active,Omnivore
+34,Female,188,90,Moderately Active,Vegetarian
+40,Female,156,68,Extremely Active,Vegan
+27,Male,159,75,Lightly Active,Omnivore
+60,Male,154,85,Lightly Active,Omnivore
+25,Male,167,95,Very Active,Omnivore
+21,Female,195,84,Moderately Active,Omnivore
+52,Female,165,91,Extremely Active,Vegetarian
+46,Male,188,93,Very Active,Omnivore
+36,Female,193,95,Moderately Active,Vegetarian
+62,Female,163,63,Extremely Active,Vegan
+64,Female,158,95,Very Active,Vegetarian
+46,Female,199,75,Extremely Active,Vegetarian
+59,Male,162,99,Sedentary,Vegetarian
+23,Female,184,100,Moderately Active,Omnivore
+56,Male,177,99,Extremely Active,Omnivore
+18,Male,163,61,Sedentary,Vegan
+56,Female,157,100,Very Active,Vegetarian
+62,Male,186,86,Extremely Active,Omnivore
+27,Male,179,72,Moderately Active,Vegan
+33,Male,200,80,Lightly Active,Vegan
+50,Female,197,73,Extremely Active,Vegetarian
+34,Female,162,61,Extremely Active,Vegetarian
+21,Male,159,94,Very Active,Vegan
+43,Female,187,84,Lightly Active,Vegetarian
+42,Female,200,74,Sedentary,Vegetarian
+22,Male,194,100,Extremely Active,Vegetarian
+36,Female,163,51,Moderately Active,Omnivore
+58,Female,154,72,Lightly Active,Vegetarian
+52,Female,184,94,Lightly Active,Vegan
+30,Female,162,60,Extremely Active,Vegan
+35,Female,172,99,Very Active,Vegetarian
+26,Male,182,92,Sedentary,Vegetarian
+27,Male,157,100,Moderately Active,Vegetarian
+21,Male,182,75,Extremely Active,Vegetarian
+19,Male,175,79,Sedentary,Vegan
+56,Female,176,92,Sedentary,Omnivore
+39,Male,181,92,Lightly Active,Vegetarian
+25,Male,179,88,Very Active,Vegetarian
+64,Female,183,61,Very Active,Vegan
+25,Male,169,79,Sedentary,Vegetarian
+39,Female,183,50,Very Active,Vegan
+63,Female,175,75,Moderately Active,Vegan
+25,Female,182,62,Moderately Active,Vegetarian
+63,Male,160,68,Very Active,Vegan
+64,Female,167,66,Very Active,Omnivore
+31,Female,184,67,Lightly Active,Vegetarian
+45,Female,177,61,Sedentary,Omnivore
+61,Male,171,56,Very Active,Vegetarian
+22,Female,155,51,Moderately Active,Vegan
+39,Female,197,61,Lightly Active,Omnivore
+64,Female,152,76,Lightly Active,Vegetarian
+50,Female,150,96,Sedentary,Vegan
+48,Female,184,68,Sedentary,Omnivore
+22,Male,177,82,Very Active,Vegan
+38,Male,160,77,Lightly Active,Vegetarian
+47,Male,186,66,Sedentary,Vegetarian
+60,Male,184,71,Lightly Active,Vegan
+68,Female,191,98,Lightly Active,Omnivore
+41,Female,164,99,Very Active,Vegan
+65,Female,156,51,Lightly Active,Vegetarian
+69,Male,158,82,Sedentary,Vegetarian
+55,Male,173,69,Sedentary,Vegan
+38,Male,161,69,Lightly Active,Vegan
+25,Male,150,85,Moderately Active,Vegan
+57,Female,151,64,Sedentary,Vegan
+56,Female,188,57,Lightly Active,Vegetarian
+23,Male,182,60,Very Active,Vegetarian
+20,Female,195,90,Extremely Active,Vegetarian
+47,Female,150,85,Very Active,Vegan
+35,Female,185,90,Sedentary,Omnivore
+54,Male,152,78,Very Active,Vegan
+46,Male,189,53,Very Active,Vegetarian
+59,Male,165,68,Lightly Active,Vegan
+46,Male,178,98,Very Active,Omnivore
+39,Male,179,78,Moderately Active,Vegetarian
+40,Male,182,75,Lightly Active,Vegetarian
+42,Male,168,77,Lightly Active,Omnivore
+39,Female,196,74,Extremely Active,Vegan
+34,Male,155,86,Lightly Active,Omnivore
+23,Male,163,86,Moderately Active,Omnivore
+62,Female,153,60,Moderately Active,Vegan
+69,Male,164,87,Sedentary,Vegan
+30,Male,159,65,Very Active,Vegan
+60,Male,166,63,Moderately Active,Vegan
+43,Male,199,68,Very Active,Vegetarian
+68,Female,195,87,Very Active,Vegetarian
+39,Male,155,85,Lightly Active,Omnivore
+54,Male,172,62,Sedentary,Omnivore
+54,Male,174,70,Moderately Active,Vegetarian
+52,Male,169,100,Very Active,Omnivore
+53,Female,187,66,Extremely Active,Vegetarian
+54,Female,161,69,Moderately Active,Omnivore
+30,Male,157,52,Lightly Active,Omnivore
+45,Female,197,96,Lightly Active,Vegan
+56,Female,185,90,Very Active,Vegetarian
+65,Female,183,52,Lightly Active,Omnivore
+25,Male,154,54,Moderately Active,Omnivore
+25,Male,180,63,Extremely Active,Omnivore
+59,Male,163,52,Moderately Active,Omnivore
+28,Male,166,91,Very Active,Vegan
+52,Female,172,90,Very Active,Vegan
+46,Male,181,87,Lightly Active,Omnivore
+58,Female,171,78,Lightly Active,Omnivore
+37,Male,184,76,Lightly Active,Omnivore
+35,Female,193,100,Extremely Active,Vegetarian
+58,Male,167,56,Very Active,Vegan
+49,Female,175,71,Sedentary,Vegetarian
+62,Male,198,75,Sedentary,Vegan
+47,Female,166,97,Moderately Active,Vegan
+32,Male,158,66,Lightly Active,Omnivore
+61,Female,169,68,Extremely Active,Omnivore
+44,Male,184,79,Sedentary,Vegan
+43,Female,160,83,Extremely Active,Vegan
+24,Male,178,83,Moderately Active,Omnivore
+29,Male,166,99,Very Active,Omnivore
+45,Male,156,79,Lightly Active,Vegan
+39,Female,172,60,Extremely Active,Vegan
+52,Male,197,68,Sedentary,Omnivore
+21,Male,193,74,Extremely Active,Vegetarian
+22,Male,157,80,Extremely Active,Omnivore
+38,Male,185,79,Sedentary,Vegetarian
+45,Female,151,78,Lightly Active,Omnivore
+38,Female,157,93,Sedentary,Vegan
+48,Male,160,64,Lightly Active,Vegetarian
+21,Female,188,94,Lightly Active,Omnivore
+69,Female,194,77,Extremely Active,Vegan
+68,Male,157,82,Moderately Active,Omnivore
+30,Female,183,90,Extremely Active,Vegan
+20,Male,163,70,Very Active,Omnivore
+66,Female,164,90,Very Active,Omnivore
+28,Male,151,79,Very Active,Omnivore
+68,Female,187,50,Sedentary,Omnivore
+30,Female,154,97,Very Active,Vegan
+70,Male,176,52,Extremely Active,Omnivore
+20,Male,179,94,Moderately Active,Vegan
+23,Male,187,83,Moderately Active,Vegetarian
+29,Female,173,88,Moderately Active,Omnivore
+54,Male,159,70,Moderately Active,Omnivore
+48,Male,170,76,Moderately Active,Vegan
+68,Male,184,90,Extremely Active,Vegetarian
+65,Female,192,88,Extremely Active,Omnivore
+32,Female,151,92,Sedentary,Omnivore
+46,Female,156,80,Extremely Active,Vegan
+70,Female,170,52,Moderately Active,Vegetarian
+50,Male,155,60,Moderately Active,Omnivore
+35,Female,152,88,Moderately Active,Omnivore
+41,Female,157,54,Sedentary,Vegetarian
+63,Female,166,56,Moderately Active,Vegan
+51,Male,178,53,Moderately Active,Vegan
+32,Female,160,58,Lightly Active,Vegetarian
+52,Male,153,65,Lightly Active,Vegetarian
+40,Male,198,74,Sedentary,Vegan
+21,Male,183,59,Moderately Active,Vegan
+19,Female,196,52,Very Active,Omnivore
+45,Male,157,53,Moderately Active,Vegetarian
+21,Male,175,96,Very Active,Vegan
+59,Male,179,84,Very Active,Vegetarian
+28,Male,156,69,Lightly Active,Vegetarian
+50,Female,186,92,Very Active,Omnivore
+22,Female,167,91,Extremely Active,Omnivore
+30,Female,193,96,Sedentary,Vegan
+32,Female,169,73,Sedentary,Vegan
+67,Female,193,52,Lightly Active,Omnivore
+51,Female,195,96,Extremely Active,Vegetarian
+43,Male,175,82,Lightly Active,Omnivore
+67,Male,179,69,Very Active,Vegetarian
+25,Male,170,88,Sedentary,Vegetarian
+21,Female,180,99,Extremely Active,Omnivore
+50,Male,176,62,Sedentary,Vegan
+53,Female,182,76,Sedentary,Vegan
+38,Male,150,76,Very Active,Vegan
+57,Male,165,73,Very Active,Vegan
+40,Male,166,91,Extremely Active,Vegan
+54,Female,198,75,Sedentary,Vegetarian
